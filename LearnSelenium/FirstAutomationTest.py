@@ -13,47 +13,53 @@ import time
 # driver = webdriver.Chrome(service = Service(ChromeDriverManager().install()))
 # driver = webdriver.Chrome('E:/TEMP/selenium/browser_drivers/chromedriver.exe')
 
-for i in range(0, 10, 1):
-    servs = Service(ChromeDriverManager().install())
-    opts = Options()
-    opts.add_argument('--incognito')
-    driver = webdriver.Chrome(service=servs, options=opts)
-    #driver = webdriver.Chrome(service=servs)
+def chrome_conn (URL, iter, timer):
 
-    # 《異次元—解密》 主題：揭穿－三維空間假相
-    #driver.get('https://s.eqxiu.cn/s/0lkTXVid')
-    #time.sleep(5)
+    for i in range(0, iter, 1):
+        servs = Service(ChromeDriverManager().install())
+        opts = Options()
+        opts.add_argument('--incognito')
+        driver = webdriver.Chrome(service=servs, options=opts)
+        #driver = webdriver.Chrome(service=servs)
 
-    # 外現聲聞身－內秘菩薩行…第56集《維摩詰經》…#北大聖玄 #覺曦軒
-    #driver.get('https://www.youtube.com/watch?v=oonruVoXOf0')
-    #time.sleep(480)
+        # chrome connect to URL
+        driver.get(URL)
 
-    # 《跨领域－重磅对话》…时代前沿对话！ 第56集 《维摩诘经》…全球直播教学视频 主题：外现声闻身－内秘菩萨行
-    #driver.get('https://v.eqxiu.cn/s/DBGJLWnW')
-    #time.sleep(3)
-
-    # 《聖玄語露·第14-6集》生命中最重要的兩天： 出生當天，以及覺悟生命存在意義的那一天。
-    driver.get('https://www.youtube.com/watch?v=6qs9wqdmsSM')
-    time.sleep(360)
-    # driver.get('https://v.eqxiu.cn/s/FlHSB3TW?bt=yxy')
-
-    # 共生·共贏－全球戰疫
-    #driver.get('https://v.eqxiu.cn/s/3zW8XTxG')
-    #time.sleep(3)
-
-    # Set URL 壯闊中的溫柔—獻給人父
-    # driver.get('https://s.eqxiu.cn/s/QEGRw46u')
-
-    # 均衡身心靈‧妙法出奇制勝 第6集《10分鐘·奇葩&閨蜜》  主題：出奇制勝－世間+ 出世間法
-    #driver.get('https://c.scene.ryxiut.net/s/9mUa5tLm/')
+        # driver.maximize_window()
+        print(driver.title, ' - ', i + 1)
+        time.sleep(timer)
+        driver.close()
 
 
-    # 里外不是人－生死一如
-    # driver.get('https://s.eqxiu.cn/s/OzccsTBN')
-    # time.sleep(3)
+# 《異次元—解密》 主題：揭穿－三維空間假相
+#chrome_conn('https://s.eqxiu.cn/s/0lkTXVid', 1, 10)
+
+# 220618 外現聲聞身－內秘菩薩行…第56集《維摩詰經》…#北大聖玄 #覺曦軒
+#chrome_conn('https://www.youtube.com/watch?v=oonruVoXOf0', 1, 480)
+
+# 220617 《跨领域－重磅对话》…时代前沿对话！ 第56集 《维摩诘经》…全球直播教学视频 主题：外现声闻身－内秘菩萨行
+#chrome_conn('https://v.eqxiu.cn/s/DBGJLWnW', 10, 10)
+
+# 220625 - 《10分鐘·奇葩＆閨蜜》 臨終關懷起源—人性需求
+chrome_conn('https://www.youtube.com/watch?v=CjCG4lx8DD8', 10, 290)
+#chrome_conn('https://v.eqxiu.cn/s/4gOU847g?bt=yxy', 10, 10)
+
+# 《聖玄語露·第14-6集》生命中最重要的兩天： 出生當天，以及覺悟生命存在意義的那一天。
+# chrome_conn('https://www.youtube.com/watch?v=6qs9wqdmsSM', 10, 10)
+# chrome_conn'https://v.eqxiu.cn/s/FlHSB3TW?bt=yxy'. 10. 10)
+
+# 共生·共贏－全球戰疫
+#chrome_conn('https://v.eqxiu.cn/s/3zW8XTxG', 10, 10)
+
+# Set URL 壯闊中的溫柔—獻給人父
+# chrome_conn('https://s.eqxiu.cn/s/QEGRw46u', 10, 10)
+
+# 均衡身心靈‧妙法出奇制勝 第6集《10分鐘·奇葩&閨蜜》  主題：出奇制勝－世間+ 出世間法
+# chrome_conn('https://c.scene.ryxiut.net/s/9mUa5tLm/', 10, 10)
 
 
-    # driver.maximize_window()
-    print(driver.title, ' - ', i+1)
-    # time.sleep(3)
-    driver.close()
+# 里外不是人－生死一如
+# driver.get('https://s.eqxiu.cn/s/OzccsTBN')
+# time.sleep(3)
+
+
