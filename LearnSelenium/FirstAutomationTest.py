@@ -50,6 +50,9 @@ def chrome_conn(url, iter, timer):
 # 220630 《微言悅享》主題：大臼齒與主人的對話; 大臼齒與主人的親密關係！…有情、非情…來自同一終極本質！
 chrome_conn('https://s.eqxiu.cn/s/BpKCU61d?bt=yxy', 50, 10)
 
+# 220630 DT: 《異次元—解密》主題：見相非相 - 空間扭曲
+chrome_conn('https://s.eqxiu.cn/s/4TQFtLQo', 10, 10)
+
 # 220629 第63集《10分鐘·奇葩＆閨蜜》 🌺🌺主題：臨終關懷－五全照顧 (善生、善終…生死兩無憾！)
 # https://www.youtube.com/watch?v=i5vx63X9Ors
 #chrome_conn('https://a.scene.ryxiut.net/s/tH1pXUEb/1656457671824', 50, 10)
