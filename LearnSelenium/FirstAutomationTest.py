@@ -37,7 +37,7 @@ def chrome_conn(url, iter, timer):
 
 
 # 《異次元—解密》 主題：揭穿－三維空間假相
-# chrome_conn('https://s.eqxiu.cn/s/0lkTXVid', 1, 10)
+# chrome_conn('https://s.eqxiu.cn/s/0lkTXVid', 50, 10)
 #chrome_conn('https://a.scene.ryxiut.net/s/0lkTXVid/1656467885377', 50, 10)
 
 # 均衡身心靈‧妙法出奇制勝 第6集《10分鐘·奇葩&閨蜜》  主題：出奇制勝－世間+ 出世間法
@@ -47,9 +47,12 @@ def chrome_conn(url, iter, timer):
 #chrome_conn('https://www.youtube.com/watch?v=UMNKSNIAt8I', 10, 500)
 # chrome_conn('https://s.eqxiu.cn/s/SOcpPeOv', 20, 10)
 
+# 220630 《微言悅享》主題：大臼齒與主人的對話; 大臼齒與主人的親密關係！…有情、非情…來自同一終極本質！
+chrome_conn('https://s.eqxiu.cn/s/BpKCU61d?bt=yxy', 50, 10)
+
 # 220629 第63集《10分鐘·奇葩＆閨蜜》 🌺🌺主題：臨終關懷－五全照顧 (善生、善終…生死兩無憾！)
 # https://www.youtube.com/watch?v=i5vx63X9Ors
-chrome_conn('https://a.scene.ryxiut.net/s/tH1pXUEb/1656457671824', 50, 10)
+#chrome_conn('https://a.scene.ryxiut.net/s/tH1pXUEb/1656457671824', 50, 10)
 
 # 220628 《異次元—解密》信息場奧秘…進入信息場…有方法！ 主題：適者生存－信息場成長與演化
 # chrome_conn('https://v.eqxiu.cn/s/0RWASSU5', 50, 10)
