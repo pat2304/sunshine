@@ -49,6 +49,7 @@ def chrome_conn(url, iter, timer):
 
 # 《圣玄语露·第14-7集》 生命内在觉醒，是不可替代的永恒真幸福！
 chrome_conn('https://www.youtube.com/watch?v=0iTzkoL9-VY', 10, 240)
+chrome_conn('https://v.eqxiu.cn/s/Aletmrg1', 10, 10)
 
 # 220630 《微言悅享》主題：大臼齒與主人的對話; 大臼齒與主人的親密關係！…有情、非情…來自同一終極本質！
 #chrome_conn('https://s.eqxiu.cn/s/BpKCU61d?bt=yxy', 50, 10)
