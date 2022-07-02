@@ -47,9 +47,12 @@ def chrome_conn(url, iter, timer):
 #chrome_conn('https://www.youtube.com/watch?v=UMNKSNIAt8I', 10, 500)
 # chrome_conn('https://s.eqxiu.cn/s/SOcpPeOv', 20, 10)
 
-# 《圣玄语露·第14-7集》 生命内在觉醒，是不可替代的永恒真幸福！
-chrome_conn('https://www.youtube.com/watch?v=0iTzkoL9-VY', 10, 240)
-chrome_conn('https://v.eqxiu.cn/s/Aletmrg1', 10, 10)
+# 220702 《10分鐘·奇葩＆閨蜜》第64集 主題：生命回顧－導負為正; 重走舊時路…賦予新意義！
+chrome_conn('https://www.youtube.com/watch?v=Pd3qSMDXmNg', 10, 346)
+
+# 220701 《圣玄语露·第14-7集》 生命内在觉醒，是不可替代的永恒真幸福！
+#chrome_conn('https://www.youtube.com/watch?v=0iTzkoL9-VY', 10, 240)
+#chrome_conn('https://v.eqxiu.cn/s/Aletmrg1', 10, 10)
 
 # 220630 《微言悅享》主題：大臼齒與主人的對話; 大臼齒與主人的親密關係！…有情、非情…來自同一終極本質！
 #chrome_conn('https://s.eqxiu.cn/s/BpKCU61d?bt=yxy', 50, 10)
