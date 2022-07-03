@@ -43,12 +43,16 @@ def chrome_conn(url, iter, timer):
 # 均衡身心靈‧妙法出奇制勝 第6集《10分鐘·奇葩&閨蜜》  主題：出奇制勝－世間+ 出世間法
 #chrome_conn('https://c.scene.ryxiut.net/s/9mUa5tLm/', 10, 10)
 
+# 220703 《跨領域－重磅對話》…時代前沿對話！ 第58集 《維摩詰經》…全球直播教學視頻 🌺🌺🌺主題：無相、無作、無起－菩薩行
+chrome_conn('https://www.youtube.com/watch?v=E11unQn9bvk', 10, 500)
+# chrome_conn('https://v.eqxiu.cn/s/K40QrnS1?bt=yxy', 20, 10)
+
 # 220626 《跨領域－重磅對話》…時代前沿對話！ 第57集 《維摩詰經》…全球直播教學視頻 主題：雖行於空－植種德本
 #chrome_conn('https://www.youtube.com/watch?v=UMNKSNIAt8I', 10, 500)
 # chrome_conn('https://s.eqxiu.cn/s/SOcpPeOv', 20, 10)
 
 # 220702 《10分鐘·奇葩＆閨蜜》第64集 主題：生命回顧－導負為正; 重走舊時路…賦予新意義！
-chrome_conn('https://www.youtube.com/watch?v=Pd3qSMDXmNg', 10, 346)
+#chrome_conn('https://www.youtube.com/watch?v=Pd3qSMDXmNg', 10, 348)
 
 # 220701 《圣玄语露·第14-7集》 生命内在觉醒，是不可替代的永恒真幸福！
 #chrome_conn('https://www.youtube.com/watch?v=0iTzkoL9-VY', 10, 240)
