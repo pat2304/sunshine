@@ -44,8 +44,12 @@ def chrome_conn(url, iter, timer):
 #chrome_conn('https://c.scene.ryxiut.net/s/9mUa5tLm/', 10, 10)
 
 # 220703 《跨領域－重磅對話》…時代前沿對話！ 第58集 《維摩詰經》…全球直播教學視頻 🌺🌺🌺主題：無相、無作、無起－菩薩行
-chrome_conn('https://www.youtube.com/watch?v=E11unQn9bvk', 10, 500)
+#chrome_conn('https://www.youtube.com/watch?v=E11unQn9bvk', 10, 500)
 # chrome_conn('https://v.eqxiu.cn/s/K40QrnS1?bt=yxy', 20, 10)
+
+# 220704 解套·死局…人人必修的學分…#煩惱·DUCK不必 🌺🌺 第5集…主題：解套·死局
+# https://www.youtube.com/watch?v=cIrHY-k7wnQ
+https://v.eqxiu.cn/s/Psb3JZID?bt=yxy
 
 # 220626 《跨領域－重磅對話》…時代前沿對話！ 第57集 《維摩詰經》…全球直播教學視頻 主題：雖行於空－植種德本
 #chrome_conn('https://www.youtube.com/watch?v=UMNKSNIAt8I', 10, 500)
