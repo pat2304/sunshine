@@ -13,8 +13,8 @@ import time
 # driver = webdriver.Chrome(service = Service(ChromeDriverManager().install()))
 # driver = webdriver.Chrome('E:/TEMP/selenium/browser_drivers/chromedriver.exe')
 
-def chrome_conn(url, iter, timer):
-    error = 0
+def chrome_conn(url, iter, timer, reload):
+    fail_connect = fail_refresh = 0
 
     for i in range(0, iter, 1):
         servs = Service(ChromeDriverManager().install())
@@ -27,29 +27,40 @@ def chrome_conn(url, iter, timer):
         try:
             driver.get(url)
         except:
-            error += 1
-            print('Error => ', error)
+            fail_connect += 1
+            print('Fail to connect => ', fail_connect)
+            driver.refresh()
 
         # driver.maximize_window()
         print(driver.title, ' - ', i + 1)
         time.sleep(timer)
+        for j in range(0, reload, 1):
+            try:
+                driver.refresh()
+                time.sleep(timer)
+            except:
+                fail_refresh += 1
+                print('Error in Refresh => ', fail_refresh)
         driver.close()
 
 
 # 《異次元—解密》 主題：揭穿－三維空間假相
-# chrome_conn('https://s.eqxiu.cn/s/0lkTXVid', 50, 10)
-#chrome_conn('https://a.scene.ryxiut.net/s/0lkTXVid/1656467885377', 50, 10)
+# chrome_conn('https://s.eqxiu.cn/s/0lkTXVid', 50, 10, 3)
+#chrome_conn('https://a.scene.ryxiut.net/s/0lkTXVid/1656467885377', 50, 10, 3)
 
 # 均衡身心靈‧妙法出奇制勝 第6集《10分鐘·奇葩&閨蜜》  主題：出奇制勝－世間+ 出世間法
-#chrome_conn('https://c.scene.ryxiut.net/s/9mUa5tLm/', 10, 10)
+chrome_conn('https://c.scene.ryxiut.net/s/9mUa5tLm/', 50, 8, 3)
 
 # 220703 《跨領域－重磅對話》…時代前沿對話！ 第58集 《維摩詰經》…全球直播教學視頻 🌺🌺🌺主題：無相、無作、無起－菩薩行
-#chrome_conn('https://www.youtube.com/watch?v=E11unQn9bvk', 10, 500)
-# chrome_conn('https://v.eqxiu.cn/s/K40QrnS1?bt=yxy', 20, 10)
+#chrome_conn('https://www.youtube.com/watch?v=E11unQn9bvk', 20, 500, 0)
+# chrome_conn('https://v.eqxiu.cn/s/K40QrnS1?bt=yxy', 20, 10, 3)
+
+# 220705 《異次元—解密》🌺🌺主題：念波－透視能力，意識透視能力，人皆有之！…端視念波頻率、強度而論斷。
+chrome_conn('https://v.eqxiu.cn/s/drvgK3JV', 50, 8, 3)
 
 # 220704 解套·死局…人人必修的學分…#煩惱·DUCK不必 🌺🌺 第5集…主題：解套·死局
-# chrome_conn('https://www.youtube.com/watch?v=cIrHY-k7wnQ', 10, 264)
-chrome_conn('https://v.eqxiu.cn/s/Psb3JZID?bt=yxy', 50, 10)
+# chrome_conn('https://www.youtube.com/watch?v=cIrHY-k7wnQ', 10, 264, 0)
+#chrome_conn('https://v.eqxiu.cn/s/Psb3JZID?bt=yxy', 10, 10, 3)
 
 # 220626 《跨領域－重磅對話》…時代前沿對話！ 第57集 《維摩詰經》…全球直播教學視頻 主題：雖行於空－植種德本
 #chrome_conn('https://www.youtube.com/watch?v=UMNKSNIAt8I', 10, 500)
