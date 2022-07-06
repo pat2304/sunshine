@@ -49,14 +49,17 @@ def chrome_conn(url, iter, timer, reload):
 #chrome_conn('https://a.scene.ryxiut.net/s/0lkTXVid/1656467885377', 50, 10, 3)
 
 # 均衡身心靈‧妙法出奇制勝 第6集《10分鐘·奇葩&閨蜜》  主題：出奇制勝－世間+ 出世間法
-chrome_conn('https://c.scene.ryxiut.net/s/9mUa5tLm/', 50, 8, 3)
+#chrome_conn('https://c.scene.ryxiut.net/s/9mUa5tLm/', 50, 8, 3)
 
 # 220703 《跨領域－重磅對話》…時代前沿對話！ 第58集 《維摩詰經》…全球直播教學視頻 🌺🌺🌺主題：無相、無作、無起－菩薩行
-#chrome_conn('https://www.youtube.com/watch?v=E11unQn9bvk', 20, 500, 0)
+chrome_conn('https://www.youtube.com/watch?v=E11unQn9bvk', 10, 500, 0)
 # chrome_conn('https://v.eqxiu.cn/s/K40QrnS1?bt=yxy', 20, 10, 3)
 
+# 220706 《10分鐘·奇葩＆閨蜜》第65集; 🌺🌺主題：三輪體空－最高階佈施; 三輪體空…無盡福田的代言…最高階的佈施！
+chrome_conn('https://www.youtube.com/watch?v=czDUOUE-UqA', 10, 329, 0)
+
 # 220705 《異次元—解密》🌺🌺主題：念波－透視能力，意識透視能力，人皆有之！…端視念波頻率、強度而論斷。
-chrome_conn('https://v.eqxiu.cn/s/drvgK3JV', 50, 8, 3)
+#chrome_conn('https://v.eqxiu.cn/s/drvgK3JV', 50, 8, 3)
 
 # 220704 解套·死局…人人必修的學分…#煩惱·DUCK不必 🌺🌺 第5集…主題：解套·死局
 # chrome_conn('https://www.youtube.com/watch?v=cIrHY-k7wnQ', 10, 264, 0)
