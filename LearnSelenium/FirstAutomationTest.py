@@ -20,7 +20,9 @@ def chrome_conn(url, iter, timer, reload):
         servs = Service(ChromeDriverManager().install())
         opts = Options()
         opts.add_argument('--incognito')
+        opts.add_argument('--mute-audio')
         driver = webdriver.Chrome(service=servs, options=opts)
+        driver.minimize_window()
         #driver = webdriver.Chrome(service=servs)
 
         # chrome connect to URL
