@@ -22,7 +22,6 @@ def chrome_conn(url, iter, timer, reload):
         opts.add_argument('--incognito')
         opts.add_argument('--mute-audio')
         driver = webdriver.Chrome(service=servs, options=opts)
-        driver.minimize_window()
         #driver = webdriver.Chrome(service=servs)
 
         # chrome connect to URL
@@ -32,6 +31,7 @@ def chrome_conn(url, iter, timer, reload):
             fail_connect += 1
             print('Fail to connect => ', fail_connect)
             driver.refresh()
+        driver.minimize_window()
 
         # driver.maximize_window()
         print(driver.title, ' - ', i + 1)
@@ -43,28 +43,32 @@ def chrome_conn(url, iter, timer, reload):
             except:
                 fail_refresh += 1
                 print('Error in Refresh => ', fail_refresh)
+
         driver.close()
 
 
 # 《異次元—解密》 主題：揭穿－三維空間假相
 # chrome_conn('https://s.eqxiu.cn/s/0lkTXVid', 50, 10, 3)
-#chrome_conn('https://a.scene.ryxiut.net/s/0lkTXVid/1656467885377', 50, 10, 3)
+#chrome_conn('https://a.scene.ryxiut.net/s/0lkTXVid/1656467885377', 50, 8, 3)
 
 # 均衡身心靈‧妙法出奇制勝 第6集《10分鐘·奇葩&閨蜜》  主題：出奇制勝－世間+ 出世間法
 #chrome_conn('https://c.scene.ryxiut.net/s/9mUa5tLm/', 50, 8, 3)
 
 # 220703 《跨領域－重磅對話》…時代前沿對話！ 第58集 《維摩詰經》…全球直播教學視頻 🌺🌺🌺主題：無相、無作、無起－菩薩行
-#chrome_conn('https://www.youtube.com/watch?v=E11unQn9bvk', 10, 500, 0)
+chrome_conn('https://www.youtube.com/watch?v=E11unQn9bvk', 10, 500, 0)
 # chrome_conn('https://v.eqxiu.cn/s/K40QrnS1?bt=yxy', 20, 10, 3)
 
+# 220709 《10分鐘·奇葩＆閨蜜》第66集; 主題：解套－命運束縛，突破心理學極限…解套命運束縛！
+chrome_conn('https://www.youtube.com/watch?v=gwyllM0vMS4', 10, 365, 0)
+
 # 220708 《聖玄語露·第14-8集》 小聰明，製造歧異; 大智慧，和諧解套歧異！
-chrome_conn('https://www.youtube.com/watch?v=2NiJppBBXVU', 10, 276, 0)
+#chrome_conn('https://www.youtube.com/watch?v=2NiJppBBXVU', 10, 276, 0)
 
 # 220707 《微言悅享》主題：震撼開示—脫胎轉化; 久病床前無孝子…轉化思惟，則雙贏！…震撼開示，不可思議！
 # chrome_conn('https://youtu.be/H-lNH__Tznc', 300, 10, 0)
 
 # 《微言悅享》主題：震撼開示—脫胎轉化; 久病床前無孝子…轉化思惟，則雙贏！…震撼開示，不可思議！
-chrome_conn('https://www.youtube.com/watch?v=H-lNH__Tznc', 10, 300, 0)
+# chrome_conn('https://www.youtube.com/watch?v=H-lNH__Tznc', 10, 300, 0)
 
 # 220706 《10分鐘·奇葩＆閨蜜》第65集; 🌺🌺主題：三輪體空－最高階佈施; 三輪體空…無盡福田的代言…最高階的佈施！
 #chrome_conn('https://www.youtube.com/watch?v=czDUOUE-UqA', 10, 329, 0)
