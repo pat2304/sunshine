@@ -31,10 +31,11 @@ def chrome_conn(url, iter, timer, reload):
             fail_connect += 1
             print('Fail to connect => ', fail_connect)
             driver.refresh()
-        driver.minimize_window()
 
         # driver.maximize_window()
         print(driver.title, ' - ', i + 1)
+        # Minimized the window if you don't want to be disturbed by pop-up, Youtube is excepted
+        driver.minimize_window()
         time.sleep(timer)
         for j in range(0, reload, 1):
             try:
@@ -54,12 +55,19 @@ def chrome_conn(url, iter, timer, reload):
 # 均衡身心靈‧妙法出奇制勝 第6集《10分鐘·奇葩&閨蜜》  主題：出奇制勝－世間+ 出世間法
 #chrome_conn('https://c.scene.ryxiut.net/s/9mUa5tLm/', 50, 8, 3)
 
+# 220622 《10分鐘·奇葩＆閨蜜》第61集; 預立遺囑－臨終關懷; 預立遺囑…時代前沿脈動…跟上得利！
+chrome_conn('https://www.youtube.com/watch?v=mW8HAcnSSkc', 10, 340, 0)
+# chrome_conn('https://b.scene.ryxiut.net/s/zCSoSuuy/1657409891884?bt=yxy', 50, 8, 3)
+
+# 220710 觀不生．不入正位－菩薩…第59集《維摩詰經》…#北大聖玄 #覺曦軒
+chrome_conn('https://www.youtube.com/watch?v=R55B_yQASn4', 10, 500, 0)
+
 # 220703 《跨領域－重磅對話》…時代前沿對話！ 第58集 《維摩詰經》…全球直播教學視頻 🌺🌺🌺主題：無相、無作、無起－菩薩行
-chrome_conn('https://www.youtube.com/watch?v=E11unQn9bvk', 10, 500, 0)
+# chrome_conn('https://www.youtube.com/watch?v=E11unQn9bvk', 10, 500, 0)
 # chrome_conn('https://v.eqxiu.cn/s/K40QrnS1?bt=yxy', 20, 10, 3)
 
 # 220709 《10分鐘·奇葩＆閨蜜》第66集; 主題：解套－命運束縛，突破心理學極限…解套命運束縛！
-chrome_conn('https://www.youtube.com/watch?v=gwyllM0vMS4', 10, 365, 0)
+# chrome_conn('https://www.youtube.com/watch?v=gwyllM0vMS4', 10, 365, 0)
 
 # 220708 《聖玄語露·第14-8集》 小聰明，製造歧異; 大智慧，和諧解套歧異！
 #chrome_conn('https://www.youtube.com/watch?v=2NiJppBBXVU', 10, 276, 0)
