@@ -63,7 +63,7 @@ def chrome_conn(url, iter, timer, reload):
 chrome_conn('https://www.youtube.com/watch?v=R55B_yQASn4', 10, 500, 0)
 
 # 220711 《煩惱．DUCK 不必》第6集 解套．臨終恐懼五大事…#北大聖玄#覺曦軒
-chrome_conn('https://www.youtube.com/watch?v=rBpaNnwZZlI', 180, 10, 0)
+chrome_conn('https://www.youtube.com/watch?v=rBpaNnwZZlI', 10, 180, 0)
 
 # 220703 《跨領域－重磅對話》…時代前沿對話！ 第58集 《維摩詰經》…全球直播教學視頻 🌺🌺🌺主題：無相、無作、無起－菩薩行
 # chrome_conn('https://www.youtube.com/watch?v=E11unQn9bvk', 10, 500, 0)
