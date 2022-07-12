@@ -56,14 +56,19 @@ def chrome_conn(url, iter, timer, reload):
 #chrome_conn('https://c.scene.ryxiut.net/s/9mUa5tLm/', 50, 8, 3)
 
 # 220622 《10分鐘·奇葩＆閨蜜》第61集; 預立遺囑－臨終關懷; 預立遺囑…時代前沿脈動…跟上得利！
-#chrome_conn('https://www.youtube.com/watch?v=mW8HAcnSSkc', 10, 340, 0)
 # chrome_conn('https://b.scene.ryxiut.net/s/zCSoSuuy/1657409891884?bt=yxy', 50, 8, 3)
+#chrome_conn('https://www.youtube.com/watch?v=mW8HAcnSSkc', 10, 340, 0)
+chrome_conn('https://www.youtube.com/watch?v=mW8HAcnSSkc', 10, 180, 0)
 
 # 220710 觀不生．不入正位－菩薩…第59集《維摩詰經》…#北大聖玄 #覺曦軒
-chrome_conn('https://www.youtube.com/watch?v=R55B_yQASn4', 10, 500, 0)
+#chrome_conn('https://www.youtube.com/watch?v=R55B_yQASn4', 10, 500, 0)
+chrome_conn('https://www.youtube.com/watch?v=R55B_yQASn4', 10, 200, 0)
+
+# 220712 第一名《視頻化·教學相長》…第59集教學🌺🌺主題：勘破迷霧－跨界融合 (13:42)
+chrome_conn('https://www.youtube.com/watch?v=zGs3O1fPv4Y', 10, 180, 0)
 
 # 220711 《煩惱．DUCK 不必》第6集 解套．臨終恐懼五大事…#北大聖玄#覺曦軒
-chrome_conn('https://www.youtube.com/watch?v=rBpaNnwZZlI', 10, 180, 0)
+# chrome_conn('https://www.youtube.com/watch?v=rBpaNnwZZlI', 10, 180, 0)
 
 # 220703 《跨領域－重磅對話》…時代前沿對話！ 第58集 《維摩詰經》…全球直播教學視頻 🌺🌺🌺主題：無相、無作、無起－菩薩行
 # chrome_conn('https://www.youtube.com/watch?v=E11unQn9bvk', 10, 500, 0)
