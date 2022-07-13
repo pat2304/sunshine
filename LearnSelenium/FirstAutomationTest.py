@@ -64,8 +64,11 @@ chrome_conn('https://www.youtube.com/watch?v=mW8HAcnSSkc', 10, 180, 0)
 #chrome_conn('https://www.youtube.com/watch?v=R55B_yQASn4', 10, 500, 0)
 chrome_conn('https://www.youtube.com/watch?v=R55B_yQASn4', 10, 200, 0)
 
+# 對立的統一—煩惱即菩提…第67集《5分鐘‧奇葩&閨蜜》…#北大聖玄#覺曦軒 (6:34)
+chrome_conn('https://www.youtube.com/watch?v=Zxa8RMDfehk', 10, 180, 0)
+
 # 220712 第一名《視頻化·教學相長》…第59集教學🌺🌺主題：勘破迷霧－跨界融合 (13:42)
-chrome_conn('https://www.youtube.com/watch?v=zGs3O1fPv4Y', 10, 180, 0)
+# chrome_conn('https://www.youtube.com/watch?v=zGs3O1fPv4Y', 10, 180, 0)
 
 # 220711 《煩惱．DUCK 不必》第6集 解套．臨終恐懼五大事…#北大聖玄#覺曦軒
 # chrome_conn('https://www.youtube.com/watch?v=rBpaNnwZZlI', 10, 180, 0)
