@@ -13,7 +13,7 @@ import time
 # driver = webdriver.Chrome(service = Service(ChromeDriverManager().install()))
 # driver = webdriver.Chrome('E:/TEMP/selenium/browser_drivers/chromedriver.exe')
 
-def chrome_conn(url, iter, timer, reload):
+def chrome_conn(url, iter, timer):
     fail_connect = fail_refresh = 0
 
     for i in range(0, iter, 1):
@@ -37,16 +37,28 @@ def chrome_conn(url, iter, timer, reload):
         # Minimized the window if you don't want to be disturbed by pop-up, Youtube is excepted
         driver.minimize_window()
         time.sleep(timer)
-        for j in range(0, reload, 1):
-            try:
-                driver.refresh()
-                time.sleep(timer)
-            except:
-                fail_refresh += 1
-                print('Error in Refresh => ', fail_refresh)
+#       for j in range(0, reload, 1):
+#           try:
+#               driver.refresh()
+#               time.sleep(timer)
+#           except:
+#               fail_refresh += 1
+#               print('Error in Refresh => ', fail_refresh)
 
         driver.close()
 
+
+# 220622 《10分鐘·奇葩＆閨蜜》第61集; 預立遺囑－臨終關懷; 預立遺囑…時代前沿脈動…跟上得利！
+# chrome_conn('https://b.scene.ryxiut.net/s/zCSoSuuy/1657409891884?bt=yxy', 50, 8, 3)
+chrome_conn('https://www.youtube.com/watch?v=mW8HAcnSSkc', 10, 340)
+# chrome_conn('https://www.youtube.com/watch?v=mW8HAcnSSkc', 10, 180, 0)
+
+# 220710 觀不生．不入正位－菩薩…第59集《維摩詰經》…#北大聖玄 #覺曦軒
+chrome_conn('https://www.youtube.com/watch?v=R55B_yQASn4', 10, 500)
+#chrome_conn('https://www.youtube.com/watch?v=R55B_yQASn4', 10, 200, 0)
+
+# 《微言悅享》🌺🌺主題：起死回生; 成功起死回生…化解醫師魔咒…她多活了19年…有理、有據，有方法！ (9:25)
+chrome_conn('https://www.youtube.com/watch?v=-2Ch2IGIhuc', 10, 200)
 
 # 《異次元—解密》 主題：揭穿－三維空間假相
 # chrome_conn('https://s.eqxiu.cn/s/0lkTXVid', 50, 10, 3)
@@ -55,17 +67,9 @@ def chrome_conn(url, iter, timer, reload):
 # 均衡身心靈‧妙法出奇制勝 第6集《10分鐘·奇葩&閨蜜》  主題：出奇制勝－世間+ 出世間法
 #chrome_conn('https://c.scene.ryxiut.net/s/9mUa5tLm/', 50, 8, 3)
 
-# 220622 《10分鐘·奇葩＆閨蜜》第61集; 預立遺囑－臨終關懷; 預立遺囑…時代前沿脈動…跟上得利！
-# chrome_conn('https://b.scene.ryxiut.net/s/zCSoSuuy/1657409891884?bt=yxy', 50, 8, 3)
-#chrome_conn('https://www.youtube.com/watch?v=mW8HAcnSSkc', 10, 340, 0)
-chrome_conn('https://www.youtube.com/watch?v=mW8HAcnSSkc', 10, 180, 0)
-
-# 220710 觀不生．不入正位－菩薩…第59集《維摩詰經》…#北大聖玄 #覺曦軒
-#chrome_conn('https://www.youtube.com/watch?v=R55B_yQASn4', 10, 500, 0)
-chrome_conn('https://www.youtube.com/watch?v=R55B_yQASn4', 10, 200, 0)
-
 # 對立的統一—煩惱即菩提…第67集《5分鐘‧奇葩&閨蜜》…#北大聖玄#覺曦軒 (6:34)
-chrome_conn('https://www.youtube.com/watch?v=Zxa8RMDfehk', 10, 180, 0)
+# chrome_conn('https://www.youtube.com/watch?v=Zxa8RMDfehk', 10, 180, 0)
+# chrome_conn('https://www.youtube.com/watch?v=Zxa8RMDfehk', 10, 390, 0)
 
 # 220712 第一名《視頻化·教學相長》…第59集教學🌺🌺主題：勘破迷霧－跨界融合 (13:42)
 # chrome_conn('https://www.youtube.com/watch?v=zGs3O1fPv4Y', 10, 180, 0)
