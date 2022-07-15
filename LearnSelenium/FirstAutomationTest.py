@@ -35,7 +35,7 @@ def chrome_conn(url, iter, timer):
         # driver.maximize_window()
         print(driver.title, ' - ', i + 1)
         # Minimized the window if you don't want to be disturbed by pop-up, Youtube is excepted
-        driver.minimize_window()
+#        driver.minimize_window()
         time.sleep(timer)
 #       for j in range(0, reload, 1):
 #           try:
@@ -50,15 +50,18 @@ def chrome_conn(url, iter, timer):
 
 # 220622 《10分鐘·奇葩＆閨蜜》第61集; 預立遺囑－臨終關懷; 預立遺囑…時代前沿脈動…跟上得利！
 # chrome_conn('https://b.scene.ryxiut.net/s/zCSoSuuy/1657409891884?bt=yxy', 50, 8, 3)
-chrome_conn('https://www.youtube.com/watch?v=mW8HAcnSSkc', 10, 340)
+# chrome_conn('https://www.youtube.com/watch?v=mW8HAcnSSkc', 10, 340)
 # chrome_conn('https://www.youtube.com/watch?v=mW8HAcnSSkc', 10, 180, 0)
 
 # 220710 觀不生．不入正位－菩薩…第59集《維摩詰經》…#北大聖玄 #覺曦軒
-chrome_conn('https://www.youtube.com/watch?v=R55B_yQASn4', 10, 500)
+#chrome_conn('https://www.youtube.com/watch?v=R55B_yQASn4', 10, 500)
 #chrome_conn('https://www.youtube.com/watch?v=R55B_yQASn4', 10, 200, 0)
 
-# 《微言悅享》🌺🌺主題：起死回生; 成功起死回生…化解醫師魔咒…她多活了19年…有理、有據，有方法！ (9:25)
-chrome_conn('https://www.youtube.com/watch?v=-2Ch2IGIhuc', 10, 200)
+# 220715《聖玄語露·第14-9集》危機與轉機，瞬間轉念之契機，在於觀照二者來自同一本源 (5:30)
+chrome_conn('https://youtu.be/V790YSRCRzw', 10, 180)
+
+# 220714《微言悅享》🌺🌺主題：起死回生; 成功起死回生…化解醫師魔咒…她多活了19年…有理、有據，有方法！ (9:25)
+# chrome_conn('https://www.youtube.com/watch?v=-2Ch2IGIhuc', 10, 200)
 
 # 《異次元—解密》 主題：揭穿－三維空間假相
 # chrome_conn('https://s.eqxiu.cn/s/0lkTXVid', 50, 10, 3)
@@ -75,7 +78,7 @@ chrome_conn('https://www.youtube.com/watch?v=-2Ch2IGIhuc', 10, 200)
 # chrome_conn('https://www.youtube.com/watch?v=zGs3O1fPv4Y', 10, 180, 0)
 
 # 220711 《煩惱．DUCK 不必》第6集 解套．臨終恐懼五大事…#北大聖玄#覺曦軒
-# chrome_conn('https://www.youtube.com/watch?v=rBpaNnwZZlI', 10, 180, 0)
+chrome_conn('https://www.youtube.com/watch?v=rBpaNnwZZlI', 10, 180)
 
 # 220703 《跨領域－重磅對話》…時代前沿對話！ 第58集 《維摩詰經》…全球直播教學視頻 🌺🌺🌺主題：無相、無作、無起－菩薩行
 # chrome_conn('https://www.youtube.com/watch?v=E11unQn9bvk', 10, 500, 0)
