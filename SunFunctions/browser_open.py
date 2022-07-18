@@ -33,9 +33,11 @@ def chrome_open(url, loop, timer):
         # chrome connect to URL
         try:
             driver.get(url)
-            wait.until(visible((By.ID, '耕心有成·正道圓成－觀音自在解脫…03集《視頻化·微享·》…#北大聖玄 #覺曦軒')))
-            driver.find_element('耕心有成·正道圓成－觀音自在解脫…03集《視頻化·微享·》…#北大聖玄 #覺曦軒').click()
-            video.send_keys(Keys.SPACE)
+            element = driver.find_element(By.XPATH, "//*[@class='ytp-large-play-button ytp-button']")
+            element.click()
+            # wait.until(visible((By.ID, '耕心有成·正道圓成－觀音自在解脫…03集《視頻化·微享·》…#北大聖玄 #覺曦軒')))
+            # driver.find_element('耕心有成·正道圓成－觀音自在解脫…03集《視頻化·微享·》…#北大聖玄 #覺曦軒').click()
+            #video.send_keys(Keys.SPACE)
         except:
             fail_connect += 1
             print('Fail to connect => ', fail_connect)
