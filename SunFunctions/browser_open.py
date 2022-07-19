@@ -81,6 +81,8 @@ def fox_open(url, loop, timer):
         # chrome connect to URL
         try:
             driver.get(url)
+            element = driver.find_element(By.XPATH, "//*[@class='ytp-large-play-button ytp-button']")
+            element.click()
         except:
             fail_connect += 1
             print('Fail to connect => ', fail_connect)
@@ -122,6 +124,8 @@ def edge_open(url, loop, timer):
         # chrome connect to URL
         try:
             driver.get(url)
+            element = driver.find_element(By.XPATH, "//*[@class='ytp-large-play-button ytp-button']")
+            element.click()
         except:
             fail_connect += 1
             print('Fail to connect => ', fail_connect)

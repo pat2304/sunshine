@@ -60,6 +60,9 @@ def chrome_conn(url, iter, timer):
 # chrome_conn('https://a.scene.ryxiut.net/s/51rLUXBb/1658112651729?bt=yxy', 20, 10)
 chrome_conn('https://www.youtube.com/watch?v=2yBiVxmsn1A', 10, 500)
 
+# 220719 異次元探秘—生、死切換…01集《視頻化‧異次元—解密》…#北大聖玄 #覺曦軒 (10:35)
+chrome_conn('https://www.youtube.com/watch?v=gcxxb668FFc', 10, 200)
+
 # 220710 觀不生．不入正位－菩薩…第59集《維摩詰經》…#北大聖玄 #覺曦軒
 # chrome_conn('https://www.youtube.com/watch?v=R55B_yQASn4', 10, 500)
 # chrome_conn('https://www.youtube.com/watch?v=R55B_yQASn4', 10, 200, 0)
