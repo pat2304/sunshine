@@ -53,7 +53,7 @@ def chrome_conn(url, iter, timer):
 # 220622 《10分鐘·奇葩＆閨蜜》第61集; 預立遺囑－臨終關懷; 預立遺囑…時代前沿脈動…跟上得利！ (5:47)
 # chrome_conn('https://b.scene.ryxiut.net/s/zCSoSuuy/1657409891884?bt=yxy', 50, 8, 3)
 # chrome_conn('https://www.youtube.com/watch?v=mW8HAcnSSkc', 10, 340)
-chrome_conn('https://www.youtube.com/watch?v=mW8HAcnSSkc', 10, 260, 0)
+chrome_conn('https://www.youtube.com/watch?v=mW8HAcnSSkc', 10, 260)
 
 # 220711 《煩惱．DUCK 不必》第6集 解套．臨終恐懼五大事…#北大聖玄#覺曦軒 (5:00)
 # chrome_conn('https://www.youtube.com/watch?v=rBpaNnwZZlI', 10, 250)
