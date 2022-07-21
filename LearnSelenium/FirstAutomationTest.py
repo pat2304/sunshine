@@ -59,12 +59,15 @@ chrome_conn('https://www.youtube.com/watch?v=mW8HAcnSSkc', 10, 260)
 # 220711 《煩惱．DUCK 不必》第6集 解套．臨終恐懼五大事…#北大聖玄#覺曦軒 (5:00)
 # chrome_conn('https://www.youtube.com/watch?v=rBpaNnwZZlI', 10, 250)
 
-# 220717 菩提之相－實無有法可知…第60集《維摩詰經》…#北大聖玄 #覺曦軒
+# 220717 菩提之相－實無有法可知…第60集《維摩詰經》…#北大聖玄 #覺曦軒 (1:22:14)
 # chrome_conn('https://a.scene.ryxiut.net/s/51rLUXBb/1658112651729?bt=yxy', 20, 10)
-chrome_conn('https://www.youtube.com/watch?v=2yBiVxmsn1A', 10, 500)
+#chrome_conn('https://www.youtube.com/watch?v=2yBiVxmsn1A', 10, 500)
+
+# 220721 《視頻化·微享》北大尼師 - 大陸情…04集…#北大聖玄 #覺曦軒 (3:19)
+chrome_conn('https://www.youtube.com/watch?v=6ohmZNaO428', 10, 180)
 
 # 220720 《5分鐘·奇葩＆閨蜜》第69集🌺🌺主題：對望－明月窗‧裝飾夢; 對望的深度省思－橋上風景‧樓上看 (3:37)
-chrome_conn('https://www.youtube.com/watch?v=4wOjqauZwro', 10, 200)
+# chrome_conn('https://www.youtube.com/watch?v=4wOjqauZwro', 10, 200)
 
 # 220719 異次元探秘—生、死切換…01集《視頻化‧異次元—解密》…#北大聖玄 #覺曦軒 (10:35)
 # chrome_conn('https://www.youtube.com/watch?v=gcxxb668FFc', 10, 200)
