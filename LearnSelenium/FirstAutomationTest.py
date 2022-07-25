@@ -103,10 +103,10 @@ chrome_conn('https://www.youtube.com/watch?v=Kn4tQ-HxkRw', 10, 200)
 
 # 《異次元—解密》 主題：揭穿－三維空間假相
 # chrome_conn('https://s.eqxiu.cn/s/0lkTXVid', 50, 10, 3)
-#chrome_conn('https://a.scene.ryxiut.net/s/0lkTXVid/1656467885377', 50, 8, 3)
+# chrome_conn('https://a.scene.ryxiut.net/s/0lkTXVid/1656467885377', 50, 8, 3)
 
 # 均衡身心靈‧妙法出奇制勝 第6集《10分鐘·奇葩&閨蜜》  主題：出奇制勝－世間+ 出世間法
-#chrome_conn('https://c.scene.ryxiut.net/s/9mUa5tLm/', 50, 8, 3)
+# chrome_conn('https://c.scene.ryxiut.net/s/9mUa5tLm/', 50, 8, 3)
 
 # 對立的統一—煩惱即菩提…第67集《5分鐘‧奇葩&閨蜜》…#北大聖玄#覺曦軒 (6:34)
 # chrome_conn('https://www.youtube.com/watch?v=Zxa8RMDfehk', 10, 180, 0)
@@ -123,7 +123,7 @@ chrome_conn('https://www.youtube.com/watch?v=Kn4tQ-HxkRw', 10, 200)
 # chrome_conn('https://www.youtube.com/watch?v=gwyllM0vMS4', 10, 365, 0)
 
 # 220708 《聖玄語露·第14-8集》 小聰明，製造歧異; 大智慧，和諧解套歧異！
-#chrome_conn('https://www.youtube.com/watch?v=2NiJppBBXVU', 10, 276, 0)
+# chrome_conn('https://www.youtube.com/watch?v=2NiJppBBXVU', 10, 276, 0)
 
 # 220707 《微言悅享》主題：震撼開示—脫胎轉化; 久病床前無孝子…轉化思惟，則雙贏！…震撼開示，不可思議！
 # chrome_conn('https://youtu.be/H-lNH__Tznc', 300, 10, 0)
@@ -132,35 +132,35 @@ chrome_conn('https://www.youtube.com/watch?v=Kn4tQ-HxkRw', 10, 200)
 # chrome_conn('https://www.youtube.com/watch?v=H-lNH__Tznc', 10, 300, 0)
 
 # 220706 《10分鐘·奇葩＆閨蜜》第65集; 🌺🌺主題：三輪體空－最高階佈施; 三輪體空…無盡福田的代言…最高階的佈施！
-#chrome_conn('https://www.youtube.com/watch?v=czDUOUE-UqA', 10, 329, 0)
+# chrome_conn('https://www.youtube.com/watch?v=czDUOUE-UqA', 10, 329, 0)
 
 # 220705 《異次元—解密》🌺🌺主題：念波－透視能力，意識透視能力，人皆有之！…端視念波頻率、強度而論斷。
-#chrome_conn('https://v.eqxiu.cn/s/drvgK3JV', 50, 8, 3)
+# chrome_conn('https://v.eqxiu.cn/s/drvgK3JV', 50, 8, 3)
 
 # 220704 解套·死局…人人必修的學分…#煩惱·DUCK不必 🌺🌺 第5集…主題：解套·死局
 # chrome_conn('https://www.youtube.com/watch?v=cIrHY-k7wnQ', 10, 264, 0)
-#chrome_conn('https://v.eqxiu.cn/s/Psb3JZID?bt=yxy', 10, 10, 3)
+# chrome_conn('https://v.eqxiu.cn/s/Psb3JZID?bt=yxy', 10, 10, 3)
 
 # 220626 《跨領域－重磅對話》…時代前沿對話！ 第57集 《維摩詰經》…全球直播教學視頻 主題：雖行於空－植種德本
-#chrome_conn('https://www.youtube.com/watch?v=UMNKSNIAt8I', 10, 500)
+# chrome_conn('https://www.youtube.com/watch?v=UMNKSNIAt8I', 10, 500)
 # chrome_conn('https://s.eqxiu.cn/s/SOcpPeOv', 20, 10)
 
 # 220702 《10分鐘·奇葩＆閨蜜》第64集 主題：生命回顧－導負為正; 重走舊時路…賦予新意義！
-#chrome_conn('https://www.youtube.com/watch?v=Pd3qSMDXmNg', 10, 348)
+# chrome_conn('https://www.youtube.com/watch?v=Pd3qSMDXmNg', 10, 348)
 
 # 220701 《圣玄语露·第14-7集》 生命内在觉醒，是不可替代的永恒真幸福！
-#chrome_conn('https://www.youtube.com/watch?v=0iTzkoL9-VY', 10, 240)
-#chrome_conn('https://v.eqxiu.cn/s/Aletmrg1', 10, 10)
+# chrome_conn('https://www.youtube.com/watch?v=0iTzkoL9-VY', 10, 240)
+# chrome_conn('https://v.eqxiu.cn/s/Aletmrg1', 10, 10)
 
 # 220630 《微言悅享》主題：大臼齒與主人的對話; 大臼齒與主人的親密關係！…有情、非情…來自同一終極本質！
-#chrome_conn('https://s.eqxiu.cn/s/BpKCU61d?bt=yxy', 50, 10)
+# chrome_conn('https://s.eqxiu.cn/s/BpKCU61d?bt=yxy', 50, 10)
 
 # 220630 DT: 《異次元—解密》主題：見相非相 - 空間扭曲
-#chrome_conn('https://s.eqxiu.cn/s/4TQFtLQo', 10, 10)
+# chrome_conn('https://s.eqxiu.cn/s/4TQFtLQo', 10, 10)
 
 # 220629 第63集《10分鐘·奇葩＆閨蜜》 🌺🌺主題：臨終關懷－五全照顧 (善生、善終…生死兩無憾！)
 # https://www.youtube.com/watch?v=i5vx63X9Ors
-#chrome_conn('https://a.scene.ryxiut.net/s/tH1pXUEb/1656457671824', 50, 10)
+# chrome_conn('https://a.scene.ryxiut.net/s/tH1pXUEb/1656457671824', 50, 10)
 
 # 220628 《異次元—解密》信息場奧秘…進入信息場…有方法！ 主題：適者生存－信息場成長與演化
 # chrome_conn('https://v.eqxiu.cn/s/0RWASSU5', 50, 10)
