@@ -10,6 +10,9 @@ from SunFunctions.browser_open import edge_open
 # 220724 菩提性相空寂－無有可得者…第61集《維摩詰經》…#北大聖玄 #覺曦軒 (1:36:56)
 chrome_open('https://www.youtube.com/watch?v=0TWTYnv1j3E', 10, 500)
 
+# 解套．顛倒夢想…第7集《煩惱．DUCK 不必》…#北大聖玄#覺曦軒 (4:24)
+chrome_open('https://www.youtube.com/watch?v=Kn4tQ-HxkRw', 10, 200)
+
 # 220711 《煩惱．DUCK 不必》第6集 解套．臨終恐懼五大事…#北大聖玄#覺曦軒 (5:00)
 #chrome_open('https://www.youtube.com/watch?v=rBpaNnwZZlI', 10, 250)
 
