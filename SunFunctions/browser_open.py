@@ -35,6 +35,11 @@ def chrome_open(url, loop, timer):
             driver.get(url)
             element = driver.find_element(By.XPATH, "//*[@class='ytp-large-play-button ytp-button']")
             element.click()
+
+            # time.sleep(10)
+            # play_element = driver.find_element(By.XPATH, "//*[@class='ytp-play-button ytp-button']")
+            # play_element.click()
+
             # wait.until(visible((By.ID, '耕心有成·正道圓成－觀音自在解脫…03集《視頻化·微享·》…#北大聖玄 #覺曦軒')))
             # driver.find_element('耕心有成·正道圓成－觀音自在解脫…03集《視頻化·微享·》…#北大聖玄 #覺曦軒').click()
             #video.send_keys(Keys.SPACE)
