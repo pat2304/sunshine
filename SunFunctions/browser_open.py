@@ -35,6 +35,7 @@ def chrome_open(url, loop, timer):
             driver.get(url)
             element = driver.find_element(By.XPATH, "//*[@class='ytp-large-play-button ytp-button']")
             element.click()
+            time.sleep(7)
 
             # time.sleep(10)
             # play_element = driver.find_element(By.XPATH, "//*[@class='ytp-play-button ytp-button']")
@@ -47,6 +48,12 @@ def chrome_open(url, loop, timer):
             fail_connect += 1
             print('Fail to connect => ', fail_connect)
             driver.refresh()
+
+        try:
+            skip_button = driver.find_element(By.CLASS_NAME, 'ytp-ad-skip-button-container')
+            skip_button.click()
+        except:
+            print('Skip button not found')
 
         # driver.maximize_window()
         print(driver.title, ' - ', i + 1)
