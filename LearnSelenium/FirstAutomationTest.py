@@ -56,11 +56,14 @@ def chrome_conn(url, iter, timer):
 # chrome_conn('https://www.youtube.com/watch?v=mW8HAcnSSkc', 10, 340)
 # chrome_conn('https://www.youtube.com/watch?v=mW8HAcnSSkc', 10, 260)
 
+# 220731 見菩提相而取證－增上慢人…第62集《維摩詰經》…#北大聖玄 #覺曦軒 (1:50:08)
+chrome_conn('https://www.youtube.com/watch?v=fGsIxQ1e_yA', 10, 500)
+
 # 220724 菩提性相空寂－無有可得者…第61集《維摩詰經》…#北大聖玄 #覺曦軒 (1:36:56)
-chrome_conn('https://www.youtube.com/watch?v=0TWTYnv1j3E', 10, 500)
+# chrome_conn('https://www.youtube.com/watch?v=0TWTYnv1j3E', 10, 500)
 
 # 220730 黃金屋．顏如玉－炸開傳統……第三名投稿文《視頻化·教學相長·61-10集》…#北大聖玄#覺曦軒…修一 (16:04)
-chrome_conn('https://www.youtube.com/watch?v=uCr15pAv9OI', 10, 300)
+# chrome_conn('https://www.youtube.com/watch?v=uCr15pAv9OI', 10, 300)
 
 # 220729 仗劍殺佛－甚深意涵…14-11集《聖玄語露》…#北大聖玄 #覺曦軒 (5:21)
 # chrome_conn('https://www.youtube.com/watch?v=sK_m0WI89iQ', 10, 220)
