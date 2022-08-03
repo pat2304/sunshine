@@ -3,15 +3,21 @@ from SunFunctions.browser_open import fox_open
 from SunFunctions.browser_open import edge_open
 
 # 220725 解套．顛倒夢想…第7集《煩惱．DUCK 不必》…#北大聖玄#覺曦軒 (4:24)
-chrome_open('https://www.youtube.com/watch?v=Kn4tQ-HxkRw', 20, 200)
+#chrome_open('https://www.youtube.com/watch?v=Kn4tQ-HxkRw', 20, 200)
 
 # 220731 見菩提相而取證－增上慢人…第62集《維摩詰經》…#北大聖玄 #覺曦軒 (1:50:08)
 chrome_open('https://www.youtube.com/watch?v=fGsIxQ1e_yA', 10, 500)
 
+# 220803 關鍵時刻．出奇制勝…文殊八字真言－簡介…北大．聖玄主講 (10:12)
+chrome_open('https://www.youtube.com/watch?v=AdgbapI5l6c', 10, 260)
+
+# 220802 第一性原理．息災免難－文殊八字…07集《視頻化．微享》…#北大聖玄 #覺曦軒 (7:10)
+# chrome_open('https://www.youtube.com/watch?v=OAXXttgBn7Q', 10, 260)
+
 # 220724 菩提性相空寂－無有可得者…第61集《維摩詰經》…#北大聖玄 #覺曦軒 (1:36:56)
 # chrome_open('https://www.youtube.com/watch?v=0TWTYnv1j3E', 10, 500)
 
-# 220622 《10分鐘·奇葩＆閨蜜》第61集; 預立遺囑－臨終關懷; 預立遺囑…時代前沿脈動…跟上得利！
+# 220622 《10分鐘·奇葩＆閨蜜》第61集; 預立遺囑－臨終關懷; 預立遺囑…時代前沿脈動…跟上得利！ (5:47)
 # chrome_open('https://b.scene.ryxiut.net/s/zCSoSuuy/1657409891884?bt=yxy', 50, 8, 3)
 # chrome_open('https://www.youtube.com/watch?v=mW8HAcnSSkc', 10, 340)
 # chrome_open('https://www.youtube.com/watch?v=mW8HAcnSSkc', 60, 260)

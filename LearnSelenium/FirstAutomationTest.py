@@ -51,16 +51,25 @@ def chrome_conn(url, iter, timer):
         driver.close()
 
 
-# 220622 《10分鐘·奇葩＆閨蜜》第61集; 預立遺囑－臨終關懷; 預立遺囑…時代前沿脈動…跟上得利！ (5:47)
-# chrome_conn('https://b.scene.ryxiut.net/s/zCSoSuuy/1657409891884?bt=yxy', 50, 8, 3)
-# chrome_conn('https://www.youtube.com/watch?v=mW8HAcnSSkc', 10, 340)
-# chrome_conn('https://www.youtube.com/watch?v=mW8HAcnSSkc', 10, 260)
+# 220725 解套．顛倒夢想…第7集《煩惱．DUCK 不必》…#北大聖玄#覺曦軒 (4:24)
+# chrome_conn('https://www.youtube.com/watch?v=Kn4tQ-HxkRw', 10, 200)
 
 # 220731 見菩提相而取證－增上慢人…第62集《維摩詰經》…#北大聖玄 #覺曦軒 (1:50:08)
 chrome_conn('https://www.youtube.com/watch?v=fGsIxQ1e_yA', 10, 500)
 
+# 220803 關鍵時刻．出奇制勝…文殊八字真言－簡介…北大．聖玄主講 (10:12)
+chrome_conn('https://www.youtube.com/watch?v=AdgbapI5l6c', 10, 260)
+
+# 220802 第一性原理．息災免難－文殊八字…07集《視頻化．微享》…#北大聖玄 #覺曦軒 (7:10)
+# chrome_conn('https://www.youtube.com/watch?v=OAXXttgBn7Q', 10, 260)
+
 # 220724 菩提性相空寂－無有可得者…第61集《維摩詰經》…#北大聖玄 #覺曦軒 (1:36:56)
 # chrome_conn('https://www.youtube.com/watch?v=0TWTYnv1j3E', 10, 500)
+
+# 220622 《10分鐘·奇葩＆閨蜜》第61集; 預立遺囑－臨終關懷; 預立遺囑…時代前沿脈動…跟上得利！ (5:47)
+# chrome_conn('https://b.scene.ryxiut.net/s/zCSoSuuy/1657409891884?bt=yxy', 50, 8, 3)
+# chrome_conn('https://www.youtube.com/watch?v=mW8HAcnSSkc', 10, 340)
+# chrome_conn('https://www.youtube.com/watch?v=mW8HAcnSSkc', 10, 260)
 
 # 220730 黃金屋．顏如玉－炸開傳統……第三名投稿文《視頻化·教學相長·61-10集》…#北大聖玄#覺曦軒…修一 (16:04)
 # chrome_conn('https://www.youtube.com/watch?v=uCr15pAv9OI', 10, 300)
@@ -76,9 +85,6 @@ chrome_conn('https://www.youtube.com/watch?v=fGsIxQ1e_yA', 10, 500)
 
 # 220726 光 - 進出異次元介質…第02集《視頻化．異次元－解密》…#北大聖玄 #覺曦軒 (13:15)
 # chrome_conn('https://www.youtube.com/watch?v=uvDr70bBCBw', 10, 300)
-
-# 220725 解套．顛倒夢想…第7集《煩惱．DUCK 不必》…#北大聖玄#覺曦軒 (4:24)
-# chrome_conn('https://www.youtube.com/watch?v=Kn4tQ-HxkRw', 10, 200)
 
 # 220711 《煩惱．DUCK 不必》第6集 解套．臨終恐懼五大事…#北大聖玄#覺曦軒 (5:00)
 # chrome_conn('https://www.youtube.com/watch?v=rBpaNnwZZlI', 10, 250)
