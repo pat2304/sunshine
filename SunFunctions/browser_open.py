@@ -55,6 +55,11 @@ def chrome_open(url, loop, timer):
         except:
             print('Skip button not found')
 
+#        try:
+#            driver.execute_script('document.getElementsByTagName("video")[0].currentTime=30')
+#        except:
+#            print('forwarding fail')
+
         # driver.maximize_window()
         print(driver.title, ' - ', i + 1)
         # Minimized the window if you don't want to be disturbed by pop-up, Youtube is excepted

@@ -60,6 +60,9 @@ chrome_conn('https://www.youtube.com/watch?v=fGsIxQ1e_yA', 10, 500)
 # 220803 關鍵時刻．出奇制勝…文殊八字真言－簡介…北大．聖玄主講 (10:12)
 chrome_conn('https://www.youtube.com/watch?v=AdgbapI5l6c', 10, 260)
 
+# 220804 傳說中的…新瓶舊酒…02集《關鍵出擊》…#北大聖玄#覺曦軒 (8:33)
+chrome_conn('https://www.youtube.com/watch?v=Tp0vS1GNjaE', 10, 240)
+
 # 220802 第一性原理．息災免難－文殊八字…07集《視頻化．微享》…#北大聖玄 #覺曦軒 (7:10)
 # chrome_conn('https://www.youtube.com/watch?v=OAXXttgBn7Q', 10, 260)
 
