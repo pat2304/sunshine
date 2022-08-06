@@ -51,17 +51,23 @@ def chrome_conn(url, iter, timer):
         driver.close()
 
 
-# 220725 解套．顛倒夢想…第7集《煩惱．DUCK 不必》…#北大聖玄#覺曦軒 (4:24)
-# chrome_conn('https://www.youtube.com/watch?v=Kn4tQ-HxkRw', 10, 200)
-
 # 220731 見菩提相而取證－增上慢人…第62集《維摩詰經》…#北大聖玄 #覺曦軒 (1:50:08)
 chrome_conn('https://www.youtube.com/watch?v=fGsIxQ1e_yA', 10, 500)
 
 # 220803 關鍵時刻．出奇制勝…文殊八字真言－簡介…北大．聖玄主講 (10:12)
 chrome_conn('https://www.youtube.com/watch?v=AdgbapI5l6c', 10, 260)
 
+# 220806 腦科學－禪定vs.腦波…第71集《5分鐘·奇葩&閨蜜》…#北大聖玄#覺曦軒 (6:07)
+chrome_conn('https://www.youtube.com/watch?v=bX6Yw_sL7mw', 10, 180)
+
+# 220805 文殊睿智－驚艷度眾…14-12集《聖玄語露》…#北大聖玄 #覺曦軒 (5:33)
+# chrome_conn('https://www.youtube.com/watch?v=JYhiUNdI8MQ', 10, 165)
+
 # 220804 傳說中的…新瓶舊酒…02集《關鍵出擊》…#北大聖玄#覺曦軒 (8:33)
-chrome_conn('https://www.youtube.com/watch?v=Tp0vS1GNjaE', 10, 240)
+# chrome_conn('https://www.youtube.com/watch?v=Tp0vS1GNjaE', 10, 240)
+
+# 220725 解套．顛倒夢想…第7集《煩惱．DUCK 不必》…#北大聖玄#覺曦軒 (4:24)
+# chrome_conn('https://www.youtube.com/watch?v=Kn4tQ-HxkRw', 10, 200)
 
 # 220802 第一性原理．息災免難－文殊八字…07集《視頻化．微享》…#北大聖玄 #覺曦軒 (7:10)
 # chrome_conn('https://www.youtube.com/watch?v=OAXXttgBn7Q', 10, 260)

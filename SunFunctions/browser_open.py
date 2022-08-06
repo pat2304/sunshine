@@ -3,7 +3,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys as YouKey
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-import time
+import time, datetime
 
 
 # chrome_service = Service(r"E:\TEMP\selenium\browser_drivers\chromedriver.exe")
@@ -54,6 +54,28 @@ def chrome_open(url, loop, timer):
             skip_button.click()
         except:
             print('Skip button not found')
+
+        # # find play button to pause
+        # try:
+        #     play_press = driver.find_element(By.ID, 'movie_player')
+        #     play_press.send_keys(YouKey.SPACE)
+        # except:
+        #     print('Play key not found')
+
+        duration = driver.find_elements(By.XPATH, "//span[@class='ytp-time-duration']")[0].text
+        print(duration)
+
+        # # Obtain the length of the video in seconds
+        # x = time.strptime(duration, '%H:%M:%S')
+        # x1 = datetime.timedelta(hours=x.tm_hour, minutes=x.tm_min, seconds=x.tm_sec).total_seconds()
+        # print(x1)
+        # except:
+        #     print('less than hour')
+
+        # x = time.strptime(duration, '%M:%S')
+        # x1 = datetime.timedelta(minutes=x.tm_min, seconds=x.tm_sec).total_seconds()
+        # print(x1)
+
 
 #        try:
 #            driver.execute_script('document.getElementsByTagName("video")[0].currentTime=30')
