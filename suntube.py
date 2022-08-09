@@ -2,14 +2,23 @@ from SunFunctions.browser_open import chrome_open
 from SunFunctions.browser_open import fox_open
 from SunFunctions.browser_open import edge_open
 
-# 220731 見菩提相而取證－增上慢人…第62集《維摩詰經》…#北大聖玄 #覺曦軒 (1:50:08)
-chrome_open('https://www.youtube.com/watch?v=fGsIxQ1e_yA', 20, 500)
+# 220807 不貪著、不隨順－菩薩行…第63集《維摩詰經》…#北大聖玄 #覺曦軒 (1:16:00)
+#chrome_open('https://www.youtube.com/watch?v=DOCLDnu3LjE', 10, 500)
 
 # 220803 關鍵時刻．出奇制勝…文殊八字真言－簡介…北大．聖玄主講 (10:12)
-chrome_open('https://www.youtube.com/watch?v=AdgbapI5l6c', 10, 260)
+#chrome_open('https://www.youtube.com/watch?v=AdgbapI5l6c', 10, 260)
+
+# 220809 移居火星－科學巨人評析…第3集《視頻化．異次元－解密》…#北大聖玄#覺曦軒 (9:19)
+chrome_open('https://www.youtube.com/watch?v=3O7OCFnaf3I', 10, 140)
+
+# 220731 見菩提相而取證－增上慢人…第62集《維摩詰經》…#北大聖玄 #覺曦軒 (1:50:08)
+#chrome_open('https://www.youtube.com/watch?v=fGsIxQ1e_yA', 20, 500)
+
+# 220808 壯闊的愛－外一章…09集《視頻化·微享－節慶篇》修一版…#北大聖玄#覺曦軒 (7:15)
+# chrome_open('https://www.youtube.com/watch?v=xVAqv2ELzAY', 10, 140)
 
 # 220806 腦科學－禪定vs.腦波…第71集《5分鐘·奇葩&閨蜜》…#北大聖玄#覺曦軒 (6:07)
-chrome_open('https://www.youtube.com/watch?v=bX6Yw_sL7mw', 10, 180)
+# chrome_open('https://www.youtube.com/watch?v=bX6Yw_sL7mw', 10, 180)
 
 # 220805 文殊睿智－驚艷度眾…14-12集《聖玄語露》…#北大聖玄 #覺曦軒 (5:33)
 # chrome_open('https://www.youtube.com/watch?v=JYhiUNdI8MQ', 10, 165)

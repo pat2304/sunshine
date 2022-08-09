@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from selenium.webdriver import ActionChains
 from selenium.webdriver.common.keys import Keys as YouKey
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -13,12 +14,15 @@ import time, datetime
 # driver = webdriver.Chrome(service = Service(ChromeDriverManager().install()))
 # driver = webdriver.Chrome('E:/TEMP/selenium/browser_drivers/chromedriver.exe')
 
-def chrome_open(url, loop, timer):
+def chrome_open(url, loop, ptime):
     from selenium.webdriver.chrome.service import Service
     # from selenium.webdriver.chrome.options import Options
     from webdriver_manager.chrome import ChromeDriverManager
 
-    fail_connect = fail_refresh = 0
+    fail_connect = start_point = repeat = 0
+
+    floop = False
+
     servs = Service(ChromeDriverManager().install())
     # servs = webdriver.chrome.service.Service(ChromeDriverManager.install())
     # servs = webdriver.chrome.service.Service(ChromeDriverManager().install())
@@ -30,12 +34,14 @@ def chrome_open(url, loop, timer):
         driver = webdriver.Chrome(service=servs, options=opts)
         # driver = webdriver.Chrome(service=servs)
 
+        mouse_act = ActionChains(driver)
+
         # chrome connect to URL
         try:
             driver.get(url)
             element = driver.find_element(By.XPATH, "//*[@class='ytp-large-play-button ytp-button']")
             element.click()
-            time.sleep(7)
+            # time.sleep(7)
 
             # time.sleep(10)
             # play_element = driver.find_element(By.XPATH, "//*[@class='ytp-play-button ytp-button']")
@@ -49,6 +55,30 @@ def chrome_open(url, loop, timer):
             print('Fail to connect => ', fail_connect)
             driver.refresh()
 
+        # panel = driver.find_element(By.CSS_SELECTOR, 'div.ytp-chrome-controls')
+        panel = driver.find_element(By.CSS_SELECTOR, '.ytp-left-controls')
+        # panel = driver.find_element(By.ID, 'player-container-inner')
+        # play_press = driver.find_element(By.ID, 'movie_player')
+
+        try:
+            mouse_act.move_to_element(panel).move_by_offset(10, 10).perform()
+            print('Mouse over panel')
+        except:
+            print('Mouse over fail')
+
+        # Wait 7 secs
+        for j in range(0, 7):
+            mouse_act.move_to_element(panel).move_by_offset(10, 10).perform()
+            time.sleep(1)
+
+        # time.sleep(2)
+        # mouse_act.move_to_element(panel).move_by_offset(10, 10).perform()
+        # time.sleep(2)
+        # mouse_act.move_to_element(panel).move_by_offset(10, 10).perform()
+        # time.sleep(2)
+        # mouse_act.move_to_element(panel).move_by_offset(10, 10).perform()
+
+        # Skip ads
         try:
             skip_button = driver.find_element(By.CLASS_NAME, 'ytp-ad-skip-button-container')
             skip_button.click()
@@ -63,34 +93,55 @@ def chrome_open(url, loop, timer):
         #     print('Play key not found')
 
         duration = driver.find_elements(By.XPATH, "//span[@class='ytp-time-duration']")[0].text
-        print(duration)
+        # print(duration)
 
-        # # Obtain the length of the video in seconds
-        # x = time.strptime(duration, '%H:%M:%S')
-        # x1 = datetime.timedelta(hours=x.tm_hour, minutes=x.tm_min, seconds=x.tm_sec).total_seconds()
-        # print(x1)
-        # except:
-        #     print('less than hour')
+        # Obtain the length of the video in seconds
+        try:
+            x = time.strptime(duration, '%H:%M:%S')
+            total_time = datetime.timedelta(hours=x.tm_hour, minutes=x.tm_min, seconds=x.tm_sec).total_seconds()
+        except:
+            x = time.strptime(duration, '%M:%S')
+            total_time = datetime.timedelta(minutes=x.tm_min, seconds=x.tm_sec).total_seconds()
 
-        # x = time.strptime(duration, '%M:%S')
-        # x1 = datetime.timedelta(minutes=x.tm_min, seconds=x.tm_sec).total_seconds()
-        # print(x1)
+        # Check total time in secs
+        # print(total_time)
 
+        next_time = start_point + ptime
 
-#        try:
-#            driver.execute_script('document.getElementsByTagName("video")[0].currentTime=30')
-#        except:
-#            print('forwarding fail')
+        if (not floop) and (next_time < total_time):
+            start_point = next_time
+            repeat += 1
+            floop = False
+        else:
+            start_point = 0
+            repeat = 0
+            next_time = 0
+            floop = True
 
+        print('Total = ', total_time, 'start = ', start_point, ' next = ', next_time)
+        print('repeat = ', repeat)
+
+        if not floop:
+            try:
+                driver.execute_script('document.getElementsByTagName("video")[0].currentTime=' + str(start_point))
+            except:
+                print('forwarding fail')
+
+        # Maximize the window
         # driver.maximize_window()
-        print(driver.title, ' - ', i + 1)
+
         # Minimized the window if you don't want to be disturbed by pop-up, Youtube is excepted
-#        driver.minimize_window()
-        time.sleep(timer)
+        # driver.minimize_window()
+
+        print(driver.title, ' - ', i + 1, ' sleep = ', ptime)
+
+        time.sleep(ptime)
+
+
 #       for j in range(0, reload, 1):
 #           try:
 #               driver.refresh()
-#               time.sleep(timer)
+#               time.sleep(ptime)
 #           except:
 #               fail_refresh += 1
 #               print('Error in Refresh => ', fail_refresh)
