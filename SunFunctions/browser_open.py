@@ -19,9 +19,9 @@ def chrome_open(url, loop, ptime):
     # from selenium.webdriver.chrome.options import Options
     from webdriver_manager.chrome import ChromeDriverManager
 
-    fail_connect = start_point = repeat = 0
+    fail_connect = start_point = next_time = total_time = 0
 
-    floop = False
+    floop = True
 
     servs = Service(ChromeDriverManager().install())
     # servs = webdriver.chrome.service.Service(ChromeDriverManager.install())
@@ -49,7 +49,7 @@ def chrome_open(url, loop, ptime):
 
             # wait.until(visible((By.ID, '耕心有成·正道圓成－觀音自在解脫…03集《視頻化·微享·》…#北大聖玄 #覺曦軒')))
             # driver.find_element('耕心有成·正道圓成－觀音自在解脫…03集《視頻化·微享·》…#北大聖玄 #覺曦軒').click()
-            #video.send_keys(Keys.SPACE)
+            # video.send_keys(Keys.SPACE)
         except:
             fail_connect += 1
             print('Fail to connect => ', fail_connect)
@@ -63,6 +63,7 @@ def chrome_open(url, loop, ptime):
         try:
             mouse_act.move_to_element(panel).move_by_offset(10, 10).perform()
             print('Mouse over panel')
+
         except:
             print('Mouse over fail')
 
@@ -82,6 +83,7 @@ def chrome_open(url, loop, ptime):
         try:
             skip_button = driver.find_element(By.CLASS_NAME, 'ytp-ad-skip-button-container')
             skip_button.click()
+
         except:
             print('Skip button not found')
 
@@ -99,6 +101,7 @@ def chrome_open(url, loop, ptime):
         try:
             x = time.strptime(duration, '%H:%M:%S')
             total_time = datetime.timedelta(hours=x.tm_hour, minutes=x.tm_min, seconds=x.tm_sec).total_seconds()
+
         except:
             x = time.strptime(duration, '%M:%S')
             total_time = datetime.timedelta(minutes=x.tm_min, seconds=x.tm_sec).total_seconds()
@@ -106,24 +109,22 @@ def chrome_open(url, loop, ptime):
         # Check total time in secs
         # print(total_time)
 
-        next_time = start_point + ptime
+        next_time += ptime
 
-        if (not floop) and (next_time < total_time):
-            start_point = next_time
-            repeat += 1
-            floop = False
-        else:
+        #        print('Total = ', total_time, 'start = ', start_point, ' next = ', next_time)
+
+        if next_time >= total_time:
+            print('Inside if')
             start_point = 0
-            repeat = 0
-            next_time = 0
+            next_time = ptime
             floop = True
 
-        print('Total = ', total_time, 'start = ', start_point, ' next = ', next_time)
-        print('repeat = ', repeat)
+        #        print('Total = ', total_time, 'start = ', start_point, ' next = ', next_time)
 
         if not floop:
             try:
                 driver.execute_script('document.getElementsByTagName("video")[0].currentTime=' + str(start_point))
+
             except:
                 print('forwarding fail')
 
@@ -135,16 +136,18 @@ def chrome_open(url, loop, ptime):
 
         print(driver.title, ' - ', i + 1, ' sleep = ', ptime)
 
+        start_point = next_time
+        floop = False
+
         time.sleep(ptime)
 
-
-#       for j in range(0, reload, 1):
-#           try:
-#               driver.refresh()
-#               time.sleep(ptime)
-#           except:
-#               fail_refresh += 1
-#               print('Error in Refresh => ', fail_refresh)
+        #       for j in range(0, reload, 1):
+        #           try:
+        #               driver.refresh()
+        #               time.sleep(ptime)
+        #           except:
+        #               fail_refresh += 1
+        #               print('Error in Refresh => ', fail_refresh)
 
         driver.close()
 
@@ -183,15 +186,16 @@ def fox_open(url, loop, timer):
         # Minimized the window if you don't want to be disturbed by pop-up, Youtube is excepted
         driver.minimize_window()
         time.sleep(timer)
-#       for j in range(0, reload, 1):
-#           try:
-#               driver.refresh()
-#               time.sleep(timer)
-#           except:
-#               fail_refresh += 1
-#               print('Error in Refresh => ', fail_refresh)
+        #       for j in range(0, reload, 1):
+        #           try:
+        #               driver.refresh()
+        #               time.sleep(timer)
+        #           except:
+        #               fail_refresh += 1
+        #               print('Error in Refresh => ', fail_refresh)
 
         driver.close()
+
 
 def edge_open(url, loop, timer):
     from selenium.webdriver.edge.service import Service as EdgeService
@@ -202,14 +206,14 @@ def edge_open(url, loop, timer):
 
     servs = EdgeService(EdgeChromiumDriverManager().install())
     # servs = webdriver.chrome.service.Service(ChromeDriverManager.install())
-    #servs = webdriver.chrome.service.Service(ChromeDriverManager().install())
+    # servs = webdriver.chrome.service.Service(ChromeDriverManager().install())
     opts = webdriver.EdgeOptions()
     opts.add_argument('--InPrivate')
     opts.add_argument('--mute-audio')
 
     for i in range(0, loop, 1):
         driver = webdriver.Edge(service=servs, options=opts)
-        #driver = webdriver.Chrome(service=servs)
+        # driver = webdriver.Chrome(service=servs)
 
         # chrome connect to URL
         try:
@@ -226,12 +230,12 @@ def edge_open(url, loop, timer):
         # Minimized the window if you don't want to be disturbed by pop-up, Youtube is excepted
         driver.minimize_window()
         time.sleep(timer)
-#       for j in range(0, reload, 1):
-#           try:
-#               driver.refresh()
-#               time.sleep(timer)
-#           except:
-#               fail_refresh += 1
-#               print('Error in Refresh => ', fail_refresh)
+        #       for j in range(0, reload, 1):
+        #           try:
+        #               driver.refresh()
+        #               time.sleep(timer)
+        #           except:
+        #               fail_refresh += 1
+        #               print('Error in Refresh => ', fail_refresh)
 
         driver.close()
