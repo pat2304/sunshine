@@ -3,13 +3,16 @@ from SunFunctions.browser_open import fox_open
 from SunFunctions.browser_open import edge_open
 
 # 220807 不貪著、不隨順－菩薩行…第63集《維摩詰經》…#北大聖玄 #覺曦軒 (1:16:00)
-#chrome_open('https://www.youtube.com/watch?v=DOCLDnu3LjE', 10, 500)
+chrome_open('https://www.youtube.com/watch?v=DOCLDnu3LjE', 40, 500)
 
 # 220803 關鍵時刻．出奇制勝…文殊八字真言－簡介…北大．聖玄主講 (10:12)
-#chrome_open('https://www.youtube.com/watch?v=AdgbapI5l6c', 10, 260)
+# chrome_open('https://www.youtube.com/watch?v=AdgbapI5l6c', 10, 260)
+
+# 220812 慶盂蘭盆．贊中元－跨領域對話…10集《視頻化·微享－節慶》…#北大聖玄 #覺曦軒 (11:08)
+chrome_open('https://www.youtube.com/watch?v=TpZjCJlWigw', 10, 250)
 
 # 220810 破壞性創新－實操落地…第73集《5分鐘·奇葩&閨蜜》…#北大聖玄#覺曦軒 (7:01)
-chrome_open('https://www.youtube.com/watch?v=C1uiJrPx2pQ', 10, 200)
+# chrome_open('https://www.youtube.com/watch?v=C1uiJrPx2pQ', 10, 200)
 
 # 220809 移居火星－科學巨人評析…第3集《視頻化．異次元－解密》…#北大聖玄#覺曦軒 (9:19)
 # chrome_open('https://www.youtube.com/watch?v=3O7OCFnaf3I', 10, 180)
