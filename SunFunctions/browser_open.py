@@ -119,7 +119,7 @@ def chrome_open(url, loop, ptime):
             next_time = ptime
             floop = True
 
-        #        print('Total = ', total_time, 'start = ', start_point, ' next = ', next_time)
+        print('Total = ', total_time, 'start = ', start_point, ' next = ', next_time)
 
         if not floop:
             try:
@@ -134,7 +134,7 @@ def chrome_open(url, loop, ptime):
         # Minimized the window if you don't want to be disturbed by pop-up, Youtube is excepted
         # driver.minimize_window()
 
-        print(driver.title, ' - ', i + 1, ' sleep = ', ptime)
+        print(driver.title, ' - ', i + 1)
 
         start_point = next_time
         floop = False
