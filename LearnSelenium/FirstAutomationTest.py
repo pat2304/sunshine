@@ -52,7 +52,7 @@ def chrome_conn(url, iter, timer):
 
 
 # 220814 行四念處．不離身受心法－菩薩行…第64集《維摩詰經》…#北大聖玄 #覺曦軒** (1:20:27)
-chrome_open('https://www.youtube.com/watch?v=a4aLxrkdam4', 10, 480)
+chrome_conn('https://www.youtube.com/watch?v=a4aLxrkdam4', 10, 480)
 
 # 220803 關鍵時刻．出奇制勝…文殊八字真言－簡介…北大．聖玄主講 (10:12)
 chrome_conn('https://www.youtube.com/watch?v=AdgbapI5l6c', 10, 260)
