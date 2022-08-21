@@ -51,14 +51,17 @@ def chrome_conn(url, iter, timer):
         driver.close()
 
 
-# 220814 行四念處．不離身受心法－菩薩行…第64集《維摩詰經》…#北大聖玄 #覺曦軒** (1:20:27)
-chrome_conn('https://www.youtube.com/watch?v=a4aLxrkdam4', 10, 480)
+# 220821 四正勤如意足、不捨精進－菩薩行…第65集《維摩詰經》…#北大聖玄 #覺曦軒 (1:24:04)
+chrome_conn('https://www.youtube.com/watch?v=w_kh7ZBHQJI', 20, 480)
 
 # 220803 關鍵時刻．出奇制勝…文殊八字真言－簡介…北大．聖玄主講 (10:12)
 chrome_conn('https://www.youtube.com/watch?v=AdgbapI5l6c', 10, 260)
 
 # 220819 世間無常－科學會通 …13-1集《視頻化－聖玄語錄》…#北大聖玄 #覺曦軒 (5:43)
 chrome_conn('https://www.youtube.com/watch?v=RBrjW5WMnjw', 10, 170)
+
+# 220814 行四念處．不離身受心法－菩薩行…第64集《維摩詰經》…#北大聖玄 #覺曦軒** (1:20:27)
+#chrome_conn('https://www.youtube.com/watch?v=a4aLxrkdam4', 10, 480)
 
 # 220817 走投無路．出奇制勝－馬斯克秘笈…75集《5分鐘·奇葩&閨蜜》…#北大聖玄#覺曦軒 (10:00)
 # chrome_open('https://www.youtube.com/watch?v=7ojrkRWdhvU', 10, 190)
