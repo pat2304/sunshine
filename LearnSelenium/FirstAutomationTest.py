@@ -55,7 +55,10 @@ def chrome_conn(url, iter, timer):
 chrome_conn('https://www.youtube.com/watch?v=w_kh7ZBHQJI', 20, 480)
 
 # 220803 關鍵時刻．出奇制勝…文殊八字真言－簡介…北大．聖玄主講 (10:12)
-chrome_conn('https://www.youtube.com/watch?v=AdgbapI5l6c', 20, 260)
+# chrome_conn('https://www.youtube.com/watch?v=AdgbapI5l6c', 20, 260)
+
+# 220826 般若智．世間智－交叉對話…第13-2集《視頻化－聖玄語錄》…#北大聖玄 #覺曦軒 (8:41)
+# chrome_conn('https://www.youtube.com/watch?v=8fXsWKlC430', 20, 240)
 
 # 220825 酷酷雲端女郎—風情萬種…05集《視頻化·微享》…#北大聖玄 #覺曦軒 (5:38)
 # chrome_conn('https://www.youtube.com/watch?v=8CVrkRc8klY', 20, 165)
