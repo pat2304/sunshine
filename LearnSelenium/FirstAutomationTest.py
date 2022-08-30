@@ -57,6 +57,9 @@ chrome_conn('https://www.youtube.com/watch?v=A0udmAPbF6A', 60, 480)
 # 220803 關鍵時刻．出奇制勝…文殊八字真言－簡介…北大．聖玄主講 (10:12)
 # chrome_conn('https://www.youtube.com/watch?v=AdgbapI5l6c', 20, 260)
 
+# 220830 苦海無邊－提月點燈…第12集《提月點燈－話創異》…#北大聖玄 #覺曦軒 (13:42)
+# chrome_conn('https://www.youtube.com/watch?v=pUCkbYlRlew', 10, 272)
+
 # 220829 起死回生…第11集《提月點燈－話創異》…#北大聖玄 #覺曦軒 (12:44)
 # chrome_conn('https://www.youtube.com/watch?v=rcqqQMJPjKo', 10, 254)
 
