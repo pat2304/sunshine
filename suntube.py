@@ -8,6 +8,9 @@ chrome_open('https://www.youtube.com/watch?v=A0udmAPbF6A', 60, 480)
 # 220803 關鍵時刻．出奇制勝…文殊八字真言－簡介…北大．聖玄主講 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=AdgbapI5l6c', 10, 260)
 
+# 220905 解套．悲秋綜合症…第10集《煩惱．DUCK 不必》…#北大聖玄 #覺曦軒 (5:48)
+# chrome_open('https://www.youtube.com/watch?v=MWnrtdz5yH0', 20, 173)
+
 # 220902 在平凡中．照見不平凡…第13-3集《視頻化－聖玄語錄》…#北大聖玄 #覺曦軒 (6:30)
 # chrome_open('https://www.youtube.com/watch?v=aTwHZwV3gAM', 10, 194)
 
