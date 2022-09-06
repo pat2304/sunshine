@@ -3,10 +3,13 @@ from SunFunctions.browser_open import fox_open
 from SunFunctions.browser_open import edge_open
 
 # 220828 行五根．分別利鈍－菩薩行…第66集《維摩詰經》…#北大聖玄 #覺曦軒 (1:11:17)
-chrome_open('https://www.youtube.com/watch?v=A0udmAPbF6A', 60, 480)
+chrome_open('https://www.youtube.com/watch?v=A0udmAPbF6A', 60, 500)
 
 # 220803 關鍵時刻．出奇制勝…文殊八字真言－簡介…北大．聖玄主講 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=AdgbapI5l6c', 10, 260)
+
+# 220906 正確詮釋－四種存在力量…05集《視頻化·異次元－解密》…#北大聖玄#覺曦軒 (7:18)
+# chrome_open('https://www.youtube.com/watch?v=o6XiFOlwy0E', 10, 218)
 
 # 220905 解套．悲秋綜合症…第10集《煩惱．DUCK 不必》…#北大聖玄 #覺曦軒 (5:48)
 # chrome_open('https://www.youtube.com/watch?v=MWnrtdz5yH0', 20, 173)
