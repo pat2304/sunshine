@@ -8,8 +8,11 @@ chrome_open('https://www.youtube.com/watch?v=A0udmAPbF6A', 60, 400)
 # 220803 關鍵時刻．出奇制勝…文殊八字真言－簡介…北大．聖玄主講 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=AdgbapI5l6c', 10, 260)
 
+# 220908 超度亡靈－生命教育…第11集《視頻化．微享》…#北大聖玄 #覺曦軒 (12:16)
+# chrome_open('https://www.youtube.com/watch?v=chhu_xACpUQ', 10, 240)
+
 # 220907 與世界首富對話－人生四悟…第78集《5分鐘·奇葩 & 閨蜜》…#北大聖玄#覺曦軒 (7:37)
-chrome_open('https://www.youtube.com/watch?v=BF5bK7YZwCM', 10, 226)
+# chrome_open('https://www.youtube.com/watch?v=BF5bK7YZwCM', 10, 226)
 
 # 220906 正確詮釋－四種存在力量…05集《視頻化·異次元－解密》…#北大聖玄#覺曦軒 (7:18)
 # chrome_open('https://www.youtube.com/watch?v=o6XiFOlwy0E', 10, 218)
