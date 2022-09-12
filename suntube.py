@@ -8,8 +8,17 @@ chrome_open('https://www.youtube.com/watch?v=A0udmAPbF6A', 60, 400)
 # 220803 關鍵時刻．出奇制勝…文殊八字真言－簡介…北大．聖玄主講 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=AdgbapI5l6c', 10, 260)
 
+# 220912 解套．月圓心團圓…第11集《煩惱．DUCK 不必》…#北大聖玄 #覺曦軒 (6:10)
+# chrome_open('https://www.youtube.com/watch?v=j_K9b01KQjk', 10, 184)
+
+# 220911 覺曦軒．金秋禮贊…01集《節慶視頻》…#北大聖玄 #覺曦軒 (2:37)
+# chrome_open('https://www.youtube.com/watch?v=tBg7-BG-gV0', 10, 155)
+
+# 220910 千江映月・虛實之間－中秋祝福…13集《視頻化•微享》…#北大聖玄 #覺曦軒 (4:49)
+# chrome_open('https://www.youtube.com/watch?v=cqyUZp0NdZI', 10, 144)
+
 # 220909 真愛無限－無緣大慈．同體大悲…第13-4集《視頻化·聖玄語露》…#北大聖玄 #覺曦軒 (6:05)
-chrome_open('https://www.youtube.com/watch?v=O4KziXOXRYU', 10, 182)
+# chrome_open('https://www.youtube.com/watch?v=O4KziXOXRYU', 10, 182)
 
 # 220908 超度亡靈－生命教育…第11集《視頻化．微享》…#北大聖玄 #覺曦軒 (12:16)
 # chrome_open('https://www.youtube.com/watch?v=chhu_xACpUQ', 10, 240)
