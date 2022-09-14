@@ -8,6 +8,9 @@ chrome_open('https://www.youtube.com/watch?v=0vZq1_McyuM', 60, 480)
 # 220803 關鍵時刻．出奇制勝…文殊八字真言－簡介…北大．聖玄主講 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=AdgbapI5l6c', 10, 260)
 
+# 220914 睡眠即作戰－少睡．少惛沈…第79集《5分鐘·奇葩 & 閨蜜》…#北大聖玄#覺曦軒 (9:07)
+# chrome_open('https://www.youtube.com/watch?v=GyJFTeuXhtk', 10, 182)
+
 # 220828 行五根．分別利鈍－菩薩行…第66集《維摩詰經》…#北大聖玄 #覺曦軒 (1:11:17)
 # chrome_open('https://www.youtube.com/watch?v=A0udmAPbF6A', 60, 400)
 
