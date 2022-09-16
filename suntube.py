@@ -6,7 +6,10 @@ from SunFunctions.browser_open import edge_open
 chrome_open('https://www.youtube.com/watch?v=0vZq1_McyuM', 60, 480)
 
 # 220803 關鍵時刻．出奇制勝…文殊八字真言－簡介…北大．聖玄主講 (10:12)
-# chrome_open('https://www.youtube.com/watch?v=AdgbapI5l6c', 10, 260)
+# chrome_open('https://www.youtube.com/watch?v=AdgbapI5l6c', 130, 203)
+
+# 220916 轉身不斷念－文殊法教…13-5集《視頻化‧聖玄語露》…#北大聖玄 #覺曦軒 (8:46)
+# chrome_open('https://www.youtube.com/watch?v=ewD9CChd1Gw', 20, 175)
 
 # 220914 睡眠即作戰－少睡．少惛沈…第79集《5分鐘·奇葩 & 閨蜜》…#北大聖玄#覺曦軒 (9:07)
 # chrome_open('https://www.youtube.com/watch?v=GyJFTeuXhtk', 10, 182)
