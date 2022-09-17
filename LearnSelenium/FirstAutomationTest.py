@@ -57,6 +57,9 @@ chrome_conn('https://www.youtube.com/watch?v=0vZq1_McyuM', 60, 480)
 # 220803 關鍵時刻．出奇制勝…文殊八字真言－簡介…北大．聖玄主講 (10:12)
 # chrome_conn('https://www.youtube.com/watch?v=AdgbapI5l6c', 20, 260)
 
+# 220917 人生最重要的一課…第80集《5分鐘．奇葩 & 閨蜜》…#北大聖玄 #覺曦軒 (5:49)
+# chrome_conn('https://www.youtube.com/watch?v=aLKvImVhWXA', 30, 173)
+
 # 220916 轉身不斷念－文殊法教…13-5集《視頻化‧聖玄語露》…#北大聖玄 #覺曦軒 (8:46)
 # chrome_conn('https://www.youtube.com/watch?v=ewD9CChd1Gw', 20, 175)
 
