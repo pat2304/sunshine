@@ -54,6 +54,9 @@ def chrome_conn(url, iter, timer):
 # 220918 行八正道．樂求佛道－菩薩行…第69集《維摩詰經》…#北大聖玄 #覺曦軒 (1:17:41)
 chrome_conn('https://www.youtube.com/watch?v=iG-uPAH4Z6A', 100, 480)
 
+# 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
+# chrome_conn('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
+
 # 220803 關鍵時刻．出奇制勝…文殊八字真言－簡介…北大．聖玄主講 (10:12)
 # chrome_conn('https://www.youtube.com/watch?v=AdgbapI5l6c', 20, 260)
 
