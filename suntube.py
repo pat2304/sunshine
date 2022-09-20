@@ -8,6 +8,9 @@ chrome_open('https://www.youtube.com/watch?v=iG-uPAH4Z6A', 100, 480)
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 透視異次元－生命存在…06集《視頻化·異次元－解密》…#北大聖玄#覺曦軒 (9:56)
+# chrome_open('https://www.youtube.com/watch?v=Zb6wwKCxMR4', 30, 198)
+
 # 220803 關鍵時刻．出奇制勝…文殊八字真言－簡介…北大．聖玄主講 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=AdgbapI5l6c', 130, 203)
 
