@@ -1,12 +1,17 @@
 from SunFunctions.browser_open import chrome_open
 from SunFunctions.browser_open import fox_open
 from SunFunctions.browser_open import edge_open
+# from SunFunctions import browser_open
 
 # 220918 行八正道．樂求佛道－菩薩行…第69集《維摩詰經》…#北大聖玄 #覺曦軒 (1:17:41)
-chrome_open('https://www.youtube.com/watch?v=iG-uPAH4Z6A', 100, 480)
+# browser_open.chrome_open('https://www.youtube.com/watch?v=iG-uPAH4Z6A', 100, 480)
+chrome_open('https://www.youtube.com/watch?v=iG-uPAH4Z6A', 100, 400)
 
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
+
+# 逆向開展自己…第81集《5分鐘·奇葩&閨蜜》…#北大聖玄 #覺曦軒 (9:24)
+# chrome_open('https://www.youtube.com/watch?v=0iGannSJujE', 30, 187)
 
 # 透視異次元－生命存在…06集《視頻化·異次元－解密》…#北大聖玄#覺曦軒 (9:56)
 # chrome_open('https://www.youtube.com/watch?v=Zb6wwKCxMR4', 30, 198)
