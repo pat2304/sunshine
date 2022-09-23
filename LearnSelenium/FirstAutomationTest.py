@@ -57,6 +57,9 @@ chrome_conn('https://www.youtube.com/watch?v=iG-uPAH4Z6A', 100, 480)
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_conn('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 220923 與佛相應－ 佛佛相通．經經相應…13-5集《視頻化·聖玄語露》…#北大聖玄 #覺曦 (9:03)
+# chrome_conn('https://www.youtube.com/watch?v=Dx-Ha7iN-T0', 30, 180)
+
 # 逆向開展自己…第81集《5分鐘·奇葩&閨蜜》…#北大聖玄 #覺曦軒 (9:24)
 # chrome_conn('https://www.youtube.com/watch?v=0iGannSJujE', 30, 187)
 
