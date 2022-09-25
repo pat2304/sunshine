@@ -2,13 +2,16 @@ from SunFunctions.browser_open import chrome_open
 from SunFunctions.browser_open import fox_open
 from SunFunctions.browser_open import edge_open
 # from SunFunctions import browser_open
-
 # 220918 行八正道．樂求佛道－菩薩行…第69集《維摩詰經》…#北大聖玄 #覺曦軒 (1:17:41)
-# browser_open.chrome_open('https://www.youtube.com/watch?v=iG-uPAH4Z6A', 100, 480)
-chrome_open('https://www.youtube.com/watch?v=iG-uPAH4Z6A', 100, 400)
+
+# 220925 行止觀．不墮寂滅－菩薩行…第70集《維摩詰經》…#北大聖玄 #覺曦軒 (1:25:59)
+chrome_open('https://www.youtube.com/watch?v=hmzXUkHW4Yg', 100, 400)
 
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
+
+# browser_open.chrome_open('https://www.youtube.com/watch?v=iG-uPAH4Z6A', 100, 480)
+# chrome_open('https://www.youtube.com/watch?v=iG-uPAH4Z6A', 100, 400)
 
 # 220923 與佛相應－ 佛佛相通．經經相應…13-5集《視頻化·聖玄語露》…#北大聖玄 #覺曦 (9:03)
 # chrome_open('https://www.youtube.com/watch?v=Dx-Ha7iN-T0', 30, 180)
