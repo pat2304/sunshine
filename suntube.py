@@ -10,6 +10,12 @@ chrome_open('https://www.youtube.com/watch?v=hmzXUkHW4Yg', 100, 400)
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 221001 離言內證．高能量－師父證量…第9集《提月點燈－話創異》…#北大聖玄 #覺曦軒 (14:06)
+# chrome_open('https://www.youtube.com/watch?v=hPNtprmd494', 30, 210)
+
+# 220930 止觀不二－境智冥一…第13-7集《視·聖玄語露》…#北大聖玄 #覺曦軒 (5:18)
+# chrome_open('https://www.youtube.com/watch?v=IiznvsolMmE', 30, 158)
+
 # 220929 起早鳴享－秘笈…14集《視頻化·微享》…#北大聖玄 #覺曦軒 (9:20)
 # chrome_open('https://www.youtube.com/watch?v=hNZuoshv584', 30, 186)
 
