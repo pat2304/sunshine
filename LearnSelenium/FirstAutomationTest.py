@@ -57,6 +57,9 @@ chrome_conn('https://www.youtube.com/watch?v=8bos67pGPLY', 100, 400)
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_conn('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 221003 解套．機器人迷思…第13集《煩惱·DUCK不必》…#北大聖玄 #覺曦軒 (6:49)
+# chrome_conn('https://www.youtube.com/watch?v=CtyYndah2Xs', 30, 200)
+
 # 220925 行止觀．不墮寂滅－菩薩行…第70集《維摩詰經》…#北大聖玄 #覺曦軒 (1:25:59)
 # chrome_conn('https://www.youtube.com/watch?v=hmzXUkHW4Yg', 100, 400)
 
