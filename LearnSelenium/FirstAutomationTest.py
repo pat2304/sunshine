@@ -57,6 +57,9 @@ chrome_conn('https://www.youtube.com/watch?v=8bos67pGPLY', 100, 400)
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_conn('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 221007 隨順因緣－正解…第13-8集《視頻化·聖玄語露》…#北大聖玄 #覺曦軒 (6:50)
+# chrome_conn('https://www.youtube.com/watch?v=mDIWxjowuVE', 30, 204)
+
 # 221006 癱瘓餘生…16集《視頻化·微享－节庆篇》…#北大聖玄 #覺曦軒 (11:06)
 # chrome_conn('https://www.youtube.com/watch?v=QZU6NGVp0nw', 30, 221)
 
