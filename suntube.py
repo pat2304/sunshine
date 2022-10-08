@@ -10,6 +10,9 @@ chrome_open('https://www.youtube.com/watch?v=8bos67pGPLY', 100, 400)
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 221008 縱情感官－喪心病狂…83集《5分鐘·奇葩&閨蜜》…#北大聖玄 #覺曦軒 (7:33)
+# chrome_open('https://www.youtube.com/watch?v=VxebDQkqVOI', 30, 222)
+
 # 221007 隨順因緣－正解…第13-8集《視頻化·聖玄語露》…#北大聖玄 #覺曦軒 (6:50)
 # chrome_open('https://www.youtube.com/watch?v=mDIWxjowuVE', 30, 204)
 
