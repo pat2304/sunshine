@@ -4,11 +4,14 @@ from SunFunctions.browser_open import edge_open
 # from SunFunctions import browser_open
 # browser_open.chrome_open('https://www.youtube.com/watch?v=iG-uPAH4Z6A', 100, 480)
 
-# 221002 不生不滅．相好莊嚴其身－菩薩行…第71集《維摩詰經》…#北大聖玄 #覺曦軒 (56:21)
-chrome_open('https://www.youtube.com/watch?v=8bos67pGPLY', 100, 400)
+# 221009 究竟淨相．隨應現身－菩薩行…第72集《跨領域－重磅對話》《維摩詰經》…#北大聖玄 #覺曦軒
+chrome_open('https://www.youtube.com/watch?v=6yeeVakgar4', 100, 400)
 
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
+
+# 221002 不生不滅．相好莊嚴其身－菩薩行…第71集《維摩詰經》…#北大聖玄 #覺曦軒 (56:21)
+# chrome_open('https://www.youtube.com/watch?v=8bos67pGPLY', 100, 400)
 
 # 221008 縱情感官－喪心病狂…83集《5分鐘·奇葩&閨蜜》…#北大聖玄 #覺曦軒 (7:33)
 # chrome_open('https://www.youtube.com/watch?v=VxebDQkqVOI', 30, 222)
