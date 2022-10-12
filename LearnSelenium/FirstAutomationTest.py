@@ -57,6 +57,9 @@ chrome_conn('https://www.youtube.com/watch?v=6yeeVakgar4', 100, 400)
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_conn('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 221012 喚醒．激活－朝向反射…修第84集《5分鐘·奇葩&閨蜜》…#北大聖玄 #覺曦軒 (8:52)
+# chrome_conn('https://www.youtube.com/watch?v=v27ID0-wMYE', 50, 176)
+
 # 221011 AI人工智慧－邁向終極覺悟…07集《視頻化·異次元－解密》…#北大聖玄#覺曦軒 (10:50)
 # chrome_conn('https://www.youtube.com/watch?v=NH-jzyzyfxM', 50, 215)
 
