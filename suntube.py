@@ -10,6 +10,12 @@ chrome_open('https://www.youtube.com/watch?v=6yeeVakgar4', 100, 400)
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 221014 鍾愛觀音－出家日祝福…21集《視頻化·微享－节庆篇》…#北大聖玄 #覺曦軒 (6:20)
+# chrome_open('https://www.youtube.com/watch?v=g3VMaruzUWA', 50, 189)
+
+# 221013 轉貧致富－虛實共創致富…20集《視頻化·微享－》…#北大聖玄 #覺曦軒 (8:16)
+# chrome_open('https://www.youtube.com/watch?v=4ccAXi7xlTc', 50, 165)
+
 # 221012 喚醒．激活－朝向反射…修第84集《5分鐘·奇葩&閨蜜》…#北大聖玄 #覺曦軒 (8:52)
 # chrome_open('https://www.youtube.com/watch?v=v27ID0-wMYE', 50, 176)
 
