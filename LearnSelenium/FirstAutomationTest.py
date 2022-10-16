@@ -57,6 +57,9 @@ chrome_conn('https://www.youtube.com/watch?v=6yeeVakgar4', 100, 400)
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_conn('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 221016 花開與花落…01集《視．碰撞的睿智》…#北大聖玄 #覺曦軒 (9:35)
+# chrome_conn('https://www.youtube.com/watch?v=109mzXFEobE', 50, 190)
+
 # 221015 東方不敗－依智起福．依福起報…85集《5分鐘•奇葩&閨蜜》…#北大聖玄 #覺曦軒 (9:10)
 # chrome_conn('https://www.youtube.com/watch?v=7Q7_mQnoG3o', 50, 182)
 
