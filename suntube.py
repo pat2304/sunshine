@@ -10,11 +10,14 @@ chrome_open('https://www.youtube.com/watch?v=6yeeVakgar4', 100, 400)
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
-# 221017 解套．科技迷思…第14集《煩惱·DUCK不必》…#北大聖玄 #覺曦軒 (9:01)
-# chrome_open('https://www.youtube.com/watch?v=IVUJFA_aBzM', 50, 180)
-
 # 221016 花開與花落…01集《視．碰撞的睿智》…#北大聖玄 #覺曦軒 (9:35)
 # chrome_open('https://www.youtube.com/watch?v=109mzXFEobE', 50, 190)
+
+# 221018 與命運共舞…02集《視·碰撞的睿智》…#北大聖玄 #覺曦軒 (6:22)
+# chrome_open('https://www.youtube.com/watch?v=EBunwten35c', 50, 190)
+
+# 221017 解套．科技迷思…第14集《煩惱·DUCK不必》…#北大聖玄 #覺曦軒 (9:01)
+# chrome_open('https://www.youtube.com/watch?v=IVUJFA_aBzM', 50, 180)
 
 # 221015 東方不敗－依智起福．依福起報…85集《5分鐘•奇葩&閨蜜》…#北大聖玄 #覺曦軒 (9:10)
 # chrome_open('https://www.youtube.com/watch?v=7Q7_mQnoG3o', 50, 182)
