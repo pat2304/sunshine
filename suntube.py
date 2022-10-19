@@ -4,14 +4,17 @@ from SunFunctions.browser_open import edge_open
 # from SunFunctions import browser_open
 # browser_open.chrome_open('https://www.youtube.com/watch?v=iG-uPAH4Z6A', 100, 480)
 
-# 221009 究竟淨相．隨應現身－菩薩行…第72集《跨領域－重磅對話》《維摩詰經》…#北大聖玄 #覺曦軒 (1:08:04)
-chrome_open('https://www.youtube.com/watch?v=6yeeVakgar4', 100, 400)
-
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
 # 221016 花開與花落…01集《視．碰撞的睿智》…#北大聖玄 #覺曦軒 (9:35)
-# chrome_open('https://www.youtube.com/watch?v=109mzXFEobE', 50, 190)
+chrome_open('https://www.youtube.com/watch?v=109mzXFEobE', 50, 190)
+
+# 221019 創異大愛－驚蟄共鳴…03集《視·碰撞的睿智》…#北大聖玄 #覺曦軒 (9:43)
+# chrome_open('https://www.youtube.com/watch?v=teImJrBsMcg', 50, 193)
+
+# 221009 究竟淨相．隨應現身－菩薩行…第72集《跨領域－重磅對話》《維摩詰經》…#北大聖玄 #覺曦軒 (1:08:04)
+#chrome_open('https://www.youtube.com/watch?v=6yeeVakgar4', 100, 400)
 
 # 221018 與命運共舞…02集《視·碰撞的睿智》…#北大聖玄 #覺曦軒 (6:22)
 # chrome_open('https://www.youtube.com/watch?v=EBunwten35c', 50, 190)
