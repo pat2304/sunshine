@@ -10,6 +10,9 @@ from SunFunctions.browser_open import edge_open
 # 221016 花開與花落…01集《視．碰撞的睿智》…#北大聖玄 #覺曦軒 (9:35)
 chrome_open('https://www.youtube.com/watch?v=109mzXFEobE', 50, 190)
 
+# 221020 知命．造命－超越極限…22集《視．微享》…#北大聖玄 #覺曦軒 (9:08)
+# chrome_open('https://www.youtube.com/watch?v=6XTk0LzcPYk', 50, 181)
+
 # 221019 創異大愛－驚蟄共鳴…03集《視·碰撞的睿智》…#北大聖玄 #覺曦軒 (9:43)
 # chrome_open('https://www.youtube.com/watch?v=teImJrBsMcg', 50, 193)
 
