@@ -57,6 +57,9 @@ def chrome_conn(url, iter, timer):
 # 221024 永寂如空．現佛土．轉法輪－菩薩行…第73集《跨領域－重磅對話》《維摩詰經》…#北大聖玄 #覺曦軒 (1:35:14)
 chrome_conn('https://www.youtube.com/watch?v=oiVD0jNc_98', 100, 400)
 
+# 221026 時間管理－量子糾纏…23集《視頻化•微享》 …#北大聖玄 #覺曦軒 (9:28)
+# chrome_conn('https://www.youtube.com/watch?v=10engvGpdOM', 50, 188)
+
 # 221025 不確定性－上帝不擲骰子…08集《視頻化·異次元－解密》…#北大聖玄#覺曦軒 (7:36)
 # chrome_conn('https://www.youtube.com/watch?v=IJGv9-Cgtsg', 50, 227)
 
