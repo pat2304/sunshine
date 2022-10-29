@@ -10,6 +10,9 @@ from SunFunctions.browser_open import edge_open
 # 221024 永寂如空．現佛土．轉法輪－菩薩行…第73集《跨領域－重磅對話》《維摩詰經》…#北大聖玄 #覺曦軒 (1:35:14)
 chrome_open('https://www.youtube.com/watch?v=oiVD0jNc_98', 100, 400)
 
+# 221029 人際導向－實力 vs. 關係…第87集《5分鐘·奇葩&閨蜜》……#北大聖玄 #覺曦軒 (7:42)
+# chrome_open('https://www.youtube.com/watch?v=pb6xdTEYCZ4', 50, 230)
+
 # 221028 懺悔．雙贏－現代意義…13-10集《視頻化·聖玄語露》…#北大聖玄 #覺曦軒 (8:37)
 # chrome_open('https://www.youtube.com/watch?v=tih0srqD2FU', 50, 171)
 
