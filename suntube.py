@@ -7,8 +7,11 @@ from SunFunctions.browser_open import edge_open
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 221031 總複習－文殊問疾品…第74集《跨領域－重磅對話》《維摩詰經》…#北大聖玄 #覺曦軒 (1:08:33)
+chrome_open('https://www.youtube.com/watch?v=fZeZ2fMpNRY', 100, 400)
+
 # 221024 永寂如空．現佛土．轉法輪－菩薩行…第73集《跨領域－重磅對話》《維摩詰經》…#北大聖玄 #覺曦軒 (1:35:14)
-chrome_open('https://www.youtube.com/watch?v=oiVD0jNc_98', 100, 400)
+# chrome_open('https://www.youtube.com/watch?v=oiVD0jNc_98', 100, 400)
 
 # 221031 生命火炬—高知弟子．實證篇…第13集《提月點燈－化創異》…#北大聖玄 #覺曦軒 (16:13)
 # chrome_open('https://www.youtube.com/watch?v=VcOAM85DlB8', 50, 193)
