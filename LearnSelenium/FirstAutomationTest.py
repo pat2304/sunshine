@@ -55,10 +55,13 @@ def chrome_conn(url, iter, timer):
 # chrome_conn('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
 # 221031 總複習－文殊問疾品…第74集《跨領域－重磅對話》《維摩詰經》…#北大聖玄 #覺曦軒 (1:08:33)
-# chrome_conn('https://www.youtube.com/watch?v=fZeZ2fMpNRY', 100, 400)
+chrome_conn('https://www.youtube.com/watch?v=fZeZ2fMpNRY', 100, 400)
+
+# 221101 念波與夢－獨頭意識…09集《視頻化·異次元－解密》…#北大聖玄#覺曦軒 (10:10)
+# chrome_conn('https://www.youtube.com/watch?v=C2ab1YbhvE0', 50, 202)
 
 # 221024 永寂如空．現佛土．轉法輪－菩薩行…第73集《跨領域－重磅對話》《維摩詰經》…#北大聖玄 #覺曦軒 (1:35:14)
-chrome_conn('https://www.youtube.com/watch?v=oiVD0jNc_98', 100, 400)
+# chrome_conn('https://www.youtube.com/watch?v=oiVD0jNc_98', 100, 400)
 
 # 221031 生命火炬—高知弟子．實證篇…第13集《提月點燈－化創異》…#北大聖玄 #覺曦軒 (16:13)
 # chrome_conn('https://www.youtube.com/watch?v=VcOAM85DlB8', 50, 193)
