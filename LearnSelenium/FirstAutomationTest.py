@@ -57,6 +57,9 @@ def chrome_conn(url, iter, timer):
 # 221031 總複習－文殊問疾品…第74集《跨領域－重磅對話》《維摩詰經》…#北大聖玄 #覺曦軒 (1:08:33)
 chrome_conn('https://www.youtube.com/watch?v=fZeZ2fMpNRY', 100, 400)
 
+# 221103 精彩一課．為天帝教講座：人生樂透彩－佛教生命倫理應用…第01集《宗教交流》…天帝教 (1:22:55)
+# chrome_conn('https://www.youtube.com/watch?v=hC5wK5PUY5Y', 50, 400)
+
 # 221102 台生初體驗－集體創作…第14集《提月點燈－話創異》…#北大聖玄 #覺曦軒 (9:32)
 # chrome_conn('https://www.youtube.com/watch?v=HHvqL0KBCuo', 50, 189)
 
