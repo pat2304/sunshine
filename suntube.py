@@ -10,6 +10,9 @@ from SunFunctions.browser_open import edge_open
 # 221031 總複習－文殊問疾品…第74集《跨領域－重磅對話》《維摩詰經》…#北大聖玄 #覺曦軒 (1:08:33)
 chrome_open('https://www.youtube.com/watch?v=fZeZ2fMpNRY', 100, 400)
 
+# 221105 寓教於樂－道．不臾離…第88集《5分鐘·奇葩&閨蜜》修一……#北大聖玄 #覺曦軒 (6:54)
+chrome_open('https://www.youtube.com/watch?v=UU_alMSTd6o', 50, 206)
+
 # 221104 若無一切心．何修一切法－正解…13-11集《視．聖玄語露》…#北大聖玄 #覺曦軒 (6:50)
 # chrome_open('https://www.youtube.com/watch?v=4rZvcNr-OLo', 50, 204)
 
