@@ -7,17 +7,20 @@ from SunFunctions.browser_open import edge_open
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 221103 精彩一課．為天帝教講座：人生樂透彩－佛教生命倫理應用…第01集《宗教交流》…天帝教 (1:22:55)
+chrome_open('https://www.youtube.com/watch?v=hC5wK5PUY5Y', 50, 400)
+
+# 221107 驚蟄大愛－文殊．個性化…第15集…《提月點燈－話創異》…#北大聖玄 #覺曦軒 (8:42)
+# chrome_open('https://www.youtube.com/watch?v=WBOnioOfAIk', 50, 173)
+
 # 221031 總複習－文殊問疾品…第74集《跨領域－重磅對話》《維摩詰經》…#北大聖玄 #覺曦軒 (1:08:33)
-chrome_open('https://www.youtube.com/watch?v=fZeZ2fMpNRY', 100, 400)
+# chrome_open('https://www.youtube.com/watch?v=fZeZ2fMpNRY', 100, 400)
 
 # 221105 寓教於樂－道．不臾離…第88集《5分鐘·奇葩&閨蜜》修一……#北大聖玄 #覺曦軒 (6:54)
-chrome_open('https://www.youtube.com/watch?v=UU_alMSTd6o', 50, 206)
+# chrome_open('https://www.youtube.com/watch?v=UU_alMSTd6o', 50, 206)
 
 # 221104 若無一切心．何修一切法－正解…13-11集《視．聖玄語露》…#北大聖玄 #覺曦軒 (6:50)
 # chrome_open('https://www.youtube.com/watch?v=4rZvcNr-OLo', 50, 204)
-
-# 221103 精彩一課．為天帝教講座：人生樂透彩－佛教生命倫理應用…第01集《宗教交流》…天帝教 (1:22:55)
-# chrome_open('https://www.youtube.com/watch?v=hC5wK5PUY5Y', 50, 400)
 
 # 221102 台生初體驗－集體創作…第14集《提月點燈－話創異》…#北大聖玄 #覺曦軒 (9:32)
 # chrome_open('https://www.youtube.com/watch?v=HHvqL0KBCuo', 50, 189)
