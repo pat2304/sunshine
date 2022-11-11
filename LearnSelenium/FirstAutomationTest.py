@@ -57,6 +57,12 @@ def chrome_conn(url, iter, timer):
 # 221103 精彩一課．為天帝教講座：人生樂透彩－佛教生命倫理應用…第01集《宗教交流》…天帝教 (1:22:55)
 chrome_conn('https://www.youtube.com/watch?v=hC5wK5PUY5Y', 50, 400)
 
+# 221111 病藥．同一－多法．顛倒…13-12集《視頻化·聖玄語露》…#北大聖玄 #覺曦軒 (5:50)
+# chrome_conn('https://www.youtube.com/watch?v=WT-F8cH1LeI', 50, 174)
+
+# 221110 古今科學－生命應用…第二名投稿…1-2集《宗教交流－教學相長》…#北大聖玄 #覺曦軒 (8:28)
+# chrome_conn('https://www.youtube.com/watch?v=ZXdoedxkD1o', 50, 253)
+
 # 221109 眾生病－非真有…24集《視頻化·微享》…#北大聖玄 #覺曦軒 (9:06)
 # chrome_conn('https://www.youtube.com/watch?v=DaxM8bB5zuw', 50, 182)
 
