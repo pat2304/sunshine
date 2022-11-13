@@ -10,6 +10,9 @@ from SunFunctions.browser_open import edge_open
 # 221103 精彩一課．為天帝教講座：人生樂透彩－佛教生命倫理應用…第01集《宗教交流》…天帝教 (1:22:55)
 chrome_open('https://www.youtube.com/watch?v=hC5wK5PUY5Y', 50, 400)
 
+# 221113 一樣出家·二樣情－文殊出家省思…25集《視頻化·微享－節慶篇》…#北大聖玄 #覺曦軒 (7:20)
+# chrome_open('https://www.youtube.com/watch?v=_jDUpJ7GG8k', 50, 219)
+
 # 221112 人人樂透彩－超越因果制約…第89集《5分鐘－奇葩 & 閨蜜》…#北大聖玄 #覺曦軒 (7:36)
 # chrome_open('https://www.youtube.com/watch?v=TeSlSJxwLvI', 50, 227)
 
