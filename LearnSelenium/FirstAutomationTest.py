@@ -54,8 +54,11 @@ def chrome_conn(url, iter, timer):
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_conn('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 221114 宴坐－不起滅定．現諸威儀…76集《維摩詰經．弟子品》…#北大聖玄 #覺曦軒 (1:03:16)
+chrome_conn('https://www.youtube.com/watch?v=y-Y2-_dZEjY', 100, 400)
+
 # 221103 精彩一課．為天帝教講座：人生樂透彩－佛教生命倫理應用…第01集《宗教交流》…天帝教 (1:22:55)
-chrome_conn('https://www.youtube.com/watch?v=hC5wK5PUY5Y', 50, 400)
+# chrome_conn('https://www.youtube.com/watch?v=hC5wK5PUY5Y', 50, 400)
 
 # 221113 一樣出家·二樣情－文殊出家省思…25集《視頻化·微享－節慶篇》…#北大聖玄 #覺曦軒 (7:20)
 # chrome_conn('https://www.youtube.com/watch?v=_jDUpJ7GG8k', 50, 219)
