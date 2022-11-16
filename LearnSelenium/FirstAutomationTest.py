@@ -57,6 +57,9 @@ def chrome_conn(url, iter, timer):
 # 221114 宴坐－不起滅定．現諸威儀…76集《維摩詰經．弟子品》…#北大聖玄 #覺曦軒 (1:03:16)
 chrome_conn('https://www.youtube.com/watch?v=y-Y2-_dZEjY', 100, 400)
 
+# 221116 宗教交流－聖玄主講．天帝教講座…《宗教交流－微享》…#北大聖玄 #覺曦軒 (10:58)
+# chrome_conn('https://www.youtube.com/watch?v=TEnuA8eh0WQ', 50, 218)
+
 # 221103 精彩一課．為天帝教講座：人生樂透彩－佛教生命倫理應用…第01集《宗教交流》…天帝教 (1:22:55)
 # chrome_conn('https://www.youtube.com/watch?v=hC5wK5PUY5Y', 50, 400)
 
