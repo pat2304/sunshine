@@ -57,6 +57,9 @@ def chrome_conn(url, iter, timer):
 # 221114 宴坐－不起滅定．現諸威儀…76集《維摩詰經．弟子品》…#北大聖玄 #覺曦軒 (1:03:16)
 chrome_conn('https://www.youtube.com/watch?v=y-Y2-_dZEjY', 100, 400)
 
+# 221119 人在江湖－身不由己…90集《5分鐘·奇葩&閨蜜》…#北大聖玄 #覺曦軒 (6:24)
+# chrome_conn('https://www.youtube.com/watch?v=ZEgQydfY27g', 50, 191)
+
 # 221118 菩薩清涼月－遊於畢竟空…12-1集《視頻化·聖玄語露》…#北大聖玄 #覺曦軒 (5:29)
 # chrome_conn('https://www.youtube.com/watch?v=9dkCYgJ2wZQ', 50, 163)
 
