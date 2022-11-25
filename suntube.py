@@ -10,6 +10,9 @@ from SunFunctions.browser_open import edge_open
 # 221120 宴坐－不捨道法．心不住內外．…第77集《維摩詰經．弟子品》…#北大聖玄 #覺曦軒
 chrome_open('https://www.youtube.com/watch?v=ufE1EAJdo20', 100, 400)
 
+# 221125 因陀羅網－奧秘…12-2集《視頻化·聖玄語露》…#北大聖玄 #覺曦軒 (6:23)
+# chrome_open('https://www.youtube.com/watch?v=iRCbeNcYCh4', 50, 190)
+
 # 221124 感恩的心－化萬箭為花朵…27集《視頻化·微享－节庆篇》…#北大聖玄 #覺曦軒 (7:42)
 # chrome_open('https://www.youtube.com/watch?v=gCZqYbrdZaY', 50, 230)
 
