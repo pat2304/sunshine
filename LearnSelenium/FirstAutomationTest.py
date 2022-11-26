@@ -57,6 +57,9 @@ def chrome_conn(url, iter, timer):
 # 221120 宴坐－不捨道法．心不住內外．…第77集《維摩詰經．弟子品》…#北大聖玄 #覺曦軒 (1:15:10)
 chrome_conn('https://www.youtube.com/watch?v=ufE1EAJdo20', 100, 400)
 
+# 221126 暴走－杏仁核花絮…第91集《5分鐘·奇葩&閨蜜》…#北大聖玄 #覺曦軒 (6:06)
+# chrome_conn('https://www.youtube.com/watch?v=orWRdCWecV8', 50, 182)
+
 # 221125 因陀羅網－奧秘…12-2集《視頻化·聖玄語露》…#北大聖玄 #覺曦軒 (6:23)
 # chrome_conn('https://www.youtube.com/watch?v=iRCbeNcYCh4', 50, 190)
 
