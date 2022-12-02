@@ -57,6 +57,9 @@ def chrome_conn(url, iter, timer):
 # 221128 諸見不動．不斷煩惱－宴坐…第78集《維摩詰經．弟子品》…#北大聖玄 #覺曦軒 (01:44:17)
 chrome_conn('https://www.youtube.com/watch?v=0p909zxkl4s', 100, 400)
 
+# 221202 天上天下．唯我獨尊－正解…12-3集《視頻化·聖玄語露》…#北大聖玄 #覺曦軒 (5:25)
+# chrome_conn('https://www.youtube.com/watch?v=gcdufnacArI', 50, 161)
+
 # 221201 生與死－精彩對話…第2集《意識．腦．止觀－共鳴》…北大聖玄#覺曦軒 (10:26)
 # chrome_conn('https://www.youtube.com/watch?v=b97O_AB0i7c', 50, 207)
 
