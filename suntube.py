@@ -10,6 +10,9 @@ from SunFunctions.browser_open import edge_open
 # 221128 諸見不動．不斷煩惱－宴坐…第78集《維摩詰經．弟子品》…#北大聖玄 #覺曦軒 (01:44:17)
 chrome_open('https://www.youtube.com/watch?v=0p909zxkl4s', 100, 400)
 
+# 221203 面子效應－裡/面齊並進…第92集《5分鐘·奇葩&閨蜜》…#北大聖玄 #覺曦軒 (7:44)
+# chrome_open('https://www.youtube.com/watch?v=zFOIWGhLrsY', 50, 231)
+
 # 221202 天上天下．唯我獨尊－正解…12-3集《視頻化·聖玄語露》…#北大聖玄 #覺曦軒 (5:25)
 # chrome_open('https://www.youtube.com/watch?v=gcdufnacArI', 50, 161)
 
