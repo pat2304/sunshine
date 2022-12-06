@@ -10,6 +10,12 @@ from SunFunctions.browser_open import edge_open
 # 221204 天上天下．唯我獨尊－新人課…第79集《維摩詰經．弟子品》…#北大聖玄 #覺曦軒 (1:43:39)
 chrome_open('https://www.youtube.com/watch?v=JkDviZHLU_Q', 100, 400)
 
+# 221206 量子視域－心 vs. 靈性智慧…12集《視頻化·異次元－解密》…#北大聖玄#覺曦軒 (10:35)
+# chrome_open('https://www.youtube.com/watch?v=sd4ZurRbm_Y', 50, 210)
+
+# 221205 新潮師父－詮釋古老佛法…第16集…《提月點燈－話創異》…#北大聖玄 #覺曦軒 (14:06)
+# chrome_open('https://www.youtube.com/watch?v=_aS_rZuEzzs', 50, 211)
+
 # 221128 諸見不動．不斷煩惱－宴坐…第78集《維摩詰經．弟子品》…#北大聖玄 #覺曦軒 (01:44:17)
 # chrome_open('https://www.youtube.com/watch?v=0p909zxkl4s', 100, 400)
 
