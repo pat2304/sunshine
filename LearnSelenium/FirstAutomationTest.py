@@ -57,6 +57,9 @@ def chrome_conn(url, iter, timer):
 # 221204 天上天下．唯我獨尊－新人課…第79集《維摩詰經．弟子品》…#北大聖玄 #覺曦軒 (1:43:39)
 chrome_conn('https://www.youtube.com/watch?v=JkDviZHLU_Q', 100, 400)
 
+# 221207 新歡．舊愛－量子糾纏…28集《視頻化•微享－节庆篇》…#北大聖玄 #覺曦軒 (9:16)
+# chrome_conn('https://www.youtube.com/watch?v=NJRsRUVZbUc', 50, 184)
+
 # 221206 量子視域－心 vs. 靈性智慧…12集《視頻化·異次元－解密》…#北大聖玄#覺曦軒 (10:35)
 # chrome_conn('https://www.youtube.com/watch?v=sd4ZurRbm_Y', 50, 210)
 
