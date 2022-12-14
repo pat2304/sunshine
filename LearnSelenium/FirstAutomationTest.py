@@ -57,6 +57,9 @@ def chrome_conn(url, iter, timer):
 # 221210 生命奧秘．心靈結構－新人課…第80集《維摩詰經．弟子品》…#北大聖玄 #覺曦軒 (1:10:28)
 chrome_conn('https://www.youtube.com/watch?v=25ct3rBei4I', 100, 400)
 
+# 221214 生死一線牽－臨死覺知…29集《視·微享》…#北大聖玄 #覺曦軒 (9:04)
+# chrome_conn('https://www.youtube.com/watch?v=bL9YleUyK5w', 50, 180)
+
 # 221212 出師不利－反敗為勝…第17集《提月點燈－話創異》…#北大聖玄 #覺曦軒 (9:16)
 # chrome_conn('https://www.youtube.com/watch?v=aVkiTJ43bvE', 50, 184)
 
