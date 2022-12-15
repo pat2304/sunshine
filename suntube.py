@@ -10,6 +10,9 @@ from SunFunctions.browser_open import edge_open
 # 221210 生命奧秘．心靈結構－新人課…第80集《維摩詰經．弟子品》…#北大聖玄 #覺曦軒 (1:10:28)
 chrome_open('https://www.youtube.com/watch?v=25ct3rBei4I', 100, 400)
 
+# 221215 《解深密經》－概說…01集…#北大聖玄 #覺曦軒 (2:25:06)
+# chrome_open('https://www.youtube.com/watch?v=_7gNdEQZ4l4', 50, 400)
+
 # 221214 生死一線牽－臨死覺知…29集《視·微享》…#北大聖玄 #覺曦軒 (9:04)
 # chrome_open('https://www.youtube.com/watch?v=bL9YleUyK5w', 50, 180)
 
