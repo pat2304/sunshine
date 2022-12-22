@@ -68,7 +68,7 @@ def chrome_open(url, loop, ptime):
             print('Mouse over fail')
 
         # Wait 7 secs
-        for j in range(0, 6):
+        for j in range(0, 8):
             mouse_act.move_to_element(panel).move_by_offset(10, 10).perform()
             time.sleep(1)
 
@@ -132,7 +132,7 @@ def chrome_open(url, loop, ptime):
         # driver.maximize_window()
 
         # Minimized the window if you don't want to be disturbed by pop-up, Youtube is excepted
-        driver.minimize_window()
+        # driver.minimize_window()
 
         print(driver.title, ' - ', i + 1)
 

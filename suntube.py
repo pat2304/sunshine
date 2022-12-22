@@ -7,8 +7,14 @@ from SunFunctions.browser_open import edge_open
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 221222 瑜伽－古今交涉…第02集《《解深密經－融攝止觀．真如觀》》…#北大聖玄 #覺曦軒 (2:36:11)
+chrome_open('https://www.youtube.com/watch?v=4BIbBsNN0pk', 100, 300)
+
+# 221215 《解深密經》－概說…01集…#北大聖玄 #覺曦軒 (2:25:06)
+# chrome_open('https://www.youtube.com/watch?v=_7gNdEQZ4l4', 50, 350)
+
 # 221217 有相．無相．共振頻率－新人課…第81集《維摩詰經．弟子品》…#北大聖玄 #覺曦軒 (2:02:29)
-chrome_open('https://www.youtube.com/watch?v=-LUci2iZdgY', 100, 360)
+# chrome_open('https://www.youtube.com/watch?v=-LUci2iZdgY', 100, 360)
 
 # 221219 解套．最狂35歲…第17集《煩惱·DUCK不必》…#北大聖玄 #覺曦軒 (8:02)
 # chrome_open('https://www.youtube.com/watch?v=Tp0BnWtke9w', 50, 241)
@@ -18,9 +24,6 @@ chrome_open('https://www.youtube.com/watch?v=-LUci2iZdgY', 100, 360)
 
 # 221216 生死一如－不二中道…12-5集《視頻化·聖玄語露》》…#北大聖玄 #覺曦軒 (4:34)
 # chrome_open('https://www.youtube.com/watch?v=ajFhmZFEAqI', 50, 136)
-
-# 221215 《解深密經》－概說…01集…#北大聖玄 #覺曦軒 (2:25:06)
-# chrome_open('https://www.youtube.com/watch?v=_7gNdEQZ4l4', 50, 400)
 
 # 221214 生死一線牽－臨死覺知…29集《視·微享》…#北大聖玄 #覺曦軒 (9:04)
 # chrome_open('https://www.youtube.com/watch?v=bL9YleUyK5w', 50, 180)
