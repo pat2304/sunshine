@@ -10,6 +10,9 @@ from SunFunctions.browser_open import edge_open
 # 221222 瑜伽－古今交涉…第02集《《解深密經－融攝止觀．真如觀》》…#北大聖玄 #覺曦軒 (2:36:11)
 chrome_open('https://www.youtube.com/watch?v=4BIbBsNN0pk', 100, 300)
 
+# 221223 迴小向大－正解…12-6集《視頻化·聖玄語露》》…#北大聖玄 #覺曦軒 (5:03)
+# chrome_open('https://www.youtube.com/watch?v=R8qDjJNeKSc', 50, 150)
+
 # 221215 《解深密經》－概說…01集…#北大聖玄 #覺曦軒 (2:25:06)
 # chrome_open('https://www.youtube.com/watch?v=_7gNdEQZ4l4', 50, 350)
 

@@ -57,8 +57,11 @@ def chrome_conn(url, iter, timer):
 # 221222 瑜伽－古今交涉…第02集《《解深密經－融攝止觀．真如觀》》…#北大聖玄 #覺曦軒 (2:36:11)
 chrome_conn('https://www.youtube.com/watch?v=4BIbBsNN0pk', 100, 300)
 
+# 221223 迴小向大－正解…12-6集《視頻化·聖玄語露》》…#北大聖玄 #覺曦軒 (5:03)
+# chrome_conn('https://www.youtube.com/watch?v=R8qDjJNeKSc', 50, 150)
+
 # 221217 有相．無相．共振頻率－新人課…第81集《維摩詰經．弟子品》…#北大聖玄 #覺曦軒 (2:02:29)
-chrome_conn('https://www.youtube.com/watch?v=-LUci2iZdgY', 100, 360)
+# chrome_conn('https://www.youtube.com/watch?v=-LUci2iZdgY', 100, 360)
 
 # 221219 解套．最狂35歲…第17集《煩惱·DUCK不必》…#北大聖玄 #覺曦軒 (8:02)
 # chrome_conn('https://www.youtube.com/watch?v=Tp0BnWtke9w', 50, 241)
