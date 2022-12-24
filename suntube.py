@@ -10,6 +10,12 @@ from SunFunctions.browser_open import edge_open
 # 221222 瑜伽－古今交涉…第02集《《解深密經－融攝止觀．真如觀》》…#北大聖玄 #覺曦軒 (2:36:11)
 chrome_open('https://www.youtube.com/watch?v=4BIbBsNN0pk', 100, 300)
 
+# 221224 不二中道－超越二元對立－新人課…第82集《維摩詰經．弟子品》…#北大聖玄 #覺曦軒 (1:08:16)
+chrome_open('https://www.youtube.com/watch?v=53HWWXQG1js', 100, 300)
+
+# 221224 知性聖誕夜－共振到天明…31集《視頻化·微享－节庆篇》…#北大聖玄 #覺曦軒 (6:10)
+# chrome_open('https://www.youtube.com/watch?v=rrkZ6M7onOg', 50, 184)
+
 # 221223 迴小向大－正解…12-6集《視頻化·聖玄語露》》…#北大聖玄 #覺曦軒 (5:03)
 # chrome_open('https://www.youtube.com/watch?v=R8qDjJNeKSc', 50, 150)
 
