@@ -54,8 +54,17 @@ def chrome_conn(url, iter, timer):
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_conn('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 221231 畢竟空．四超越－新人課…第83集《維摩詰經．弟子品》…#北大聖玄 #覺曦軒 (1:55:17)
+chrome_conn('https://www.youtube.com/watch?v=qPVLG6i2VII', 100, 300)
+
+# 221230 臘八粥－喝、不喝…32集《視·微享－節慶篇》…#北大聖玄 #覺曦軒 (4:36)
+chrome_conn('https://www.youtube.com/watch?v=P9n2RtcKDs4', 50, 136)
+
+# 221230 動中禪定－動靜一如…12-7集《視·聖玄語露》…#北大聖玄 #覺曦軒 (8:41)
+chrome_conn('https://www.youtube.com/watch?v=jbQY9bfx7Z0', 50, 172)
+
 # 221229 彌勒瑜伽行－對話《解深密經》…03集《解深密經－融攝止觀．真如觀》》…#北大聖玄 #覺曦軒 ()
-chrome_conn('https://www.youtube.com/watch?v=IGe-uVwDEs4', 100, 300)
+# chrome_conn('https://www.youtube.com/watch?v=IGe-uVwDEs4', 100, 300)
 
 # 221222 瑜伽－古今交涉…第02集《《解深密經－融攝止觀．真如觀》》…#北大聖玄 #覺曦軒 (2:36:11)
 # chrome_conn('https://www.youtube.com/watch?v=4BIbBsNN0pk', 100, 300)
