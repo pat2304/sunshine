@@ -2,6 +2,9 @@ from SunFunctions.browser_open import chrome_open
 from SunFunctions.browser_open import fox_open
 from SunFunctions.browser_open import edge_open
 
+# 230106 人在江湖－身不由己…90集《5分鐘·奇葩&閨蜜》…#北大聖玄 #覺曦軒 (6:24)
+# chrome_open('https://www.youtube.com/watch?v=ZEgQydfY27g', 50, 191)
+
 # 230105 教訓不斷－學乖為止…83-47集《視•教學相長－維摩》…#北大聖玄 #覺曦軒 (11:15)
 # chrome_open('https://www.youtube.com/watch?v=5IbUxBs66pg', 50, 224)
 
