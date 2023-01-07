@@ -2,6 +2,9 @@ from SunFunctions.browser_open import chrome_open
 from SunFunctions.browser_open import fox_open
 from SunFunctions.browser_open import edge_open
 
+# 230107 逆境翻轉．畢竟空－新人課…第84集《維摩詰經》…《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (1:02:28)
+chrome_open('https://www.youtube.com/watch?v=V_8tEQtfG0Y', 100, 300)
+
 # 230106 人在江湖－身不由己…90集《5分鐘·奇葩&閨蜜》…#北大聖玄 #覺曦軒 (6:24)
 # chrome_open('https://www.youtube.com/watch?v=ZEgQydfY27g', 50, 191)
 
