@@ -67,8 +67,8 @@ def chrome_open(url, loop, ptime):
         except:
             print('Mouse over fail')
 
-        # Wait 7 secs
-        for j in range(0, 8):
+        # Wait 16 secs
+        for j in range(0, 16):
             mouse_act.move_to_element(panel).move_by_offset(10, 10).perform()
             time.sleep(1)
 

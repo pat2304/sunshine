@@ -8,7 +8,7 @@ from SunFunctions.browser_open import edge_open
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
 # 221231 畢竟空．四超越－新人課…第83集《維摩詰經．弟子品》…#北大聖玄 #覺曦軒 (1:55:17)
-chrome_open('https://www.youtube.com/watch?v=qPVLG6i2VII', 100, 300)
+# chrome_open('https://www.youtube.com/watch?v=qPVLG6i2VII', 100, 300)
 
 # 221231 跨年夜的低鳴－昭朗萬有…33集《視·微享－節慶篇》…#北大聖玄 #覺曦軒 (3:14)
 # chrome_open('https://www.youtube.com/watch?v=Hga-5R89_8Q', 50, 193)
