@@ -8,6 +8,9 @@ from SunFunctions.browser_open import chrome_open
 # 230107 逆境翻轉．畢竟空－新人課…第84集《維摩詰經》…《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (1:02:28)
 chrome_open('https://www.youtube.com/watch?v=V_8tEQtfG0Y', 100, 300)
 
+# 230110 念波與夢－獨頭意識…09集《視頻化·異次元－解密》…#北大聖玄#覺曦軒 (10:10)
+# chrome_open('https://www.youtube.com/watch?v=C2ab1YbhvE0', 50, 202)
+
 # 230109 解套・春節焦慮…第19集《煩惱·DUCK不必》…#北大聖玄 #覺曦軒 (9:07)
 # chrome_open('https://www.youtube.com/watch?v=tHI_W4jgpm4', 50, 181)
 
