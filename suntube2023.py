@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=8BsYQfrW5FU', 100, 300)
 # 230113 《解深密經》思想及結構(二)…05集《解深密經－融攝止觀．真如觀》》…#北大聖玄 #覺曦軒 (2:13:45)
 chrome_open('https://www.youtube.com/watch?v=_iKdqDfYZ8Y', 100, 300)
 
+# 230118 超越的生命呼喚…38集《視•微享－節慶篇》…#北大聖玄 #覺曦軒 (8:55)
+# chrome_open('https://www.youtube.com/watch?v=oC7D2LUAy5M', 50, 177)
+
 # 230117 譜寫－真愛密碼…38集《視•微享－節慶篇》…#北大聖玄 #覺曦軒 (4:44)
 # chrome_open('https://www.youtube.com/watch?v=3oXak_99zDQ', 50, 141)
 
