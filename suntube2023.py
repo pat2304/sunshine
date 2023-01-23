@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=8BsYQfrW5FU', 100, 300)
 # 230113 《解深密經》思想及結構(二)…05集《解深密經－融攝止觀．真如觀》》…#北大聖玄 #覺曦軒 (2:13:45)
 chrome_open('https://www.youtube.com/watch?v=_iKdqDfYZ8Y', 100, 300)
 
+# 230123 敲鑼打鼓－擊法鼓…修44集《視·微享－節慶篇》…#北大聖玄#覺曦軒 (2:01)
+# chrome_open('https://www.youtube.com/watch?v=GqHJwY6YXhg', 50, 120)
+
 # 230122 金兔報喜－曼殊兔勁財…43集《視•微享－節慶篇》…#北大聖玄#覺曦軒 (3:37)
 # chrome_open('https://www.youtube.com/watch?v=8twc7MOJiI4', 50, 216)
 
