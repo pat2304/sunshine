@@ -7,10 +7,16 @@ from SunFunctions.browser_open import chrome_open
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
 # 230115 告別魯蛇．前瞻新年－畢竟空…第85集《維摩詰經》…《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (1:34:17)
-chrome_open('https://www.youtube.com/watch?v=8BsYQfrW5FU', 100, 300)
+# chrome_open('https://www.youtube.com/watch?v=8BsYQfrW5FU', 100, 240)
 
 # 230113 《解深密經》思想及結構(二)…05集《解深密經－融攝止觀．真如觀》》…#北大聖玄 #覺曦軒 (2:13:45)
-chrome_open('https://www.youtube.com/watch?v=_iKdqDfYZ8Y', 100, 300)
+# chrome_open('https://www.youtube.com/watch?v=_iKdqDfYZ8Y', 100, 300)
+
+# 230125 春之聲·春之禮讚…46集《視·微享－節慶篇》…#北大聖玄#覺曦軒 (3:46)
+# chrome_open('https://www.youtube.com/watch?v=BbQy5AeC4ak', 50, 215)
+
+# 230124 看熱鬧．見門道…45集《視•微享－節慶篇》…#北大聖玄#覺曦軒 (3:04)
+# chrome_open('https://www.youtube.com/watch?v=-u5kk9vvoGY', 50, 173)
 
 # 230123 敲鑼打鼓－擊法鼓…修44集《視·微享－節慶篇》…#北大聖玄#覺曦軒 (2:01)
 # chrome_open('https://www.youtube.com/watch?v=GqHJwY6YXhg', 50, 120)
@@ -19,7 +25,7 @@ chrome_open('https://www.youtube.com/watch?v=_iKdqDfYZ8Y', 100, 300)
 # chrome_open('https://www.youtube.com/watch?v=8twc7MOJiI4', 50, 216)
 
 # 230121 癸卯年…賀新春－意識思潮．曼殊致勝…05集《視．賀新春》…#北大聖玄#覺曦軒 (2:57)
-# chrome_open('https://www.youtube.com/watch?v=ny--c12xshE', 50, 176)
+# chrome_open('https://www.youtube.com/watch?v=ny--c12xshE', 50, 165)
 
 # 230121 除夕．除戲論…42集《視·微享－節慶篇》…#北大聖玄#覺曦軒 (3:03)
 # chrome_open('https://www.youtube.com/watch?v=QaSDe_8J26Y', 50, 182)
