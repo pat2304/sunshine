@@ -12,6 +12,9 @@ from SunFunctions.browser_open import chrome_open
 # 230113 《解深密經》思想及結構(二)…05集《解深密經－融攝止觀．真如觀》》…#北大聖玄 #覺曦軒 (2:13:45)
 # chrome_open('https://www.youtube.com/watch?v=_iKdqDfYZ8Y', 100, 300)
 
+# 230126 新春賀歲—勁財到…47集《視·微享－節慶篇》…#北大聖玄#覺曦軒 (3:36)
+# chrome_open('https://www.youtube.com/watch?v=piyaGUV9qh4', 50, 206)
+
 # 230125 春之聲·春之禮讚…46集《視·微享－節慶篇》…#北大聖玄#覺曦軒 (3:46)
 # chrome_open('https://www.youtube.com/watch?v=BbQy5AeC4ak', 50, 215)
 
