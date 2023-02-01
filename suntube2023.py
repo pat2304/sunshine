@@ -9,6 +9,9 @@ from SunFunctions.browser_open import chrome_open
 # 230128 《解深密經》思想及結構(三)…06集《解深密經－融攝止觀．真如觀》》…#北大聖玄 #覺曦軒 (2:02:55)
 chrome_open('https://www.youtube.com/watch?v=JJg0LLHocEE', 100, 240)
 
+# 230201 睡眠即作戰－少睡．少惛沈…第79集《5分鐘·奇葩 & 閨蜜》…#北大聖玄#覺曦軒 (9:07)
+# chrome_open('https://www.youtube.com/watch?v=GyJFTeuXhtk', 50, 180)
+
 # 230131 光－進出異次元介質…第02集《視頻化．異次元－解密》…#北大聖玄 #覺曦軒 (13:15)
 # chrome_open('https://www.youtube.com/watch?v=uvDr70bBCBw', 50, 197)
 
