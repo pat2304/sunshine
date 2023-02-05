@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=xWkpERYql84', 100, 240)
 # 230203 解深密要義－詮釋深層意識…07集《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:25:28)
 chrome_open('https://www.youtube.com/watch?v=xj58R9vtFjI', 100, 240)
 
+# 230205 燈燈相續－慶元宵…49集《視·微享－節慶篇》…#北大聖玄#覺曦軒 (3:04)
+# chrome_open('https://www.youtube.com/watch?v=NBTzUeowQFQ', 50, 183)
+
 # 230128 《解深密經》思想及結構(三)…06集《解深密經－融攝止觀．真如觀》》…#北大聖玄 #覺曦軒 (2:02:55)
 # chrome_open('https://www.youtube.com/watch?v=JJg0LLHocEE', 100, 240)
 
