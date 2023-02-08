@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=xWkpERYql84', 100, 240)
 # 230203 解深密要義－詮釋深層意識…07集《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:25:28)
 chrome_open('https://www.youtube.com/watch?v=xj58R9vtFjI', 100, 240)
 
+# 230208 靈魂．無畏－生死一如…30集《視·微享…30集《視·微享》…#北大聖玄 #覺曦軒 (9:13)
+# chrome_open('https://www.youtube.com/watch?v=Voctiaj-py8', 50, 183)
+
 # 230206 解套時間…第1集《煩惱．DUCK不必》…#北大聖玄#覺曦軒 (2:28)
 # chrome_open('https://www.youtube.com/watch?v=4ft7pgkmj2A', 50, 147)
 
