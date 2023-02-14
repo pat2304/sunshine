@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=k-xDou-4utw', 100, 240)
 # 230204 說法者－當如法說…第86集《維摩詰經》…《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (1:52:37)
 chrome_open('https://www.youtube.com/watch?v=xWkpERYql84', 100, 240)
 
+# 230214 情人的真愛密碼…50集《視·微享》…#北大聖玄#覺曦軒 (5:03)
+# chrome_open('https://www.youtube.com/watch?v=VO7q79DQrTA', 50, 150)
+
 # 230213 與君同行－震撼重生…第20集《提月點燈－話創異》…#北大聖玄 #覺曦軒 (10:19)
 # chrome_open('https://www.youtube.com/watch?v=TDmPYsfbarA', 50, 205)
 
