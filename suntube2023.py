@@ -6,11 +6,14 @@ from SunFunctions.browser_open import chrome_open
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 230218 法無戲論．畢竟空故－弟子品…第87集《維摩詰經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (1:36:16)
+chrome_open('https://www.youtube.com/watch?v=6aEfH24eyG0', 100, 240)
+
 # 230217 解深密．義．境－序分－密意…09集《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:02:01)
 chrome_open('https://www.youtube.com/watch?v=jrn5La91_sI', 100, 240)
 
 # 230204 說法者－當如法說…第86集《維摩詰經》…《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (1:52:37)
-chrome_open('https://www.youtube.com/watch?v=xWkpERYql84', 100, 240)
+# chrome_open('https://www.youtube.com/watch?v=xWkpERYql84', 100, 240)
 
 # 230216 因果不昧．罪性本空…12-9集《視頻化‧聖玄語露》…#北大聖玄 #覺曦軒 (7:22)
 # chrome_open('https://www.youtube.com/watch?v=Cy7_lfSDOcM', 50, 220)
