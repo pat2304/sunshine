@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=6aEfH24eyG0', 100, 240)
 # 230217 解深密．義．境－序分－密意…09集《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:02:01)
 chrome_open('https://www.youtube.com/watch?v=jrn5La91_sI', 100, 240)
 
+# 230220 解套．哦…太神啦！…20集《煩惱．Duck 不必》…#北大聖玄 #覺曦軒 (8:24)
+# chrome_open('https://www.youtube.com/watch?v=6QICTKLWJxg', 50, 168)
+
 # 230204 說法者－當如法說…第86集《維摩詰經》…《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (1:52:37)
 # chrome_open('https://www.youtube.com/watch?v=xWkpERYql84', 100, 240)
 
