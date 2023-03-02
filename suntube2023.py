@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=qxlOqs_OVwY', 100, 240)
 # 230224 大止妙觀．三解脫門－序分…10集《解深密經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (1:55:15)
 chrome_open('https://www.youtube.com/watch?v=BH6X3M8apcg', 100, 240)
 
+# 230302 千百億佛－同一法身…《視·聖玄語露》#北大聖玄 #覺曦軒 (7:57)
+# chrome_open('https://www.youtube.com/watch?v=qV3l_lmKFwI', 50, 158)
+
 # 230227 搶救現實困境－大悲水．放生…第06集《關鍵出擊》…#北大聖玄#覺曦軒 (41:16)
 # chrome_open('https://www.youtube.com/watch?v=xqMTPZpD7Xg', 50, 240)
 
