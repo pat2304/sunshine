@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=aojzV08Rv1A', 100, 240)
 # 230303 趣無相法．住於佛性－序分…11集《解深密經《跨領域－重磅對話》…#北大聖玄#覺曦軒 (2:38:48)
 chrome_open('https://www.youtube.com/watch?v=2675C0fcl6I', 100, 240)
 
+# 230306 解套．烹屍案…20集《煩惱．Duck 不必》…#北大聖玄 #覺曦軒 (9:39)
+# chrome_open('https://www.youtube.com/watch?v=pbDnm_BAuzo', 50, 192)
+
 # 230225 法不屬因．不在緣故－弟子品…88集《維摩詰經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (1:30:38)
 # chrome_open('https://www.youtube.com/watch?v=qxlOqs_OVwY', 100, 240)
 
