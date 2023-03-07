@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=aojzV08Rv1A', 100, 240)
 # 230303 趣無相法．住於佛性－序分…11集《解深密經《跨領域－重磅對話》…#北大聖玄#覺曦軒 (2:38:48)
 chrome_open('https://www.youtube.com/watch?v=2675C0fcl6I', 100, 240)
 
+# 230307 石頭也能成佛．一如平等性…11-8集《視·教學相長－解深》…#北大聖玄#覺曦軒 (11:50)
+# chrome_open('https://www.youtube.com/watch?v=cTuNn9bTaxw', 50, 177)
+
 # 230306 解套．烹屍案…20集《煩惱．Duck 不必》…#北大聖玄 #覺曦軒 (9:39)
 # chrome_open('https://www.youtube.com/watch?v=pbDnm_BAuzo', 50, 192)
 
