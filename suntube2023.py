@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=aojzV08Rv1A', 100, 240)
 # 230303 趣無相法．住於佛性－序分…11集《解深密經《跨領域－重磅對話》…#北大聖玄#覺曦軒 (2:38:48)
 chrome_open('https://www.youtube.com/watch?v=2675C0fcl6I', 100, 240)
 
+# 230309 一音演說法－眾生隨類解…12-12集《視·聖玄語露》…#北大聖玄 #覺曦軒 (8:04)
+# chrome_open('https://www.youtube.com/watch?v=CF0KkKjqIfo', 50, 240)
+
 # 230308 形塑當代魅力女性－璀燦、睿智…51集《視．微享－…#北大聖玄#覺曦軒 (4:27)
 # chrome_open('https://www.youtube.com/watch?v=laJbWxefBMA', 50, 133)
 
