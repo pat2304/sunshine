@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=MVht4mLVzRw', 100, 240)
 # 230310 凡所現身·不可分別－序分…第12集…《解深密經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:17:25)
 chrome_open('https://www.youtube.com/watch?v=ZE5OGx3gEgY', 100, 240)
 
+# 230312 大象背上顯神奇－劃時代踐行典範…53集《視·微享－節慶…#北大聖玄#覺曦軒 (4:35)
+# chrome_open('https://www.youtube.com/watch?v=BFZ2OsXKG6A', 50, 137)
+
 # 230304 法隨於如．無所隨故－弟子品…第89集《維摩詰經》《跨領域…#北大聖玄 #覺曦軒 (1:21:11)
 # chrome_open('https://www.youtube.com/watch?v=aojzV08Rv1A', 100, 240)
 
