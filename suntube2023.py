@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=MVht4mLVzRw', 100, 240)
 # 230310 凡所現身·不可分別－序分…第12集…《解深密經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:17:25)
 chrome_open('https://www.youtube.com/watch?v=ZE5OGx3gEgY', 100, 240)
 
+# 230313 解套．科技迷思後遺症…第22集《煩惱•DUCK不必》…#北大聖玄 #覺曦軒 (8:31)
+# chrome_open('https://www.youtube.com/watch?v=Lk1ekqp7h7w', 50, 170)
+
 # 230312 大象背上顯神奇－劃時代踐行典範…53集《視·微享－節慶…#北大聖玄#覺曦軒 (4:35)
 # chrome_open('https://www.youtube.com/watch?v=BFZ2OsXKG6A', 50, 137)
 
