@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=MVht4mLVzRw', 100, 240)
 # 230310 凡所現身·不可分別－序分…第12集…《解深密經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:17:25)
 chrome_open('https://www.youtube.com/watch?v=ZE5OGx3gEgY', 100, 240)
 
+# 230316 不離自性是功．應用無染是德…11-1集…《視．聖玄語露》…#北大聖玄#覺曦軒 (6:55)
+# chrome_open('https://www.youtube.com/watch?v=qzLSi-YmnaA', 50, 206)
+
 # 230314 空有并具．有無相生…12-9集…視·教學相長－解深》…#北大聖玄#覺曦軒 (10:18)
 # chrome_open('https://www.youtube.com/watch?v=KHbn9i_Gt1I', 50, 205)
 
