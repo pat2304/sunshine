@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=lzODmRhGNnI', 100, 240)
 # 230317 解脫妙智．證無中邊－序分…第13集…《解深密經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:27:28)
 chrome_open('https://www.youtube.com/watch?v=BeV4ig4zELY', 100, 240)
 
+# 230323 源於心．超乎心－不離相．不顯相…11-2集《視‧聖玄語露》…#北大聖玄#覺曦軒 (9:55)
+# chrome_open('https://www.youtube.com/watch?v=_oylaPTrUIQ', 50, 197)
+
 # 230321 一毫端．寶王剎－全息融攝…13-10集《視·教學相長－解深》…#北大聖玄#覺曦軒 (14:03)
 # chrome_open('https://www.youtube.com/watch?v=m_1rTweY_FE', 50, 210)
 
