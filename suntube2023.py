@@ -6,11 +6,26 @@ from SunFunctions.browser_open import chrome_open
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 230402 住平等法．應次行乞食…第93集《維摩詰經．弟子品》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:08:14)
+chrome_open('https://www.youtube.com/watch?v=p8OlYgUQczs', 100, 240)
+
+# 230401 離言法性．令現等覺－勝義諦相…15集《解深密《跨領域－重磅對話》#北大聖玄 #覺曦軒 (2:22:47)
+chrome_open('https://www.youtube.com/watch?v=PbFTqVvVQBY', 100, 240)
+
+# 230325 無說無示．無聞無得－弟子品…第92集《維摩詰經．弟子品》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:00:17)
+# chrome_open('https://www.youtube.com/watch?v=9vZsibJg9Mc', 100, 240)
+
 # 230324 具足三明．現法樂住－序分…14集《解深密《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:55:30)
-chrome_open('https://www.youtube.com/watch?v=3vwG0jdZYqU', 100, 240)
+# chrome_open('https://www.youtube.com/watch?v=3vwG0jdZYqU', 100, 240)
+
+# 230330 人性弱點－障目．扭曲．無力…11-3集《視‧聖玄語露》…#北大聖玄#覺曦軒 (9:14)
+# chrome_open('https://www.youtube.com/watch?v=QnCdYKVSaDE', 50, 183)
+
+# 230327 解套．再見安打．安啦！…第23集《煩惱·DUCK不必》…#北大聖玄 #覺曦軒 (7:33)
+# chrome_open('https://www.youtube.com/watch?v=IXvi86C6BxY', 222)
 
 # 230318 法常住不動．離觀行－弟子品…第91集《維摩詰經．弟子品》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (1:28:16)
-chrome_open('https://www.youtube.com/watch?v=lzODmRhGNnI', 100, 240)
+# chrome_open('https://www.youtube.com/watch?v=lzODmRhGNnI', 100, 240)
 
 # 230317 解脫妙智．證無中邊－序分…第13集…《解深密經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:27:28)
 # chrome_open('https://www.youtube.com/watch?v=BeV4ig4zELY', 100, 240)
