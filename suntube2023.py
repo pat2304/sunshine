@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=p8OlYgUQczs', 100, 240)
 # 230401 離言法性．令現等覺－勝義諦相…15集《解深密《跨領域－重磅對話》#北大聖玄 #覺曦軒 (2:22:47)
 chrome_open('https://www.youtube.com/watch?v=PbFTqVvVQBY', 100, 240)
 
+# 230403 相愛容易．相處難…第一名投稿…第22集《提月點燈－話創異》…#北大聖玄 #覺曦軒 (9:50)
+# chrome_open('https://www.youtube.com/watch?v=_QocRH0Gco0', 50, 195)
+
 # 230325 無說無示．無聞無得－弟子品…第92集《維摩詰經．弟子品》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:00:17)
 # chrome_open('https://www.youtube.com/watch?v=9vZsibJg9Mc', 100, 240)
 
