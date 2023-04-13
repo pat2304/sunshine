@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=Xi1UkFbgPb0', 100, 240)
 # 230407 聖智聖見．離名言－勝義諦相…16集《解深密經》《跨領域－重磅對話》！…#北大聖玄 #覺曦軒 (2:07:27)
 chrome_open('https://www.youtube.com/watch?v=JzWz36og9T4', 100, 240)
 
+# 230413 縱慾－心發狂…11-5集《視·聖玄語露》…#北大聖玄#覺曦軒 (6:44)
+# chrome_open('https://www.youtube.com/watch?v=AlQgHXw1bAM', 50, 200)
+
 # 230410 解套．珍愛自他－生命教育…第24集《煩惱·DUCK不必》…#北大聖玄 #覺曦軒 (10:36)
 # chrome_open('https://www.youtube.com/watch?v=OOhUk3ytujo', 50, 211)
 
