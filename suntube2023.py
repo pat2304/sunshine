@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=I0uP0HoQrSY', 100, 240)
 # 230414 所見所聞．隨起言說－勝義諦相…17集《解深密經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:35:17)
 chrome_open('https://www.youtube.com/watch?v=Wv-7g3991n0', 100, 240)
 
+# 230417 解套·恐婚…第25集《煩惱·DUCK不必》…#北大聖玄 #覺曦軒 (7:58)
+# chrome_open('https://www.youtube.com/watch?v=cP9Sp2GWD6M', 50, 158)
+
 # 230408 本自不然．今則無滅－弟子品…第94集《維摩詰經．弟子品》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (1:47:06)
 # chrome_open('https://www.youtube.com/watch?v=Xi1UkFbgPb0', 100, 240)
 
