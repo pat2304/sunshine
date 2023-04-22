@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=I0uP0HoQrSY', 100, 240)
 # 230414 所見所聞．隨起言說－勝義諦相…17集《解深密經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:35:17)
 chrome_open('https://www.youtube.com/watch?v=Wv-7g3991n0', 100, 240)
 
+# 230420 千江映月－甚深意…11-6集《視·聖玄語露》…#北大聖玄#覺曦軒 (8:23)
+# chrome_open('https://www.youtube.com/watch?v=t3f0Jf5r6oA', 50, 166)
+
 # 230417 解套·恐婚…第25集《煩惱·DUCK不必》…#北大聖玄 #覺曦軒 (7:58)
 # chrome_open('https://www.youtube.com/watch?v=cP9Sp2GWD6M', 50, 158)
 
