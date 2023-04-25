@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=oqOXcClZW-w', 100, 240)
 # 230421 超越尋思勝義．現正等覺－勝義諦相…18集《解深密經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:18:11)
 chrome_open('https://www.youtube.com/watch?v=Yn_DvvmHebU', 100, 240)
 
+# 230424 心理師的擺渡－美麗．哀愁…第23集《提月點燈－話創異》…#北大聖玄 #覺曦軒 (15:21)
+# chrome_open('https://www.youtube.com/watch?v=R2EdqIROz7w', 50, 230)
+
 # 230415 不捨八邪．入八解脫－弟子品…第95集《維摩詰經．弟子品》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (56:23)
 # chrome_open('https://www.youtube.com/watch?v=I0uP0HoQrSY', 100, 240)
 
