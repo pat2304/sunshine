@@ -6,14 +6,17 @@ from SunFunctions.browser_open import chrome_open
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 230428 勝義內自證．超尋思境相－勝義諦相…19集《解深密經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:25:44)
+chrome_open('https://www.youtube.com/watch?v=G0lXSBgIiNQ', 100, 240)
+
 # 230422 不空．食人之施－弟子品…第96集《維摩詰經．弟子品》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (1:44:56)
 chrome_open('https://www.youtube.com/watch?v=oqOXcClZW-w', 100, 240)
 
 # 230421 超越尋思勝義．現正等覺－勝義諦相…18集《解深密經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:18:11)
-chrome_open('https://www.youtube.com/watch?v=Yn_DvvmHebU', 100, 240)
+# chrome_open('https://www.youtube.com/watch?v=Yn_DvvmHebU', 100, 240)
 
 # 230427 上上智．沒意智－正解…11-7集《視·聖玄語露》…#北大聖玄#覺曦軒 (6:25)
-chrome_open('https://www.youtube.com/watch?v=9Bt3hYQjj7I', 50, 192)
+# chrome_open('https://www.youtube.com/watch?v=9Bt3hYQjj7I', 50, 192)
 
 # 230424 心理師的擺渡－美麗．哀愁…第23集《提月點燈－話創異》…#北大聖玄 #覺曦軒 (15:21)
 # chrome_open('https://www.youtube.com/watch?v=R2EdqIROz7w', 50, 230)
