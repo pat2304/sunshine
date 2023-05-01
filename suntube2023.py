@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=A5fSTuV_5Bs', 100, 240)
 # 230428 勝義內自證．超尋思境相－勝義諦相…19集《解深密經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:25:44)
 chrome_open('https://www.youtube.com/watch?v=G0lXSBgIiNQ', 100, 240)
 
+# 230501 T型人才．時代堅兵…55集《視•微享－節慶篇》…#北大聖玄#覺曦軒 (4:02)
+# chrome_open('https://www.youtube.com/watch?v=jR-9gF823Uw', 50, 240)
+
 # 230422 不空．食人之施－弟子品…第96集《維摩詰經．弟子品》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (1:44:56)
 # chrome_open('https://www.youtube.com/watch?v=oqOXcClZW-w', 100, 240)
 
