@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=JadiSUkS_jk', 100, 240)
 # 230505 無相所行．不說絕表示－勝義諦相…20集《解深密經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:37:41)
 chrome_open('https://www.youtube.com/watch?v=0fVU0g6muWY', 100, 240)
 
+# 230511 一日不作．一日不食－深義…11-9集《視·聖玄語露》…#北大聖玄#覺曦軒 (9:13)
+# chrome_open('https://www.youtube.com/watch?v=aznSq5i5cEI', 50, 183)
+
 # 230508 解套．後疫情調適…26集…《煩惱．Duck 不必》…#北大聖玄 #覺曦軒 (11:44)
 # chrome_open('https://www.youtube.com/watch?v=DmgKLrPvsI0', 50, 175)
 
