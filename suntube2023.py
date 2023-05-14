@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=te3jrWTFlpk', 100, 240)
 # 230512 勝義甚深－超諸一異性相－勝義諦相…21集《解深密經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:53:39)
 chrome_open('https://www.youtube.com/watch?v=ezGAaQ4Z5Ww', 100, 240)
 
+# 230514 寸草春暉－舐犢情深56集《視·微享－節慶篇》…#北大聖玄#覺曦軒 (3:45)
+# chrome_open('https://www.youtube.com/watch?v=SM7x8ksJ364', 50, 223)
+
 # 230506 五逆相．不解不縛－弟子品…第98集《維摩詰經．弟子品》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:02:25)
 # chrome_open('https://www.youtube.com/watch?v=JadiSUkS_jk', 100, 240)
 
