@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=te3jrWTFlpk', 100, 240)
 # 230512 勝義甚深－超諸一異性相－勝義諦相…21集《解深密經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:53:39)
 chrome_open('https://www.youtube.com/watch?v=ezGAaQ4Z5Ww', 100, 240)
 
+# 230515 療癒心傷－終極療癒…第一名榜文…第24集《提月點燈－話創異》…#北大聖玄 #覺曦軒 (11:31)
+# chrome_open('https://www.youtube.com/watch?v=D6VTri-YTUs', 50, 230)
+
 # 230514 寸草春暉－舐犢情深56集《視·微享－節慶篇》…#北大聖玄#覺曦軒 (3:45)
 # chrome_open('https://www.youtube.com/watch?v=SM7x8ksJ364', 50, 223)
 
