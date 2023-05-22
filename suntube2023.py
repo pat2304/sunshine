@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=iV_m8eBgnZY', 100, 240)
 # 230519 勝義諦相．諸行相－無異相．不應道理…22集《解深密經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:06:06)
 chrome_open('https://www.youtube.com/watch?v=XyDvgopSE0Y', 100, 240)
 
+# 230522 驚蟄與未知－曼殊大愛…58集《視·微享－節慶篇》…#北大聖玄#覺曦軒 (5:15)
+# chrome_open('https://www.youtube.com/watch?v=9Hp2suxvihg', 50, 156)
+
 # 230513 彼師墮．汝亦隨墮－乃可取食…第99集《維摩詰經．弟子品》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:04:06)
 # chrome_open('https://www.youtube.com/watch?v=te3jrWTFlpk', 100, 240)
 
