@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=iV_m8eBgnZY', 100, 240)
 # 230519 勝義諦相．諸行相－無異相．不應道理…22集《解深密經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:06:06)
 chrome_open('https://www.youtube.com/watch?v=XyDvgopSE0Y', 100, 240)
 
+# 230525 了不可得－奢華幸福…11-11集《視•聖玄語露》…#北大聖玄#覺曦軒 (8:03)
+# chrome_open('https://www.youtube.com/watch?v=Qt2PAik-_54', 50, 160)
+
 # 230524 大臼齒－與主人對話…57集《視·微享－節慶篇》…#北大聖玄#覺曦軒 (7:29)
 # chrome_open('https://www.youtube.com/watch?v=WFPrrOS4SmE', 50, 224)
 
