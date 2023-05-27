@@ -6,11 +6,17 @@ from SunFunctions.browser_open import chrome_open
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 230526 不能除遣．不能解脫－能證．能悟…第23集…《解深密經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:55:28)
+chrome_open('https://www.youtube.com/watch?v=uThbRC1dmNM', 100, 240)
+
 # 230520 謗諸佛．毀諸法－終不得滅度…第100集《維摩詰經．弟子品》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (1:24:44)
 chrome_open('https://www.youtube.com/watch?v=iV_m8eBgnZY', 100, 240)
 
 # 230519 勝義諦相．諸行相－無異相．不應道理…22集《解深密經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:06:06)
-chrome_open('https://www.youtube.com/watch?v=XyDvgopSE0Y', 100, 240)
+# chrome_open('https://www.youtube.com/watch?v=XyDvgopSE0Y', 100, 240)
+
+# 230526 洗心滌慮－浴佛意…59集《視·微享－節慶篇》…#北大聖玄#覺曦軒 (5:14)
+# chrome_open('https://www.youtube.com/watch?v=OpP_HSjb5oA', 50, 156)
 
 # 230525 了不可得－奢華幸福…11-11集《視•聖玄語露》…#北大聖玄#覺曦軒 (8:03)
 # chrome_open('https://www.youtube.com/watch?v=Qt2PAik-_54', 50, 160)
