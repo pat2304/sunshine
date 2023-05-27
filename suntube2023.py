@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=uThbRC1dmNM', 100, 240)
 # 230520 謗諸佛．毀諸法－終不得滅度…第100集《維摩詰經．弟子品》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (1:24:44)
 chrome_open('https://www.youtube.com/watch?v=iV_m8eBgnZY', 100, 240)
 
+# 230527 搶救現實困境－大悲水．放生…修一版．第06集《關鍵出擊》…#北大聖玄#覺曦軒 (42:00)
+# chrome_open('https://www.youtube.com/watch?v=BiRq4eROJ1E', 50, 240)
+
 # 230519 勝義諦相．諸行相－無異相．不應道理…22集《解深密經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:06:06)
 # chrome_open('https://www.youtube.com/watch?v=XyDvgopSE0Y', 100, 240)
 
