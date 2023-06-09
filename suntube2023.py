@@ -12,8 +12,11 @@ chrome_open('https://www.youtube.com/watch?v=wPEfMk5sSaA', 50, 222)
 # 230602 修觀行－如其見聞覺知…第24集…《解深密經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:48:33)
 chrome_open('https://www.youtube.com/watch?v=9Z8YKA2Ss-0', 100, 240)
 
+# 230608 法－非佛陀所創建…11-12集《視·聖玄語露》…#北京大學聖玄#覺曦軒 (6:20)
+# chrome_open('https://www.youtube.com/watch?v=s4pXWgW_v_U', 50, 189)
+
 # 230605 解套- 考烤拷．王牌金腦…第一名上榜…第28集《煩惱·DUCK不必》…#北大聖玄 #覺曦軒 (8:38)
-chrome_open('https://www.youtube.com/watch?v=u3q2qArgRPw', 50, 170)
+# chrome_open('https://www.youtube.com/watch?v=u3q2qArgRPw', 50, 170)
 
 # 230526 不能除遣．不能解脫－能證．能悟…第23集…《解深密經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:55:28)
 # chrome_open('https://www.youtube.com/watch?v=uThbRC1dmNM', 100, 240)
