@@ -13,7 +13,7 @@ chrome_open('https://www.youtube.com/watch?v=wPEfMk5sSaA', 50, 222)
 chrome_open('https://www.youtube.com/watch?v=9Z8YKA2Ss-0', 100, 240)
 
 # 230605 解套- 考烤拷．王牌金腦…第一名上榜…第28集《煩惱·DUCK不必》…#北大聖玄 #覺曦軒 (8:38)
-# chrome_open('https://www.youtube.com/watch?v=u3q2qArgRPw', 50, 170)
+chrome_open('https://www.youtube.com/watch?v=u3q2qArgRPw', 50, 170)
 
 # 230526 不能除遣．不能解脫－能證．能悟…第23集…《解深密經》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (2:55:28)
 # chrome_open('https://www.youtube.com/watch?v=uThbRC1dmNM', 100, 240)
