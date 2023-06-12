@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=eFg99zg-gbU', 100, 240)
 # 230609 唯無自性之現－名勝義相…第25集…《解深密經》《跨領域－重磅對話》》…#北京大學聖玄 #覺曦軒 (2:13:13)
 chrome_open('https://www.youtube.com/watch?v=QGKI8qdimPI', 100, 240)
 
+# 230612 解套．考後焦慮症…第29集《煩惱·DUCK不必》…#北京大學聖玄 #覺曦軒 (8:29)
+# chrome_open('https://www.youtube.com/watch?v=Pdv1SMt0olc', 50, 168)
+
 # 230603 見相非相－空間扭曲…14集《視頻化•異次元－解密》…#北大聖玄#覺曦軒 (11:13)
 # chrome_open('https://www.youtube.com/watch?v=wPEfMk5sSaA', 50, 222)
 
