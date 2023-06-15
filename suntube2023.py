@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=eFg99zg-gbU', 100, 240)
 # 230609 唯無自性之現－名勝義相…第25集…《解深密經》《跨領域－重磅對話》》…#北京大學聖玄 #覺曦軒 (2:13:13)
 chrome_open('https://www.youtube.com/watch?v=QGKI8qdimPI', 100, 240)
 
+# 230615 試穿他人鞋－同頻共振．重生…63集《視•微享》《視•微享－節慶篇》…#北京大學聖玄#覺曦軒 (13:43)
+chrome_open('https://www.youtube.com/watch?v=P_FG2DgubzA', 50, 204)
+
 # 230612 解套．考後焦慮症…第29集《煩惱·DUCK不必》…#北京大學聖玄 #覺曦軒 (8:29)
 # chrome_open('https://www.youtube.com/watch?v=Pdv1SMt0olc', 50, 168)
 
