@@ -6,14 +6,17 @@ from SunFunctions.browser_open import chrome_open
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 230616 勝義諦相－遍一切一味相…第26集…《解深密經》《跨領域－重磅對話》…#北京大學聖玄 #覺曦軒 (2:14:21)
+chrome_open('https://www.youtube.com/watch?v=y-Mhp1wBGKo', 100, 240)
+
 # 230610 滅度 vs. 常住七果…第101集《維摩詰經．弟子品》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (1:01:09)
 chrome_open('https://www.youtube.com/watch?v=eFg99zg-gbU', 100, 240)
 
 # 230609 唯無自性之現－名勝義相…第25集…《解深密經》《跨領域－重磅對話》》…#北京大學聖玄 #覺曦軒 (2:13:13)
-chrome_open('https://www.youtube.com/watch?v=QGKI8qdimPI', 100, 240)
+# chrome_open('https://www.youtube.com/watch?v=QGKI8qdimPI', 100, 240)
 
 # 230615 試穿他人鞋－同頻共振．重生…63集《視•微享》《視•微享－節慶篇》…#北京大學聖玄#覺曦軒 (13:43)
-chrome_open('https://www.youtube.com/watch?v=P_FG2DgubzA', 50, 204)
+# chrome_open('https://www.youtube.com/watch?v=P_FG2DgubzA', 50, 204)
 
 # 230612 解套．考後焦慮症…第29集《煩惱·DUCK不必》…#北京大學聖玄 #覺曦軒 (8:29)
 # chrome_open('https://www.youtube.com/watch?v=Pdv1SMt0olc', 50, 168)
