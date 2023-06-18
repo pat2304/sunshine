@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=QZUd-n6qzIo', 100, 240)
 # 230616 勝義諦相－遍一切一味相…第26集…《解深密經》《跨領域－重磅對話》…#北京大學聖玄 #覺曦軒 (2:14:21)
 chrome_open('https://www.youtube.com/watch?v=y-Mhp1wBGKo', 100, 240)
 
+# 230618  壯闊中的溫柔－獻給人父…64集《視·微享》…#北京大學聖玄#覺曦軒 (7:17)
+# chrome_open('https://www.youtube.com/watch?v=1y0FaUGW9Ps', 50, 217)
+
 # 230610 滅度 vs. 常住七果…第101集《維摩詰經．弟子品》《跨領域－重磅對話》…#北大聖玄 #覺曦軒 (1:01:09)
 # chrome_open('https://www.youtube.com/watch?v=eFg99zg-gbU', 100, 240)
 
