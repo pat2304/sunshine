@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=IE2kCBN7qlI', 100, 240)
 # 230617 諸法幻化相－應無所懼…102集…《維摩詰經．弟子品》《跨領域對話》…#北京大學聖玄#覺曦軒 (1:28:23)
 chrome_open('https://www.youtube.com/watch?v=QZUd-n6qzIo', 100, 240)
 
+# 230626 生命探索－國際化耕耘．Quest for Life - Cultivating Internationalization…雙語第25集《提月點燈－話創異》…#北大聖玄 #覺曦軒 (22:19)
+# chrome_open('https://www.youtube.com/watch?v=aqYKqGwF1ew', 50, 222)
+
 # 230616 勝義諦相－遍一切一味相…第26集…《解深密經》《跨領域－重磅對話》…#北京大學聖玄 #覺曦軒 (2:14:21)
 # chrome_open('https://www.youtube.com/watch?v=y-Mhp1wBGKo', 100, 240)
 
