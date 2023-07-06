@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=gyVfLTyjo84', 100, 240)
 # 230630 遍知、永斷、得諦－錯為作證…28集…《解深密經》《跨領域－重磅對話》…#北京大學聖玄 #覺曦軒 (2:55:45)
 chrome_open('https://www.youtube.com/watch?v=32sdmdSFZ0k', 100, 240)
 
+# 230706 入定．觀心－然後說法#10-2集《視•聖玄語露》…#北京大學聖玄#覺曦軒 (9:04)
+# chrome_open('https://www.youtube.com/watch?v=Ex3TwqhitvE', 50, 180)
+
 # 230623 依有所得現觀－說相法…第27集…《解深密經》《跨領域－重磅對話》…#北京大學聖玄 #覺曦軒 (2:51:53)
 # chrome_open('https://www.youtube.com/watch?v=IE2kCBN7qlI', 100, 240)
 
