@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=nW9s0m5BwvU', 100, 240)
 # 230707 從因生－是有為．非勝義…29集…《解深密經》…《解深密經》《跨領域－重…#北京大學聖玄 #覺曦軒 (2:35:03)
 chrome_open('https://www.youtube.com/watch?v=6QjHxBVDrhU', 100, 240)
 
+# 230710 一樣的年齡．不一樣的精彩…第一名…Same Age－Different Brilliance…26集《提月點燈－話創異》…#北大聖玄 #覺曦軒 (21:25)
+# chrome_open('https://www.youtube.com/watch?v=roRN0DP11_U', 50, 212)
+
 # 230701 無以穢食－置於寶器…103集…《維摩詰經．弟子品》《跨領域－重磅對話》…#北京大學聖玄#覺曦軒 (1:57:51)
 # chrome_open('https://www.youtube.com/watch?v=gyVfLTyjo84', 100, 240)
 
