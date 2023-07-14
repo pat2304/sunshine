@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=nW9s0m5BwvU', 100, 240)
 # 230707 從因生－是有為．非勝義…29集…《解深密經》…《解深密經》《跨領域－重…#北京大學聖玄 #覺曦軒 (2:35:03)
 chrome_open('https://www.youtube.com/watch?v=6QjHxBVDrhU', 100, 240)
 
+# 230713 雙語：見菩提．取證者－增上慢人，10-3集…To perceive Bodhi as realistic - the arrogant person …#北京大學聖玄#覺曦軒 (7:30)
+# chrome_open('https://www.youtube.com/watch?v=-6Z1Z7whgpE', 50, 224)
+
 # 230710 一樣的年齡．不一樣的精彩…第一名…Same Age－Different Brilliance…26集《提月點燈－話創異》…#北大聖玄 #覺曦軒 (21:25)
 # chrome_open('https://www.youtube.com/watch?v=roRN0DP11_U', 50, 212)
 
