@@ -6,11 +6,14 @@ from SunFunctions.browser_open import chrome_open
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 230714 諸法－法性安立．法界安住…第30集…《解深密經》…《解深密經》《跨領域－重磅對話》…#北京大學聖玄 #覺曦軒 (2:19:04)
+chrome_open('https://www.youtube.com/watch?v=YEYyvBlTTH4', 100, 240)
+
 # 230708 四行相－苦、空、無常、無我…104集…《維摩詰經．弟子品》《跨領域－重磅對話》…#北京大學聖玄#覺曦軒 (2:26:26)
 chrome_open('https://www.youtube.com/watch?v=nW9s0m5BwvU', 100, 240)
 
 # 230707 從因生－是有為．非勝義…29集…《解深密經》…《解深密經》《跨領域－重…#北京大學聖玄 #覺曦軒 (2:35:03)
-chrome_open('https://www.youtube.com/watch?v=6QjHxBVDrhU', 100, 240)
+# chrome_open('https://www.youtube.com/watch?v=6QjHxBVDrhU', 100, 240)
 
 # 230713 雙語：見菩提．取證者－增上慢人，10-3集…To perceive Bodhi as realistic - the arrogant person …#北京大學聖玄#覺曦軒 (7:30)
 # chrome_open('https://www.youtube.com/watch?v=-6Z1Z7whgpE', 50, 224)
