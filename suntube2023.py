@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=FfwLHT8w5v8', 100, 240)
 # 230714 諸法－法性安立．法界安住…第30集…《解深密經》…《解深密經》《跨領域－重磅對話》…#北京大學聖玄 #覺曦軒 (2:19:04)
 chrome_open('https://www.youtube.com/watch?v=YEYyvBlTTH4', 100, 240)
 
+# 230720 雙語：無情有性－生物解…Non-Consciouness with Self-Nature - Biologic Diversity…10-4集《視•聖玄語露》(16:34)
+# chrome_open('https://www.youtube.com/watch?v=vMmZ339d0Us', 50, 197)
+
 # 230717 震撼重生—師父福臨．Inspiring Rebirth – Master Sunshine’s Blessing…第27集《提月點燈－話創異《提月點燈－話創異》…#北大聖玄 #覺曦軒 (12:42)
 # chrome_open('https://www.youtube.com/watch?v=2QF9BK3Ol5E', 50, 190)
 
