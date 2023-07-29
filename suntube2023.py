@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=Ok8YkIMtUp4', 100, 240)
 # 230715 苦、空、無常、無我－真實義…105集…《維摩詰經．弟子品》《跨領域－重磅對話》…#北京大學聖玄#覺曦軒 (1:50:52)
 chrome_open('https://www.youtube.com/watch?v=FfwLHT8w5v8', 100, 240)
 
+# 230727 風動、旛動－心動…Wind Moves, Banner Moves－Mind State... 10-5集《視·聖玄語露》 …#北京大學聖玄#覺曦軒 (15:23)
+# chrome_open('https://www.youtube.com/watch?v=pkI5qGGMlPw', 50, 229)
+
 # 230724 幸福金鑰－覺醒的心GoldenＫey to Happiness －第一名上榜…２８集《提月點燈－話創異》(8:54)
 # chrome_open('https://www.youtube.com/watch?v=OlZDjiV8dkk', 50, 177)
 
