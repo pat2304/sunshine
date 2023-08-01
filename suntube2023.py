@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=jZXSmos6JEA', 100, 240)
 # 230728 阿陀那識－三義…32集…《解深密經》《跨領域－重磅對話》…#北京大學聖玄 #覺曦軒 (2:39:58)
 chrome_open('https://www.youtube.com/watch?v=gRdv2BqE7Vk', 100, 240)
 
+# 230731 一步錯－步步錯One Wrong Step－Wrong Steps Follow…29集《提月點燈－話創異》…#北京大學聖玄#覺曦軒 (16:43)
+# chrome_open('https://www.youtube.com/watch?v=JQoMWPjaYVE', 50, 167)
+
 # 230721 末那識－除名心意識品…31集…《解深密經》《跨領域－重磅對話》…#北京大學聖玄 #覺曦軒 (2:11:34)
 # chrome_open('https://www.youtube.com/watch?v=Ok8YkIMtUp4', 100, 240)
 
