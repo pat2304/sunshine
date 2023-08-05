@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=dLGDY0ET6Tg', 100, 240)
 # 230729 常在三昧－諸佛國．不二相…106集…《維摩詰經．弟子品》《跨領域－重磅對話》…#北京大學聖玄#覺曦軒 (45:19)
 chrome_open('https://www.youtube.com/watch?v=jZXSmos6JEA', 100, 240)
 
+# 230805 雙語…耕心有成．觀音圓成集…Cultivation & Avalokitesvara's Pecfection…69集…#北京大學聖玄#覺曦軒 (8:45)
+# chrome_open('https://www.youtube.com/watch?v=plp3JG30wj8', 50, 175)
+
 # 230728 阿陀那識－三義…32集…《解深密經》《跨領域－重磅對話》…#北京大學聖玄 #覺曦軒 (2:39:58)
 # chrome_open('https://www.youtube.com/watch?v=gRdv2BqE7Vk', 100, 240)
 
