@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=dLGDY0ET6Tg', 100, 240)
 # 230729 常在三昧－諸佛國．不二相…106集…《維摩詰經．弟子品》《跨領域－重磅對話》…#北京大學聖玄#覺曦軒 (45:19)
 chrome_open('https://www.youtube.com/watch?v=jZXSmos6JEA', 100, 240)
 
+# 230808 壯闊的愛－外一章…71集《視•微享．節慶》…#北京大學聖玄#覺曦軒 (5:13)
+# chrome_open('https://www.youtube.com/watch?v=V14dQ4RKYhg', 50, 155)
+
 # 230807 超度亡靈－生命教育Salvation Ritual－ Life Education…70集《視•微享－節慶》…#北京大學聖玄#覺曦軒 (16:59)
 # chrome_open('https://www.youtube.com/watch?v=evfo0CMXBRA', 50, 202)
 
