@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=LpDUyfZmAiw', 100, 240)
 # 230811 依止法住智－心意識善巧…34集…《解深密經》集…《解深密經》《跨領域－重磅對話》…#北京大學聖玄 #覺曦軒 (1:57:01)
 chrome_open('https://www.youtube.com/watch?v=YOai0ezgojo', 100, 240)
 
+# 230814 善終－人人必修學分A Peaceful Passing －A Mandatory Credit…72集《視•微享－節慶》 (17:39)
+# chrome_open('https://www.youtube.com/watch?v=_JOn4Z6ICvg', 50, 210)
+
 # 230804 一影、多影－悉一鏡面起…33集…《解深密經》《跨領域－重磅對話》…#北京大學聖玄 #覺曦軒 (2:37:56)
 # chrome_open('https://www.youtube.com/watch?v=dLGDY0ET6Tg', 100, 240)
 
