@@ -23,7 +23,8 @@ def chrome_open(url, loop, ptime):
 
     floop = True
 
-    servs = Service(ChromeDriverManager().install())
+    # servs = Service(ChromeDriverManager().install())
+    servs = Service()
     # servs = webdriver.chrome.service.Service(ChromeDriverManager.install())
     # servs = webdriver.chrome.service.Service(ChromeDriverManager().install())
     opts = webdriver.ChromeOptions()
