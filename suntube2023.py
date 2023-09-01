@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=39jz9emSI2I', 100, 240)
 # 230825 一切施設－勝義善巧…36集…《解深密經》《跨領域重磅對話》…#北京大學聖玄 #覺曦軒 (2:45:55)
 chrome_open('https://www.youtube.com/watch?v=fb8LzvlEiGU', 100, 240)
 
+# 230831 終極覺悟－解脫生死恐懼…The Ultimate Enlightenment…10-10集《視•聖玄語露》 …#北京大學聖玄#覺曦軒 (16:21)
+# chrome_open('https://www.youtube.com/watch?v=n7oGeuF6Gvg', 50, 196)
+
 # 230828 命運之歌…04集《視·碰撞的睿智》Song of Destiny…#北京大學聖玄 #覺曦軒 (16:27)
 # chrome_open('https://www.youtube.com/watch?v=kvSZU1ipAr8', 50, 196)
 
