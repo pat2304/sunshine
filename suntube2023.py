@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=WIXkfHFrCNo', 100, 240)
 # 230901 說諸法相－略有三種…37集…《解深密經》…#北京大學聖玄 #覺曦軒 (2:36:07)
 chrome_open('https://www.youtube.com/watch?v=mgltXreAJJ4', 100, 240)
 
+# 230907 有身．無身－一體兩面．Embodied vs. Non-Embodied. 10-11集《視·聖玄語露》…#北京大學聖玄#覺曦軒 (10:07)
+# chrome_open('https://www.youtube.com/watch?v=t5M4hJdI8Qc', 50, 200)
+
 # 230904 生與死－同一連線．Life and Death－Two sides of One Coin《視頻化•異次元－解密》…#北京大學聖玄#覺曦軒 (15:47)
 # chrome_open('https://www.youtube.com/watch?v=_VWgCeAAg60', 50, 236)
 
