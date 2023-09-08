@@ -6,11 +6,14 @@ from SunFunctions.browser_open import chrome_open
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 230908 諸法名假安立－自性差別…38集…《解深密．跨》…#北京大學聖玄 #覺曦軒 (2:24:53)
+chrome_open('https://www.youtube.com/watch?v=1BehR_nhjY8', 100, 240)
+
 # 230902 無為法－ 無利．無功德…110集《維摩詰．跨》…#北京大學聖玄 #覺曦軒 (1:00:53)
 chrome_open('https://www.youtube.com/watch?v=WIXkfHFrCNo', 100, 240)
 
 # 230901 說諸法相－略有三種…37集…《解深密經》…#北京大學聖玄 #覺曦軒 (2:36:07)
-chrome_open('https://www.youtube.com/watch?v=mgltXreAJJ4', 100, 240)
+# chrome_open('https://www.youtube.com/watch?v=mgltXreAJJ4', 100, 240)
 
 # 230907 有身．無身－一體兩面．Embodied vs. Non-Embodied. 10-11集《視·聖玄語露》…#北京大學聖玄#覺曦軒 (10:07)
 # chrome_open('https://www.youtube.com/watch?v=t5M4hJdI8Qc', 50, 200)
