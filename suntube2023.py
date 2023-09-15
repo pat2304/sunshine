@@ -6,11 +6,20 @@ from SunFunctions.browser_open import chrome_open
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 230915 【修正版】一切法－平等真如…39集．教學視頻《解深密經•跨》…#北京大學聖玄 #覺曦軒 (2:37:01)
+chrome_open('https://www.youtube.com/watch?v=APeIksxJrI8', 100, 240)
+
 # 230909 離62見..處於涅槃…111集《維摩詰經．跨》…#北京大學聖玄 #覺曦軒 (1:44:25)
 chrome_open('https://www.youtube.com/watch?v=7eVXXvLCtgE', 100, 240)
 
+# 230914 酷酷雲端女郎—風情萬種…A cool lady monk online－charming and alluring《視·微享》…#北京大學聖玄#覺曦軒 (13:40)
+# chrome_open('https://www.youtube.com/watch?v=OwcIGQshwQ8', 50, 210)
+
+# 230911 起死回生－綻放生命潛能…Come Back to Life.30集《提月點燈－話創異》…#北大聖玄 #覺曦軒 (19:38)
+# chrome_open('https://www.youtube.com/watch?v=MckFInhKAec', 50, 234)
+
 # 230908 諸法名假安立－自性差別…38集…《解深密．跨》…#北京大學聖玄 #覺曦軒 (2:24:53)
-chrome_open('https://www.youtube.com/watch?v=1BehR_nhjY8', 100, 240)
+# chrome_open('https://www.youtube.com/watch?v=1BehR_nhjY8', 100, 240)
 
 # 230902 無為法－ 無利．無功德…110集《維摩詰．跨》…#北京大學聖玄 #覺曦軒 (1:00:53)
 # chrome_open('https://www.youtube.com/watch?v=WIXkfHFrCNo', 100, 240)
