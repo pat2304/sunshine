@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=l_G6Cpzc9hs', 100, 240)
 # 230915 【修正版】一切法－平等真如…39集．教學視頻《解深密經•跨》…#北京大學聖玄 #覺曦軒 (2:37:01)
 chrome_open('https://www.youtube.com/watch?v=APeIksxJrI8', 100, 240)
 
+# 230921 去來自由．心體無滯－般若No Stagnation at all －Prajna…10-12集《視•聖玄語露》…#北京大學聖玄#覺曦軒 (12:43)
+# chrome_open('https://www.youtube.com/watch?v=KpF9s9dRFdI', 50, 190)
+
 # 230918 跨領域對話－最夯領導力．Interdisplinary Dialouge,. 第一名上榜…05集《視·碰撞的睿智》…#北京大學聖玄 #覺曦軒 (14:40)
 # chrome_open('https://www.youtube.com/watch?v=Ox9R2k9eI2k', 50, 220)
 
