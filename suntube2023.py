@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=Rmfz61o7AAk', 100, 240)
 # 230922 無倒思惟．作因緣－能通達．#40集集《解深·跨領域》…#北京大學聖玄 #覺曦軒 (2:37:20)
 chrome_open('https://www.youtube.com/watch?v=nT59wrzvRbE', 100, 240)
 
+# 230925 四種存在力量－有感互異…The Four Forms of existential Power.17集《視·異次元－解密》…#北京大學聖玄#覺曦軒 (14:49)
+# chrome_open('https://www.youtube.com/watch?v=M-txijDhBLk', 50, 221)
+
 # 230916 超越假名．離眾過－真出家…112集《維摩·跨領域》…#北京大學聖玄 #覺曦軒 (1:17:02)
 # chrome_open('https://www.youtube.com/watch?v=l_G6Cpzc9hs', 100, 240)
 
