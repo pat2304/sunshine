@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=rBJaeTpNc90', 100, 240)
 # 230923 逆境翻轉．畢竟空－新人課(I)…第113集《維摩·跨領域》…#北京大學聖玄 #覺曦軒 (2:09:33)
 chrome_open('https://www.youtube.com/watch?v=Rmfz61o7AAk', 100, 240)
 
+# 230929 千江映月－中秋祝福…76集《視頻化·微享－节庆篇》…#北大聖玄 #覺曦軒 (4:58)
+# chrome_open('https://www.youtube.com/watch?v=5DpCCcWvDOM', 50, 149)
+
 # 230922 無倒思惟．作因緣－能通達．#40集集《解深·跨領域》…#北京大學聖玄 #覺曦軒 (2:37:20)
 # chrome_open('https://www.youtube.com/watch?v=nT59wrzvRbE', 100, 240)
 
