@@ -6,11 +6,14 @@ from SunFunctions.browser_open import chrome_open
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 231003 救命三帖藥－新人課(II)…114集《維摩詰經．弟子品》…#北京大學聖玄 #覺曦軒 (1:40:03)
+chrome_open('https://www.youtube.com/watch?v=xpq7LyRMgvA', 100, 240)
+
 # 230929 淨眼本性．無亂－圓成實性…41集…《解深密經》#北京大學聖玄 #覺曦軒 (2:51:23)
 chrome_open('https://www.youtube.com/watch?v=rBJaeTpNc90', 100, 240)
 
 # 230923 逆境翻轉．畢竟空－新人課(I)…第113集《維摩·跨領域》…#北京大學聖玄 #覺曦軒 (2:09:33)
-chrome_open('https://www.youtube.com/watch?v=Rmfz61o7AAk', 100, 240)
+# chrome_open('https://www.youtube.com/watch?v=Rmfz61o7AAk', 100, 240)
 
 # 231002 量子生態場－物糸vs. 異次元．Quantum Ecological Field…18集《視•異次元－解密》…#北京大學聖玄#覺曦軒 (18:34)
 # chrome_open('https://www.youtube.com/watch?v=ub0cUlFt1Jo', 50, 222)
