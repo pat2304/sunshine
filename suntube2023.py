@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=00CFdupiHhQ', 100, 240)
 # 231006 依他起相上．遍計執相－說習氣…42集…《解深·跨領域》#北京大學聖玄 #覺曦軒 (2:14:25)
 chrome_open('https://www.youtube.com/watch?v=B-Ju6wyTUD4', 100, 240)
 
+# 231009 光－進出異次元介質…第02集《視頻化．異次元－解密》…#北大聖玄 #覺曦軒 (13:15)
+# chrome_open('https://www.youtube.com/watch?v=uvDr70bBCBw', 50, 197)
+
 # 231003 救命三帖藥－新人課(II)…114集《維摩詰經．弟子品》…#北京大學聖玄 #覺曦軒 (1:40:03)
 # chrome_open('https://www.youtube.com/watch?v=xpq7LyRMgvA', 100, 240)
 
