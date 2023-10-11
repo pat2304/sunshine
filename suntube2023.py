@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=00CFdupiHhQ', 100, 240)
 # 231006 依他起相上．遍計執相－說習氣…42集…《解深·跨領域》#北京大學聖玄 #覺曦軒 (2:14:25)
 chrome_open('https://www.youtube.com/watch?v=B-Ju6wyTUD4', 100, 240)
 
+# 231010 愛的雙十－雙十節祝福．Double Tenth of Love . 78集《視·微享－節慶》…#北京大學聖玄 #覺曦軒 (10:19)
+# chrome_open('https://www.youtube.com/watch?v=SNf7sTUIX3g', 50, 205)
+
 # 231009 光－進出異次元介質…第02集《視頻化．異次元－解密》…#北大聖玄 #覺曦軒 (13:15)
 # chrome_open('https://www.youtube.com/watch?v=uvDr70bBCBw', 50, 197)
 
