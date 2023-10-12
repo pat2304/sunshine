@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=00CFdupiHhQ', 100, 240)
 # 231006 依他起相上．遍計執相－說習氣…42集…《解深·跨領域》#北京大學聖玄 #覺曦軒 (2:14:25)
 chrome_open('https://www.youtube.com/watch?v=B-Ju6wyTUD4', 100, 240)
 
+# 231012 不思善．不思惡－本來面目．Not Thinking about Good or Evil－The True Face．9-2集《視•聖玄語露》…#北京大學聖玄#覺曦軒 (11:35)
+# chrome_open('https://www.youtube.com/watch?v=VVs8XNnco_8', 50, 230)
+
 # 231011 命運之歌．Song of Destiny…04集提速《視·碰撞的睿智》…#北京大學聖玄 #覺曦軒 (14:25)
 # chrome_open('https://www.youtube.com/watch?v=OdCJmrTet-8', 50, 215)
 
