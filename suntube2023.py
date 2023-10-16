@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=U-YkH8IJejo', 100, 240)
 # 231013 無執以為緣－圓成實相…43集《解深·跨領域》…#北京大學聖玄 #覺曦軒 (3:01:54)
 chrome_open('https://www.youtube.com/watch?v=TpZUTJ1NR2s', 100, 240)
 
+# 231016 震撼重生－师父福临．Inspiring Rebirth,. 27集《視．提月》 (11:06)
+# chrome_open('https://www.youtube.com/watch?v=8jFEjhKRnA4', 50, 221)
+
 # 231007 昇華思惟－解脫諸苦…115集《維摩詰經•跨領域》…#北京大學聖玄 #覺曦軒 (2:00:49)
 # chrome_open('https://www.youtube.com/watch?v=00CFdupiHhQ', 100, 240)
 
