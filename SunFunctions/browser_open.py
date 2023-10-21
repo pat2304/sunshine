@@ -24,9 +24,9 @@ def chrome_open(url, loop, ptime):
     floop = True
 
     # servs = Service(ChromeDriverManager().install())
-    servs = Service()
+    # servs = Service()
     # servs = webdriver.chrome.service.Service(ChromeDriverManager.install())
-    # servs = webdriver.chrome.service.Service(ChromeDriverManager().install())
+    servs = webdriver.chrome.service.Service(ChromeDriverManager().install())
     opts = webdriver.ChromeOptions()
     opts.add_argument('--incognito')
     opts.add_argument('--mute-audio')
