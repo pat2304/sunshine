@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=UJ9ssi05WZA', 100, 240)
 # 231020 如實遍計執－如實無相法…44集《解深·跨領域》…#北京大學聖玄 #覺曦軒 (2:29:26)
 chrome_open('https://www.youtube.com/watch?v=FSoob60ZZ-A', 100, 240)
 
+# 231023 一步錯－步步錯．One Wrong Step…29集《提月點燈－話創異》…#北京大學聖玄#覺曦軒 (14:35)
+# chrome_open('https://www.youtube.com/watch?v=7VSE_vKrWLM', 50, 217)
+
 # 231014 反敗為勝．盡在一心…新人課(四)…116集《維摩詰·跨領域》…#北京大學聖玄 #覺曦軒 (1:48:48)
 # chrome_open('https://www.youtube.com/watch?v=U-YkH8IJejo', 100, 240)
 
