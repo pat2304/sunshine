@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=vJQ3cn7bmec', 100, 240)
 # 231027 如實依他起相－如實雜相法…45集《解深·跨領域》…#北京大學聖玄 #覺曦軒 (1:31:36)
 chrome_open('https://www.youtube.com/watch?v=uI-DGO73FxM', 100, 240)
 
+# 231030 生與死－同一連線．Life and Death－Two sides of One Coin．16集《視頻化•異次元－解密》…#北京大學聖玄#覺曦軒 (13:42)
+# chrome_open('https://www.youtube.com/watch?v=CbV7W7gLp2o', 50, 205)
+
 # 231021 活在當下．直擊要害－新人課(五)．117集《維摩·跨》…#北京大學聖玄 #覺曦軒 (2:15:10)
 # chrome_open('https://www.youtube.com/watch?v=UJ9ssi05WZA', 100, 240)
 
