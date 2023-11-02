@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=vJQ3cn7bmec', 100, 240)
 # 231027 如實依他起相－如實雜相法…45集《解深·跨領域》…#北京大學聖玄 #覺曦軒 (1:31:36)
 chrome_open('https://www.youtube.com/watch?v=uI-DGO73FxM', 100, 240)
 
+# 231102 鍾愛觀音－出家日祝福…21集《視頻化•微享－节庆篇》…#北大聖玄 #覺曦軒 (5:45)
+# chrome_open('https://www.youtube.com/watch?v=Yc0J3rhkM2c', 50, 171)
+
 # 231101 馳騁田獵．心發狂－時代心聲…10-1集《視•聖玄語露》…#北大聖玄 #覺曦軒 (9:59)
 # chrome_open('https://www.youtube.com/watch?v=uNdwCRknKXE', 50, 198)
 
