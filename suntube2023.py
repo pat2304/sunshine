@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=Efmt-D7Pj9A', 100, 240)
 # 231103 如實圓成實相－如實清淨相法．46集《解深密經．跨域》…#北京大學聖玄 #覺曦軒 (2:19:28)
 chrome_open('https://www.youtube.com/watch?v=nXR8ehFo4rA', 100, 240)
 
+# 231109 見菩提·取證者－增上慢人．To perceive Bodhi as realistic…10-3集《視·聖玄語露》…#北京大學聖玄#覺曦軒 (5:57)
+# chrome_open('https://www.youtube.com/watch?v=R4fcMe0yeys', 50, 178)
+
 # 231028 認識命運．三世由來－新人課(六)…118集《維摩·跨》…#北京大學聖玄 #覺曦軒 (1:55:56)
 # chrome_open('https://www.youtube.com/watch?v=vJQ3cn7bmec', 100, 240)
 
