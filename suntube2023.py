@@ -6,11 +6,14 @@ from SunFunctions.browser_open import chrome_open
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 231110 斷雜染相法－證清淨相法…47集…《解深·跨域》…#北京大學聖玄 #覺曦軒 (2:34:04)
+chrome_open('https://www.youtube.com/watch?v=MbBEh8_YvtQ', 100, 240)
+
 # 231106 一針見血．能量高下－新人課(七)．119集…《維摩詰經．跨領域》…#北京大學聖玄 #覺曦軒 (1:35:34)
 chrome_open('https://www.youtube.com/watch?v=Efmt-D7Pj9A', 100, 240)
 
 # 231103 如實圓成實相－如實清淨相法．46集《解深密經．跨域》…#北京大學聖玄 #覺曦軒 (2:19:28)
-chrome_open('https://www.youtube.com/watch?v=nXR8ehFo4rA', 100, 240)
+# chrome_open('https://www.youtube.com/watch?v=nXR8ehFo4rA', 100, 240)
 
 # 231109 見菩提·取證者－增上慢人．To perceive Bodhi as realistic…10-3集《視·聖玄語露》…#北京大學聖玄#覺曦軒 (5:57)
 # chrome_open('https://www.youtube.com/watch?v=R4fcMe0yeys', 50, 178)
