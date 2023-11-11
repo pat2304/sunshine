@@ -7,7 +7,7 @@ from SunFunctions.browser_open import chrome_open
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
 # 231111 能量管理．萬法自心－新人課(八)．修120集…《維摩詰經．弟子品》…#北京大學聖玄 #覺曦軒 (1:43:49)
-chrome_open('https://www.youtube.com/watch?v=A4rYt_JuOaA', 100. 240)
+chrome_open('https://www.youtube.com/watch?v=A4rYt_JuOaA', 100, 240)
 
 # 231110 斷雜染相法－證清淨相法…47集…《解深·跨域》…#北京大學聖玄 #覺曦軒 (2:34:04)
 chrome_open('https://www.youtube.com/watch?v=MbBEh8_YvtQ', 100, 240)
