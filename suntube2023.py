@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=A4rYt_JuOaA', 100, 240)
 # 231110 斷雜染相法－證清淨相法…47集…《解深·跨域》…#北京大學聖玄 #覺曦軒 (2:34:04)
 chrome_open('https://www.youtube.com/watch?v=MbBEh8_YvtQ', 100, 240)
 
+# 231116 起死回生－綻放生命潛能…Come Back to Life.30集《提月點燈－話創異》…#北大聖玄 #覺曦軒 (15:48)
+# chrome_open('https://www.youtube.com/watch?v=v3UDkODn9t0', 50, 236)
+
 # 231115 超度亡靈－生命教育Salvation Ritual－ Life Education…70集《視·微享》…#北京大學聖玄#覺曦軒 (13:55)
 # chrome_open('https://www.youtube.com/watch?v=6qOwuRZI_cQ', 50, 208)
 
