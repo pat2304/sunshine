@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=5fN4_s0Ep0M', 100, 240)
 # 231111 能量管理．萬法自心－新人課(八)．修120集…《維摩詰經．弟子品》…#北京大學聖玄 #覺曦軒 (1:43:49)
 chrome_open('https://www.youtube.com/watch?v=A4rYt_JuOaA', 100, 240)
 
+# 231120 量子生態場－物糸vs.異次元．Quantum Ecological Field…18集《視•異次元－解密》…#北京大學聖玄#覺曦軒 (14:53)
+# chrome_open('https://www.youtube.com/watch?v=Pqb4t-EKbkg', 50, 222)
+
 # 231110 斷雜染相法－證清淨相法…47集…《解深·跨域》…#北京大學聖玄 #覺曦軒 (2:34:04)
 # chrome_open('https://www.youtube.com/watch?v=MbBEh8_YvtQ', 100, 240)
 
