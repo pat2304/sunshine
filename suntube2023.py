@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=5fN4_s0Ep0M', 100, 240)
 # 231111 能量管理．萬法自心－新人課(八)．修120集…《維摩詰經．弟子品》…#北京大學聖玄 #覺曦軒 (1:43:49)
 chrome_open('https://www.youtube.com/watch?v=A4rYt_JuOaA', 100, 240)
 
+# 231122 心念·自性－坐禪 Chitta·Self-Nature－Meditation…10-8集《視·聖玄語露》 …#北京大學聖玄#覺曦軒 (9:50)
+# chrome_open('https://www.youtube.com/watch?v=GhzbIY7Jq58', 50, 196)
+
 # 231121 善終－人人必修學分A Peaceful Passing …72集《視·微享》 (14:08)
 # chrome_open('https://www.youtube.com/watch?v=MmZDbWJ5VHU', 50, 211)
 
