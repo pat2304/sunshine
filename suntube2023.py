@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=USMWdDZ8T_A', 100, 240)
 # 231124 一切法．無自性－自性涅槃…49集…《解深密經．跨域》…#北京大學聖玄 #覺曦軒 (2:58:29)
 chrome_open('https://www.youtube.com/watch?v=jbXiQeS935o', 100, 240)
 
+# 231127 震撼致詞－科技尋根．三世明證．Master's Powerful Address…02集《視頻化·宗教交流－微享》…#北大聖玄 #覺曦軒 (19:05)
+# chrome_open('https://www.youtube.com/watch?v=hjBT_Y9p8Qk', 50, 228)
+
 # 231117 懈怠住法動法－失壞憐愍…48集…《解深密經．跨域》》…#北京大學聖玄 #覺曦軒 (2:09:19)
 # chrome_open('https://www.youtube.com/watch?v=5fN4_s0Ep0M', 100, 240)
 
