@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=USMWdDZ8T_A', 100, 240)
 # 231124 一切法．無自性－自性涅槃…49集…《解深密經．跨域》…#北京大學聖玄 #覺曦軒 (2:58:29)
 chrome_open('https://www.youtube.com/watch?v=jbXiQeS935o', 100, 240)
 
+# 231129 堅持－成敗分水嶺．Persistence…10-6集《聖玄語露》…#北京大學聖玄 (10:12)
+# chrome_open('https://www.youtube.com/watch?v=Nak3f--hpLM', 50, 203)
+
 # 231128 一樣的年齡•不一樣的精彩．same Age－Different Brilliant…第26集《提月點燈－話創異》…#北大聖玄 #覺曦軒 (17:35)
 # chrome_open('https://www.youtube.com/watch?v=Ib_DGIr_nqM', 50, 210)
 
