@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=USMWdDZ8T_A', 100, 240)
 # 231124 一切法．無自性－自性涅槃…49集…《解深密經．跨域》…#北京大學聖玄 #覺曦軒 (2:58:29)
 chrome_open('https://www.youtube.com/watch?v=jbXiQeS935o', 100, 240)
 
+# 231130 時間管理－生命睿智…27-24集《視•教學相長－解深》Time Management－Wisdom of Life…第一名投稿…27-24集…#北京大學聖玄 #覺曦軒 (16:48)
+# chrome_open('https://www.youtube.com/watch?v=Ai1Ct0A_Jvc', 50, 201)
+
 # 231129 堅持－成敗分水嶺．Persistence…10-6集《聖玄語露》…#北京大學聖玄 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=Nak3f--hpLM', 50, 203)
 
