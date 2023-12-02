@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=x1H9am6ORRA', 100, 240)
 # 231125 振動頻率．出身高下－新人課(十)…122集《維摩·跨域》…#北京大學聖玄 #覺曦軒 (1:05:45)
 chrome_open('https://www.youtube.com/watch?v=USMWdDZ8T_A', 100, 240)
 
+# 231202 一樣出家·二樣情－論文殊出家省思The same Renunciation,. The Different Sentiments …25集《視頻化·微享－節慶》(12:44)
+# chrome_open('https://www.youtube.com/watch?v=yM-igZUaceE', 50, 190)
+
 # 231124 一切法．無自性－自性涅槃…49集…《解深密經．跨域》…#北京大學聖玄 #覺曦軒 (2:58:29)
 # chrome_open('https://www.youtube.com/watch?v=jbXiQeS935o', 100, 240)
 
