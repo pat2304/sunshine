@@ -12,6 +12,12 @@ chrome_open('https://www.youtube.com/watch?v=B1ybhZa58YQ', 100, 240)
 # 231201 無量門．本來寂靜－自性清淨…50集…《解深密經．跨域》…#北京大學聖玄 #覺曦軒 (1:29:19)
 chrome_open('https://www.youtube.com/watch?v=x1H9am6ORRA', 100, 240)
 
+# 231207 風動、旛動－心動…Mind State…10-5集《視·聖玄語露》 …#北京大學聖玄#覺曦軒 (10:38)
+# chrome_open('https://www.youtube.com/watch?v=BTU5PaFX0o0', 50, 211)
+
+# 231204 終極覺悟－解脫生死恐懼…The Ultimate Enlightenment…10-10集《視•聖玄語露》 …#北京大學聖玄#覺曦軒 (12:40)
+# chrome_open('https://www.youtube.com/watch?v=euHgKWIt2MA', 50, 190)
+
 # 231125 振動頻率．出身高下－新人課(十)…122集《維摩·跨域》…#北京大學聖玄 #覺曦軒 (1:05:45)
 # chrome_open('https://www.youtube.com/watch?v=USMWdDZ8T_A', 100, 240)
 
