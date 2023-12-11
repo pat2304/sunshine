@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=DHss7hv2UA8', 100, 240)
 # 231208 諸法無量門－蘊處界締．七與八…51集…《解深密經．跨域》…#北京大學聖玄 #覺曦軒 (49:20)
 chrome_open('https://www.youtube.com/watch?v=xpz9VMD-jFk', 100, 240)
 
+# 231211 大臼齒－與主人對話,Molar－Conversation with the Master．81集《視·微享》…#北大聖玄 #覺曦軒 (8:54)
+# chrome_open('https://www.youtube.com/watch?v=RLiQlvwiXeI', 50, 178)
+
 # 231203 如來身．金剛體－有何疾…123集《維摩·跨》…#北京大學聖玄 #覺曦軒 (1:54:54)
 # chrome_open('https://www.youtube.com/watch?v=B1ybhZa58YQ', 100, 240)
 
