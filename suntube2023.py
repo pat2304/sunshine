@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=pZxxUzqviyA', 100, 240)
 # 231215 三無自性性－密意…52集…《解深密經 ．跨域》…#北京大學聖玄 #覺曦軒 (2:26:00)
 chrome_open('https://www.youtube.com/watch?v=gjJT7DpZ0a8', 100, 240)
 
+# 231219 有身．無身－一體兩面．Embodied vs. Non-Embodied. 10-11集《視·聖玄語露》…#北京大學聖玄#覺曦軒 (7:24)
+# chrome_open('https://www.youtube.com/watch?v=XoEF5pwlMFo', 50, 221)
+
 # 231218 時間管理－生命睿智Time Management …第一名…27-24集《視·教學相長－解深》…#北京大學聖玄 #覺曦軒 (15:29)
 # chrome_open('https://www.youtube.com/watch?v=xIdhLQA635g', 50, 232)
 
