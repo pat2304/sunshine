@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=-bV34FV-raA', 100, 240)
 # 231229 法無我性－名勝義．無自性性…54集《解深·跨域》…#北京大學聖玄 #覺曦軒》 (1:26:30)
 chrome_open('https://www.youtube.com/watch?v=NxiBm92UkYI', 100, 240)
 
+# 240103 去來自由．心體無滯－般若No Stagnation at all －Prajna…10-12集《視•聖玄語露》…#北京大學聖玄#覺曦軒 (9:19)
+# chrome_open('https://www.youtube.com/watch?v=J_f4HKcesXM', 50, 185)
+
 # 231223 佛出五濁惡世－斯法．度眾…126集《維摩·跨域》…#北京大學聖玄 #覺曦軒 (1:32:53)
 # chrome_open('https://www.youtube.com/watch?v=Rf58R3tWV68', 100, 240)
 
