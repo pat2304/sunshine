@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=Ykaevbhh9EE', 100, 240)
 # 240105 法無我性－遍一切故…55集《解深·跨域》…#北京大學聖玄 #覺曦軒 (1:51:27)
 chrome_open('https://www.youtube.com/watch?v=MSBS9OZEbdE', 100, 240)
 
+# 240110 般若三昧－無念．Prajna Samadhi... 9-1集《視·聖玄語露》…#北京大學聖玄#覺曦軒 (7:06)
+chrome_open('https://www.youtube.com/watch?v=-C8gZKah4Xc', 50, 213)
+
 # 231230 自疾不能救－能救諸疾人…127集《維摩·跨域》…#北京大學聖玄 #覺曦軒 (1:25:39)
 # chrome_open('https://www.youtube.com/watch?v=-bV34FV-raA', 100, 240)
 
