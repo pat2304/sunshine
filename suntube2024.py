@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=7BRMw8Al-0w', 100, 240)
 # 240112 雜染不相應－法性安住無為…56集《解深密經．無自性相品》…#北京大學聖玄 #覺曦軒 (1:55:03)
 chrome_open('https://www.youtube.com/watch?v=5gOmRrxQ_ek', 100, 240)
 
+# 240116 法性·法界－異與同Dharma Nature,. Dharma Realm …10-7集《視·聖玄語露》 …#北京大學聖玄#覺曦軒 (11:08)
+# chrome_open('https://www.youtube.com/watch?v=YDGwtL-DaJQ', 50, 222)
+
 # 240106 總結凡聖－如理．方便…128集《維摩·跨域》…#北京大學聖玄 #覺曦軒 (1:41:46)
 # chrome_open('https://www.youtube.com/watch?v=Ykaevbhh9EE', 100, 240)
 
