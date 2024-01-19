@@ -6,11 +6,14 @@ from SunFunctions.browser_open import chrome_open
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 240119 超越三自性－立三無自性性…57集《解深·跨域》…#北京大學聖玄 #覺曦軒 (1:42:30)
+chrome_open('https://www.youtube.com/watch?v=FX1Bo8NnZAg', 100, 240)
+
 # 240113 無利德 vs. 有利德－如理．方便…129集《維摩·跨域》…#北京大學聖玄 #覺曦軒 (1:35:24)
 chrome_open('https://www.youtube.com/watch?v=7BRMw8Al-0w', 100, 240)
 
 # 240112 雜染不相應－法性安住無為…56集《解深密經．無自性相品》…#北京大學聖玄 #覺曦軒 (1:55:03)
-chrome_open('https://www.youtube.com/watch?v=5gOmRrxQ_ek', 100, 240)
+# chrome_open('https://www.youtube.com/watch?v=5gOmRrxQ_ek', 100, 240)
 
 # 240116 法性·法界－異與同Dharma Nature,. Dharma Realm …10-7集《視·聖玄語露》 …#北京大學聖玄#覺曦軒 (11:08)
 # chrome_open('https://www.youtube.com/watch?v=YDGwtL-DaJQ', 50, 222)
