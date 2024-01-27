@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=ulCuabgjSTU', 100, 240)
 # 240119 超越三自性－立三無自性性…57集《解深·跨域》…#北京大學聖玄 #覺曦軒 (1:42:30)
 chrome_open('https://www.youtube.com/watch?v=FX1Bo8NnZAg', 100, 240)
 
+# 240125 不思善·不思惡－本來的面目Neither Good Nor Evil －True Face …9-2集《視·聖玄語露》…#北京大學聖玄#覺曦軒 (9:42)
+# chrome_open('https://www.youtube.com/watch?v=ZfPCnHrdSXo', 50, 194)
+
 # 240113 無利德 vs. 有利德－如理．方便…129集《維摩·跨域》…#北京大學聖玄 #覺曦軒 (1:35:24)
 # chrome_open('https://www.youtube.com/watch?v=7BRMw8Al-0w', 100, 240)
 
