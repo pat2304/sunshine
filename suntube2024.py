@@ -6,11 +6,14 @@ from SunFunctions.browser_open import chrome_open
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 240126 隨起言說－隨覺、隨眠．如如執著…58集…《解深·跨域》…#北京大學聖玄 #覺曦軒 (1:49:50)
+chrome_open('https://www.youtube.com/watch?v=aTDMKZUDH1E', 100, 240)
+
 # 240120 諸法亦然－不出於如…130集《維摩詰經》集《維摩•跨域》…#北京大學聖玄 #覺曦軒 (2:10:00)
 chrome_open('https://www.youtube.com/watch?v=ulCuabgjSTU', 100, 240)
 
 # 240119 超越三自性－立三無自性性…57集《解深·跨域》…#北京大學聖玄 #覺曦軒 (1:42:30)
-chrome_open('https://www.youtube.com/watch?v=FX1Bo8NnZAg', 100, 240)
+# chrome_open('https://www.youtube.com/watch?v=FX1Bo8NnZAg', 100, 240)
 
 # 240125 不思善·不思惡－本來的面目Neither Good Nor Evil －True Face …9-2集《視·聖玄語露》…#北京大學聖玄#覺曦軒 (9:42)
 # chrome_open('https://www.youtube.com/watch?v=ZfPCnHrdSXo', 50, 194)
