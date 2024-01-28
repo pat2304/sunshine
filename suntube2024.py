@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=AssvGxxch6w', 100, 240)
 # 240126 隨起言說－隨覺、隨眠．如如執著…58集…《解深·跨域》…#北京大學聖玄 #覺曦軒 (1:49:50)
 chrome_open('https://www.youtube.com/watch?v=aTDMKZUDH1E', 100, 240)
 
+# 240129 命運之歌．Song of Destiny…04集《視·碰撞的睿智》…#北京大學聖玄 #覺曦軒 (12:25)
+# chrome_open('https://www.youtube.com/watch?v=bpYe1FsFkCU', 50, 186)
+
 # 240120 諸法亦然－不出於如…130集《維摩詰經》集《維摩•跨域》…#北京大學聖玄 #覺曦軒 (2:10:00)
 # chrome_open('https://www.youtube.com/watch?v=ulCuabgjSTU', 100, 240)
 
