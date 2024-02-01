@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=AssvGxxch6w', 100, 240)
 # 240126 隨起言說－隨覺、隨眠．如如執著…58集…《解深·跨域》…#北京大學聖玄 #覺曦軒 (1:49:50)
 chrome_open('https://www.youtube.com/watch?v=aTDMKZUDH1E', 100, 240)
 
+# 小年報喜來．金龍旺旺財…35集《視•微享－節慶篇》…#北大聖玄 #覺曦軒 (3:49)
+# chrome_open('https://www.youtube.com/watch?v=rh6l-_cNOmU', 50, 228)
+
 # 240201 驚蟄大愛·妙吉祥成道…84集《視·微享》…#北大聖玄 #覺曦軒 (7:02)
 # chrome_open('https://www.youtube.com/watch?v=tiV0jgqgt1Q', 50, 210)
 
