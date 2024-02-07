@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=SbOPUgSCW70', 100, 240)
 # 240202 無常無恆－不安穩變壞法…59集《解深·跨域》…#北京大學聖玄 #覺曦軒 (2:36:38)
 chrome_open('https://www.youtube.com/watch?v=feGFvdb0DDM', 100, 240)
 
+# 240207 大吉大利－話太歲 Great Prosperity..Tlk About Zodiac…86集《視·微享－節慶篇》…#北大聖玄#覺曦軒 (14:08)
+# chrome_open('https://www.youtube.com/watch?v=post9kjwqGk', 50, 211)
+
 # 240127 心．不在內外中－罪．法亦然…131集《維摩•跨域》…#北京大學聖玄 #覺曦軒 (1:05:40)
 # chrome_open('https://www.youtube.com/watch?v=AssvGxxch6w', 100, 240)
 
