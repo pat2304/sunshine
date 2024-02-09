@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=4h24WZ8t0Mk', 100, 240)
 # 240203 無大小福．不為益損－正入佛道…132集集《維摩·跨域》…#北京大學聖玄 #覺曦軒 (1:17:07)
 chrome_open('https://www.youtube.com/watch?v=SbOPUgSCW70', 100, 240)
 
+# 240209 虛無的真實－2024賀新春．Empty Reality－New Year;s Greeting for 2024 (9:54)
+# chrome_open('https://www.youtube.com/watch?v=TJnR9eJOCwQ', 50, 197)
+
 # 240202 無常無恆－不安穩變壞法…59集《解深·跨域》…#北京大學聖玄 #覺曦軒 (2:36:38)
 # chrome_open('https://www.youtube.com/watch?v=feGFvdb0DDM', 100, 240)
 
