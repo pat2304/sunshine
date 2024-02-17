@@ -6,11 +6,14 @@ from SunFunctions.browser_open import chrome_open
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 240217 法無去來常不住故…133集《維摩·跨域》…#北京大學聖玄 #覺曦軒 (1:59:38)
+chrome_open('https://www.youtube.com/watch?v=9S7o1PQE1Ys', 100, 240)
+
 # 240208 正．厭離欲解脫－超．煩惱業生雜染…60集…《解深·跨域》…#北京大學聖玄 #覺曦軒 (2:18:21)
 chrome_open('https://www.youtube.com/watch?v=4h24WZ8t0Mk', 100, 240)
 
 # 240203 無大小福．不為益損－正入佛道…132集集《維摩·跨域》…#北京大學聖玄 #覺曦軒 (1:17:07)
-chrome_open('https://www.youtube.com/watch?v=SbOPUgSCW70', 100, 240)
+# chrome_open('https://www.youtube.com/watch?v=SbOPUgSCW70', 100, 240)
 
 # 240209 虛無的真實－2024賀新春．Empty Reality－New Year;s Greeting for 2024 (9:54)
 # chrome_open('https://www.youtube.com/watch?v=TJnR9eJOCwQ', 50, 197)
