@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=9S7o1PQE1Ys', 100, 240)
 # 240208 正．厭離欲解脫－超．煩惱業生雜染…60集…《解深·跨域》…#北京大學聖玄 #覺曦軒 (2:18:21)
 chrome_open('https://www.youtube.com/watch?v=4h24WZ8t0Mk', 100, 240)
 
+# 240222 暗室明燈—划破病根．第一名…第1集《提月點燈－話創異》...北京大學．聖玄 #覺曦軒 (8:27)
+# chrome_open('https://www.youtube.com/watch?v=7VgiWFm9Ikw', 50, 168)
+
 # 240220 心覺醒－最好的老師…The Awakening of the Mind…67集《視·微享》…#北京大學聖玄#覺曦軒 (9:18)
 # chrome_open('https://www.youtube.com/watch?v=eycYm7uB4XY', 50, 185)
 
