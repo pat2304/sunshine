@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=kwofW5uzRSo', 100, 240)
 # 240223 菩薩法假安立－依住菩提願…61集《解深．分別瑜伽品 ·跨域》…#北京大學聖玄 #覺曦軒 (2:22:06)
 chrome_open('https://www.youtube.com/watch?v=r6owyez0g6o', 100, 240)
 
+# 240226 花開與花落…#1集《視．碰撞的睿智》…#北京大學．聖玄 #覺曦軒 (8:07)
+# chrome_open('https://www.youtube.com/watch?v=klM9n1Pi_rY', 50, 162)
+
 # 240217 法無去來常不住故…133集《維摩·跨域》…#北京大學聖玄 #覺曦軒 (1:59:38)
 # chrome_open('https://www.youtube.com/watch?v=9S7o1PQE1Ys', 100, 240)
 
