@@ -6,14 +6,19 @@ from SunFunctions.browser_open import chrome_open
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 240301
+
 # 240224 法無有人－前後際斷…134集《維摩·跨域》…#北京大學聖玄 #覺曦軒 (1:59:29)
 chrome_open('https://www.youtube.com/watch?v=kwofW5uzRSo', 100, 240)
 
 # 240223 菩薩法假安立－依住菩提願…61集《解深．分別瑜伽品 ·跨域》…#北京大學聖玄 #覺曦軒 (2:22:06)
 chrome_open('https://www.youtube.com/watch?v=r6owyez0g6o', 100, 240)
 
-# 240228 見菩提·取證者－增上慢人．To perceive Bodhi as realistic…10-3集《視·聖玄語露》…#北京大學聖玄#覺曦軒 (5:57)
+# 240229 見菩提·取證者－增上慢人．To perceive Bodhi as realistic…10-3集《視·聖玄語露》…#北京大學聖玄#覺曦軒 (5:57)
 # chrome_open('https://www.youtube.com/watch?v=R4fcMe0yeys', 50, 178)
+
+# 240228 震撼致詞－科技尋根．三世明證．Master's Powerful Address…02集《視頻化·宗教交流－微享》…#北大聖玄 #覺曦軒 (19:05)
+# chrome_open('https://www.youtube.com/watch?v=hjBT_Y9p8Qk', 50, 228)
 
 # 240227 雙合視頻…2024 2 27重速改 傳說中的…新瓶舊酒 08關鍵出擊 (10:36)
 # chrome_open('https://www.youtube.com/watch?v=z3CCj7x3ZY8', 50, 211)
