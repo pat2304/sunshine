@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=M-77TblaKeU', 100, 240)
 # 240301 止、觀－四種所緣境事…62集…《解深·跨域》…#北京大學聖玄 #覺曦軒 (2:17:26)
 chrome_open('https://www.youtube.com/watch?v=nZ6KYgonGE0', 100, 240)
 
+# 240304 朝山·朝心－黑暗中的摯燈人…第一名．第31集《提月點燈－話創異》...北京大學．聖玄 #覺曦軒 (8:06)
+# chrome_open('https://www.youtube.com/watch?v=uOV0fZqGd_8', 50, 240)
+
 # 240224 法無有人－前後際斷…134集《維摩·跨域》…#北京大學聖玄 #覺曦軒 (1:59:29)
 # chrome_open('https://www.youtube.com/watch?v=kwofW5uzRSo', 100, 240)
 
