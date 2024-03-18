@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=9emrulks_tU', 100, 240)
 # 240309 周遍尋思．伺察－樂慧見觀…63集《解深密經》#北京大學聖玄 #覺曦軒 (1:59:16)
 chrome_open('https://www.youtube.com/watch?v=JOBZws8WOwY', 100, 240)
 
+# 240318 解套．科技迷思後遺症…第22集《煩惱•DUCK不必》…#北大聖玄 #覺曦軒 (6:25)
+# chrome_open('https://www.youtube.com/watch?v=wn2yByLoY1I', 50, 192)
+
 # 240314 心念·自性－坐禪 Chitta·elf-Nature－Meditation…10-8集《視·聖玄語露》 …#北京大學聖玄#覺曦軒 (8:38)
 # chrome_open('https://www.youtube.com/watch?v=Um42YWUH5vs', 50, 172)
 
