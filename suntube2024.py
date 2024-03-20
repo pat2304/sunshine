@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=wq2FQ0x1SoQ', 100, 240)
 # 240310 為幻士說法．建是意－無聞無得…136集《維摩·弟子品·跨域》…#北京大學聖玄 #覺曦軒 (1:22:09)
 chrome_open('https://www.youtube.com/watch?v=9emrulks_tU', 100, 240)
 
+# 240320 超度亡靈－生命教育Salvation Ritual－ Life Education…70集《視·微享》…#北京大學．聖玄#覺曦軒 (12:08)
+# chrome_open('https://www.youtube.com/watch?v=4u8X4DdVvdM', 50, 181)
+
 # 240309 周遍尋思．伺察－樂慧見觀…63集《解深密經》#北京大學聖玄 #覺曦軒 (1:59:16)
 # chrome_open('https://www.youtube.com/watch?v=JOBZws8WOwY', 100, 240)
 
