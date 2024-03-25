@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=xnS1G_mxVy0', 100, 240)
 # 240322 奢摩他．毘缽舍那－有異與無異．65集…《解深密經．跨域》…#北京大學．聖玄 #覺曦軒 (1:30:16)
 chrome_open('https://www.youtube.com/watch?v=bXJtJ7AV4Hs', 100, 240)
 
+# 260326 生與死－同一連線．Life and Death－Two sides of One Coin《視頻化•異次元－解密》…#北京大學聖玄#覺曦軒 (11:41)
+# chrome_open('https://www.youtube.com/watch?v=Tvj-oiqtQQ0', 50, 233)
+
 # 240325 喚醒．激活－朝向反射…第84集《5分鐘·奇葩&閨蜜》…#北大聖玄 #覺曦軒 (6:29)
 # chrome_open('https://www.youtube.com/watch?v=ugs7n5edQzw', 50, 194)
 
