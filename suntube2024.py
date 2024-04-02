@@ -12,6 +12,12 @@ chrome_open('https://www.youtube.com/watch?v=kEjedvS1YvM', 100, 240)
 # 240329 識所緣－唯識所現．66集《解深·分別瑜伽品·跨域》…#北京大學．聖玄 #覺曦軒 (1:48:20)
 chrome_open('https://www.youtube.com/watch?v=RYk2st052t8', 100, 240)
 
+# 240403 善終－人人必修學分A Peaceful Passing …72集《視·微享》 (12:30)
+# chrome_open('https://www.youtube.com/watch?v=SmFIdvG0mN8', 50, 187)
+
+# 240402 起死回生－綻放生命潛能…Come Back to Life.30集《提月點燈－話創異》…#北大聖玄 #覺曦軒 (13:47)
+# chrome_open('https://www.youtube.com/watch?v=PoQYMYp6OxY', 50, 206)
+
 # 240401 輪迴轉世－五大元素Samsara－The Five Elements…15集《視頻化•異次元－解密》…#北大聖玄#覺曦軒 (13:36)
 # chrome_open('https://www.youtube.com/watch?v=SJqSBV011Vc', 50, 203)
 
