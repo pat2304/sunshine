@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=kEjedvS1YvM', 100, 240)
 # 240329 識所緣－唯識所現．66集《解深·分別瑜伽品·跨域》…#北京大學．聖玄 #覺曦軒 (1:48:20)
 chrome_open('https://www.youtube.com/watch?v=RYk2st052t8', 100, 240)
 
+# 240404 童貞晶瑩．追思頌德…96集《視•微享－節慶篇》…#北大聖玄#覺曦軒 (4:48)
+# chrome_open('https://www.youtube.com/watch?v=vW4mj0cE2fs', 50, 280)
+
 # 240403 善終－人人必修學分A Peaceful Passing …72集《視·微享》 (12:30)
 # chrome_open('https://www.youtube.com/watch?v=SmFIdvG0mN8', 50, 187)
 
