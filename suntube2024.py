@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=I9l6BlxnoVM', 100, 240)
 # 240330 視頻…2024 3 30速播 為護法城－受持正法 139集《維摩·弟子品·跨域》 (1:15:44)
 chrome_open('https://www.youtube.com/watch?v=kEjedvS1YvM', 100, 240)
 
+# 240406 搶救現實困境－大悲水．放生…#06集《關鍵出擊》…#北大聖玄#覺曦軒 (33:59)
+# chrome_open('https://www.youtube.com/watch?v=2jdTJ_XAa-k', 50, 226)
+
 # 240329 識所緣－唯識所現．66集《解深·分別瑜伽品·跨域》…#北京大學．聖玄 #覺曦軒 (1:48:20)
 # chrome_open('https://www.youtube.com/watch?v=RYk2st052t8', 100, 240)
 
