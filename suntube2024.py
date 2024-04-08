@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=I9l6BlxnoVM', 100, 240)
 # 240330 視頻…2024 3 30速播 為護法城－受持正法 139集《維摩·弟子品·跨域》 (1:15:44)
 chrome_open('https://www.youtube.com/watch?v=kEjedvS1YvM', 100, 240)
 
+# 240408 一步錯－步步錯One Wrong Step－Wrong Steps Follow…29集《提月點燈－話創異》…#北京大學聖玄#覺曦軒 (12:04)
+# chrome_open('https://www.youtube.com/watch?v=C1PE_GZp_1k', 50, 240)
+
 # 240406 搶救現實困境－大悲水．放生…#06集《關鍵出擊》…#北大聖玄#覺曦軒 (33:59)
 # chrome_open('https://www.youtube.com/watch?v=2jdTJ_XAa-k', 50, 226)
 

@@ -148,9 +148,6 @@ chrome_open('https://www.youtube.com/watch?v=NxiBm92UkYI', 100, 240)
 # 231026 入定．觀心－然後說法．Concentration．Contemplation－Dharma Talk…#10-2集《視•聖玄語露》…#北京大學聖玄#覺曦軒 (7:32)
 # chrome_open('https://www.youtube.com/watch?v=mmcMokDqdO0', 50, 225)
 
-# 231023 一步錯－步步錯．One Wrong Step…29集《提月點燈－話創異》…#北京大學聖玄#覺曦軒 (14:35)
-# chrome_open('https://www.youtube.com/watch?v=7VSE_vKrWLM', 50, 217)
-
 # 231014 反敗為勝．盡在一心…新人課(四)…116集《維摩詰·跨領域》…#北京大學聖玄 #覺曦軒 (1:48:48)
 # chrome_open('https://www.youtube.com/watch?v=U-YkH8IJejo', 100, 240)
 
@@ -310,9 +307,6 @@ chrome_open('https://www.youtube.com/watch?v=NxiBm92UkYI', 100, 240)
 
 # 230801 第七末那識－驅動輪迴轉世The eventh Mana Vijnan－Driving Samsara…32-28集《視·教學相長－解深》…#北京大學聖玄 (13:00)
 # chrome_open('https://www.youtube.com/watch?v=QN86LXTZe24', 50, 194)
-
-# 230731 一步錯－步步錯One Wrong Step－Wrong Steps Follow…29集《提月點燈－話創異》…#北京大學聖玄#覺曦軒 (16:43)
-# chrome_open('https://www.youtube.com/watch?v=JQoMWPjaYVE', 50, 167)
 
 # 230721 末那識－除名心意識品…31集…《解深密經》《跨領域－重磅對話》…#北京大學聖玄 #覺曦軒 (2:11:34)
 # chrome_open('https://www.youtube.com/watch?v=Ok8YkIMtUp4', 100, 240)
