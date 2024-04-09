@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=I9l6BlxnoVM', 100, 240)
 # 240330 視頻…2024 3 30速播 為護法城－受持正法 139集《維摩·弟子品·跨域》 (1:15:44)
 chrome_open('https://www.youtube.com/watch?v=kEjedvS1YvM', 100, 240)
 
+# 240409 與生物鐘共眠 Sleeping alongside the Circadian Clock…第93集《5分鐘·奇葩 & 閨蜜》…#北大聖玄#覺曦軒 (14:27)
+# chrome_open('https://www.youtube.com/watch?v=o4qW6SdFMiE', 50, 216)
+
 # 240408 一步錯－步步錯One Wrong Step－Wrong Steps Follow…29集《提月點燈－話創異》…#北京大學聖玄#覺曦軒 (12:04)
 # chrome_open('https://www.youtube.com/watch?v=C1PE_GZp_1k', 50, 240)
 
