@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=I9l6BlxnoVM', 100, 240)
 # 240330 視頻…2024 3 30速播 為護法城－受持正法 139集《維摩·弟子品·跨域》 (1:15:44)
 chrome_open('https://www.youtube.com/watch?v=kEjedvS1YvM', 100, 240)
 
+# 240411 堅持－成敗分水嶺…Persistence －The Watersheld of Success and Failure．10-6集《視·聖玄語露》#北京大學聖玄#覺曦軒 (8:59)
+# chrome_open('https://www.youtube.com/watch?v=19QtI4QmmC4', 50, 179)
+
 # 240410 命運之歌．Song of Destiny…04集《視·碰撞的睿智》…#北京大學聖玄 #覺曦軒 (12:25)
 # chrome_open('https://www.youtube.com/watch?v=bpYe1FsFkCU', 50, 247)
 
