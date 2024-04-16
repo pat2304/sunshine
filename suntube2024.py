@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=yMoega0XFMw', 100, 240)
 # 240412 正思惟－心一境性…68集…《解深密經．分別瑜伽品》#北京大學．聖玄 #覺曦軒 (1:11:36)
 chrome_open('https://www.youtube.com/watch?v=tZrXP0k0um4', 100, 240)
 
+# 240415 念波－透視能力…20集《視頻化•異次元－解密》…#北京大學•聖玄#覺曦軒 (7:26)
+# chrome_open('https://www.youtube.com/watch?v=pD5_-I2CgZM', 50, 222)
+
 # 240405 自性而住．緣心行相－與心何異…67集…《解深密經．分別瑜伽品》#北京大學．聖玄 #覺曦軒 (1:46:39)
 # chrome_open('https://www.youtube.com/watch?v=I9l6BlxnoVM', 100, 240)
 
