@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=yMoega0XFMw', 100, 240)
 # 240412 正思惟－心一境性…68集…《解深密經．分別瑜伽品》#北京大學．聖玄 #覺曦軒 (1:11:36)
 chrome_open('https://www.youtube.com/watch?v=tZrXP0k0um4', 100, 240)
 
+# 240417 震撼致詞－科技尋根．三世明證．Master's Powerful Address…02集《視頻化·宗教交流－微享》…#北大聖玄 #覺曦軒 (16:09)
+# chrome_open('https://www.youtube.com/watch?v=b4_spiESh6U', 50, 240)
+
 # 240415 念波－透視能力…20集《視頻化•異次元－解密》…#北京大學•聖玄#覺曦軒 (7:26)
 # chrome_open('https://www.youtube.com/watch?v=pD5_-I2CgZM', 50, 222)
 
@@ -107,9 +110,6 @@ chrome_open('https://www.youtube.com/watch?v=tZrXP0k0um4', 100, 240)
 
 # 240229 見菩提·取證者－增上慢人．To perceive Bodhi as realistic…10-3集《視·聖玄語露》…#北京大學聖玄#覺曦軒 (5:57)
 # chrome_open('https://www.youtube.com/watch?v=R4fcMe0yeys', 50, 178)
-
-# 240228 震撼致詞－科技尋根．三世明證．Master's Powerful Address…02集《視頻化·宗教交流－微享》…#北大聖玄 #覺曦軒 (19:05)
-# chrome_open('https://www.youtube.com/watch?v=hjBT_Y9p8Qk', 50, 228)
 
 # 240227 雙合視頻…2024 2 27重速改 傳說中的…新瓶舊酒 08關鍵出擊 (10:36)
 # chrome_open('https://www.youtube.com/watch?v=z3CCj7x3ZY8', 50, 211)
