@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=yMoega0XFMw', 100, 240)
 # 240412 正思惟－心一境性…68集…《解深密經．分別瑜伽品》#北京大學．聖玄 #覺曦軒 (1:11:36)
 chrome_open('https://www.youtube.com/watch?v=tZrXP0k0um4', 100, 240)
 
+# 240418 解套·生計Free from Dependence of Livelihood…第一名…#31《煩惱·DUCK不必》#北京大學．聖玄#覺曦軒 (14:43)
+# chrome_open('https://www.youtube.com/watch?v=QHRiZ3-Y-0o', 50, 220)
+
 # 240417 震撼致詞－科技尋根．三世明證．Master's Powerful Address…02集《視頻化·宗教交流－微享》…#北大聖玄 #覺曦軒 (16:09)
 # chrome_open('https://www.youtube.com/watch?v=b4_spiESh6U', 50, 240)
 
