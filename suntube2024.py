@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=qbLQdzpRdks', 100, 240)
 # 240420 三毘缽舍那－差異…#69集…《解深密經．分別瑜伽品．跨域》#北京大學．聖玄 #覺曦軒 (2:15:07)
 chrome_open('https://www.youtube.com/watch?v=2U7WO7pzB4k', 100, 240)
 
+# 240422 走投無路．出奇制勝－馬斯克秘笈…75集《5分鐘·奇葩&閨蜜》…#北大聖玄#覺曦軒 (7:22)
+# chrome_open('https://www.youtube.com/watch?v=51-GP4c7Aws', 50, 220)
+
 # 240413 能師子吼－名聞十方…140集《維摩詰經．佛國品》…#北京大學．聖玄#覺曦軒 (1:01:58)
 # chrome_open('https://www.youtube.com/watch?v=yMoega0XFMw', 100, 240)
 

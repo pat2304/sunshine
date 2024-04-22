@@ -28,9 +28,6 @@ from SunFunctions.browser_open import edge_open
 # 221224 不二中道－超越二元對立－新人課…第82集《維摩詰經．弟子品》…#北大聖玄 #覺曦軒 (1:08:16)
 # chrome_open('https://www.youtube.com/watch?v=53HWWXQG1js', 100, 300)
 
-# 221228 走投無路．出奇制勝－馬斯克秘笈…75集《5分鐘·奇葩&閨蜜》…#北大聖玄#覺曦軒 (10:00)
-# chrome_open('https://www.youtube.com/watch?v=7ojrkRWdhvU', 50, 199)
-
 # 221226 解套·羊來了…第18集《煩惱·DUCK不必》…#北大聖玄 #覺曦軒 (5:53)
 # chrome_open('https://www.youtube.com/watch?v=ppYJPlMRT38', 50, 175)
 
@@ -357,9 +354,6 @@ from SunFunctions.browser_open import edge_open
 
 # 220819 世間無常－科學會通 …13-1集《視頻化－聖玄語錄》…#北大聖玄 #覺曦軒 (5:43)
 # chrome_open('https://www.youtube.com/watch?v=RBrjW5WMnjw', 10, 170)
-
-# 220817 走投無路．出奇制勝－馬斯克秘笈…75集《5分鐘·奇葩&閨蜜》…#北大聖玄#覺曦軒 (10:00)
-# chrome_open('https://www.youtube.com/watch?v=7ojrkRWdhvU', 10, 190)
 
 # 220816 探密－異次元物語…04集《視頻化·異次元－解密》》…#北大聖玄#覺曦軒 (13:10)
 # chrome_open('https://www.youtube.com/watch?v=dqGfFAJyV3c', 10, 300)
