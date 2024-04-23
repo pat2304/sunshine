@@ -72,9 +72,6 @@ chrome_open('https://www.youtube.com/watch?v=NxiBm92UkYI', 100, 240)
 # 231129 堅持－成敗分水嶺．Persistence…10-6集《聖玄語露》…#北京大學聖玄 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=Nak3f--hpLM', 50, 203)
 
-# 231128 一樣的年齡•不一樣的精彩．same Age－Different Brilliant…第26集《提月點燈－話創異》…#北大聖玄 #覺曦軒 (17:35)
-# chrome_open('https://www.youtube.com/watch?v=Ib_DGIr_nqM', 50, 210)
-
 # 231127 震撼致詞－科技尋根．三世明證．Master's Powerful Address…02集《視頻化·宗教交流－微享》…#北大聖玄 #覺曦軒 (19:05)
 # chrome_open('https://www.youtube.com/watch?v=hjBT_Y9p8Qk', 50, 228)
 
@@ -337,9 +334,6 @@ chrome_open('https://www.youtube.com/watch?v=NxiBm92UkYI', 100, 240)
 
 # 230713 雙語：見菩提．取證者－增上慢人，10-3集…To perceive Bodhi as realistic - the arrogant person …#北京大學聖玄#覺曦軒 (7:30)
 # chrome_open('https://www.youtube.com/watch?v=-6Z1Z7whgpE', 50, 224)
-
-# 230710 一樣的年齡．不一樣的精彩…第一名…Same Age－Different Brilliance…26集《提月點燈－話創異》…#北大聖玄 #覺曦軒 (21:25)
-# chrome_open('https://www.youtube.com/watch?v=roRN0DP11_U', 50, 212)
 
 # 230701 無以穢食－置於寶器…103集…《維摩詰經．弟子品》《跨領域－重磅對話》…#北京大學聖玄#覺曦軒 (1:57:51)
 # chrome_open('https://www.youtube.com/watch?v=gyVfLTyjo84', 100, 240)
