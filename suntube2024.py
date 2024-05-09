@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=LDaa3I5Qff8', 100, 240)
 # 240503 菩薩十地－佛地十一#71集《解深·地波羅蜜多品．·跨域》#北京大學．聖玄 #覺曦軒 (2:07:50)
 chrome_open('https://www.youtube.com/watch?v=o244jnP9TaQ', 100, 240)
 
+# 240509 大臼齒－與主人對話,Molar－Conversation with the Master．81集《視·微享》…#北大聖玄 #覺曦軒 (10:02)
+# chrome_open('https://www.youtube.com/watch?v=ojX7ZSNhvSE', 50, 200)
+
 # 240429 深入緣起－斷諸邪見．有無二邊…142集《維摩·佛國品·跨域》…#北京大學．聖玄#覺曦軒 (1:42:00)
 # chrome_open('https://www.youtube.com/watch?v=5v-2WTqm-Uo', 100, 240)
 

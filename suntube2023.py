@@ -42,9 +42,6 @@ chrome_open('https://www.youtube.com/watch?v=NxiBm92UkYI', 100, 240)
 # 231212 超度亡靈－生命教育Salvation Ritual－ Life Education…70集《視·微享》…#北京大學聖玄#覺曦軒 (13:55)
 # chrome_open('https://www.youtube.com/watch?v=6qOwuRZI_cQ', 50, 208)
 
-# 231211 大臼齒－與主人對話,Molar－Conversation with the Master．81集《視·微享》…#北大聖玄 #覺曦軒 (8:54)
-# chrome_open('https://www.youtube.com/watch?v=RLiQlvwiXeI', 50, 178)
-
 # 231203 如來身．金剛體－有何疾…123集《維摩·跨》…#北京大學聖玄 #覺曦軒 (1:54:54)
 # chrome_open('https://www.youtube.com/watch?v=B1ybhZa58YQ', 100, 240)
 
@@ -412,9 +409,6 @@ chrome_open('https://www.youtube.com/watch?v=NxiBm92UkYI', 100, 240)
 
 # 230525 了不可得－奢華幸福…11-11集《視•聖玄語露》…#北大聖玄#覺曦軒 (8:03)
 # chrome_open('https://www.youtube.com/watch?v=Qt2PAik-_54', 50, 160)
-
-# 230524 大臼齒－與主人對話…57集《視·微享－節慶篇》…#北大聖玄#覺曦軒 (7:29)
-# chrome_open('https://www.youtube.com/watch?v=WFPrrOS4SmE', 50, 224)
 
 # 230522 驚蟄與未知－曼殊大愛…58集《視·微享－節慶篇》…#北大聖玄#覺曦軒 (5:15)
 # chrome_open('https://www.youtube.com/watch?v=9Hp2suxvihg', 50, 156)
