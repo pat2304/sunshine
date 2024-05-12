@@ -151,9 +151,6 @@ chrome_open('https://www.youtube.com/watch?v=NxiBm92UkYI', 100, 240)
 # 231019 傳說中的…新瓶舊酒．The Legendary…08集《關鍵出擊》…#北大聖玄#覺曦軒 (12:41)
 # chrome_open('https://www.youtube.com/watch?v=ZZGc53Una2Q', 190)
 
-# 231016 震撼重生－师父福临．Inspiring Rebirth,. 27集《視．提月》 (11:06)
-# chrome_open('https://www.youtube.com/watch?v=8jFEjhKRnA4', 50, 221)
-
 # 231007 昇華思惟－解脫諸苦…115集《維摩詰經•跨領域》…#北京大學聖玄 #覺曦軒 (2:00:49)
 # chrome_open('https://www.youtube.com/watch?v=00CFdupiHhQ', 100, 240)
 
@@ -316,9 +313,6 @@ chrome_open('https://www.youtube.com/watch?v=NxiBm92UkYI', 100, 240)
 
 # 230720 雙語：無情有性－生物解…Non-Consciouness with Self-Nature - Biologic Diversity…10-4集《視•聖玄語露》(16:34)
 # chrome_open('https://www.youtube.com/watch?v=vMmZ339d0Us', 50, 197)
-
-# 230717 震撼重生—師父福臨．Inspiring Rebirth – Master Sunshine’s Blessing…第27集《提月點燈－話創異《提月點燈－話創異》…#北大聖玄 #覺曦軒 (12:42)
-# chrome_open('https://www.youtube.com/watch?v=2QF9BK3Ol5E', 50, 190)
 
 # 230708 四行相－苦、空、無常、無我…104集…《維摩詰經．弟子品》《跨領域－重磅對話》…#北京大學聖玄#覺曦軒 (2:26:26)
 # chrome_open('https://www.youtube.com/watch?v=nW9s0m5BwvU', 100, 240)

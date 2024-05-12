@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=6fjJ56IHmxQ', 100, 240)
 # 240504 大醫王療眾病－應病與藥…#143集《維摩詰經．·跨域》#北京大學．聖玄 #覺曦軒 (1;02:28)
 chrome_open('https://www.youtube.com/watch?v=LDaa3I5Qff8', 100, 240)
 
+# 240513 震撼重生—師父福臨Inspiring Rebirth…第一名…27集《提月點燈－話創異》…#北大聖玄 #覺曦軒 (9:14)
+# chrome_open('https://www.youtube.com/watch?v=Fm0PYhcpYI8', 50, 184)
+
 # 240503 菩薩十地－佛地十一#71集《解深·地波羅蜜多品．·跨域》#北京大學．聖玄 #覺曦軒 (2:07:50)
 # chrome_open('https://www.youtube.com/watch?v=o244jnP9TaQ', 100, 240)
 
