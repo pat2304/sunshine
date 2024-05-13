@@ -102,10 +102,6 @@ chrome_open('https://www.youtube.com/watch?v=NxiBm92UkYI', 100, 240)
 # 231114 無情有性－生物解…Non-Consciousness with Self-Nature …10-4集《視•聖玄語露》 …#北京大學聖玄#覺曦軒 (13:28)
 # chrome_open('https://www.youtube.com/watch?v=FFQlYdGQ91g', 50, 202)
 
-# 231113 四種存在力量－有感互異…The Four Forms of existential Power... 17集《視·異次元－解密》…#北京大學聖玄#覺曦軒 (12:16)
-# chrome_open('https://www.youtube.com/watch?v=6r304-cg4CI', 50, 184)
-
-
 # 231106 一針見血．能量高下－新人課(七)．119集…《維摩詰經．跨領域》…#北京大學聖玄 #覺曦軒 (1:35:34)
 # chrome_open('https://www.youtube.com/watch?v=Efmt-D7Pj9A', 100, 240)
 
@@ -192,9 +188,6 @@ chrome_open('https://www.youtube.com/watch?v=NxiBm92UkYI', 100, 240)
 
 # 230928 舐犢情深－師恩難報…Deep Gratitude for Teacher...．75集《視·微享－節慶》…#北大聖玄 #覺曦軒 (8:40)
 # chrome_open('https://www.youtube.com/watch?v=Jb08HZXIBtU', 50, 172)
-
-# 230925 四種存在力量－有感互異…The Four Forms of existential Power.17集《視·異次元－解密》…#北京大學聖玄#覺曦軒 (14:49)
-# chrome_open('https://www.youtube.com/watch?v=M-txijDhBLk', 50, 221)
 
 # 230916 超越假名．離眾過－真出家…112集《維摩·跨領域》…#北京大學聖玄 #覺曦軒 (1:17:02)
 # chrome_open('https://www.youtube.com/watch?v=l_G6Cpzc9hs', 100, 240)
