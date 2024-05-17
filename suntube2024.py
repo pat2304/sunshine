@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=6fjJ56IHmxQ', 100, 240)
 # 240504 大醫王療眾病－應病與藥…#143集《維摩詰經．·跨域》#北京大學．聖玄 #覺曦軒 (1;02:28)
 chrome_open('https://www.youtube.com/watch?v=LDaa3I5Qff8', 100, 240)
 
+# 240516 時間管理－全心管理…Time Management - Mind Management…28-25集《視·教學相長－解深》…#北京大學聖玄 #覺曦軒 (16:48)
+# chrome_open('https://www.youtube.com/watch?v=wPLyAFWFqM8', 50, 201)
+
 # 240514 四種存在力量－有感互異…The Four Forms of existential Power... 17集《視·異次元－解密》…#北京大學聖玄#覺曦軒 (12:15)
 # chrome_open('https://www.youtube.com/watch?v=UaMuegyZx4I', 50, 244)
 
