@@ -286,9 +286,6 @@ chrome_open('https://www.youtube.com/watch?v=NxiBm92UkYI', 100, 240)
 # 230803 堅持－成敗分水嶺…Persistence －The Watersheld of Success and Failure... 10-6集《視·聖玄語露》 (12:15)
 # chrome_open('https://www.youtube.com/watch?v=X4c6GS66Wok', 50, 182)
 
-# 230801 第七末那識－驅動輪迴轉世The eventh Mana Vijnan－Driving Samsara…32-28集《視·教學相長－解深》…#北京大學聖玄 (13:00)
-# chrome_open('https://www.youtube.com/watch?v=QN86LXTZe24', 50, 194)
-
 # 230721 末那識－除名心意識品…31集…《解深密經》《跨領域－重磅對話》…#北京大學聖玄 #覺曦軒 (2:11:34)
 # chrome_open('https://www.youtube.com/watch?v=Ok8YkIMtUp4', 100, 240)
 
