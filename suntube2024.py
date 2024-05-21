@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=h34kWeqoLjI', 100, 240)
 # 240517 諸地四清淨．十一分攝．72集《解深·地波羅蜜多品．·跨域》#北京大學．聖玄 #覺曦軒 (1:56:11)
 chrome_open('https://www.youtube.com/watch?v=iAd-FFWmkFI', 100, 240)
 
+# 240521 擦身而過－500次回眸…61集《視·微享》…#北大聖玄#覺曦軒 (11:00)
+# chrome_open('https://www.youtube.com/watch?v=kogO38NF0sA', 50, 219)
+
 # 240511 無我、造、受－善惡業不亡…144集《維摩詰經．·跨域》#北京大學．聖玄 #覺曦軒 (1:29:51)
 # chrome_open('https://www.youtube.com/watch?v=6fjJ56IHmxQ', 100, 240)
 
