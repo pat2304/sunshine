@@ -168,9 +168,6 @@ chrome_open('https://www.youtube.com/watch?v=NxiBm92UkYI', 100, 240)
 # 230929 淨眼本性．無亂－圓成實性…41集…《解深密經》#北京大學聖玄 #覺曦軒 (2:51:23)
 # chrome_open('https://www.youtube.com/watch?v=rBJaeTpNc90', 100, 240)
 
-# 231005 般若三昧－無念．Prajna Samadhi... 9-1集《視·聖玄語露》…#北京大學聖玄#覺曦軒 (9:25)
-# chrome_open('https://www.youtube.com/watch?v=-5QRGP-HUwE', 50, 187)
-
 # 230923 逆境翻轉．畢竟空－新人課(I)…第113集《維摩·跨領域》…#北京大學聖玄 #覺曦軒 (2:09:33)
 # chrome_open('https://www.youtube.com/watch?v=Rmfz61o7AAk', 100, 240)
 
