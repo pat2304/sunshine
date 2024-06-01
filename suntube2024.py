@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=65W0HSpFecQ', 100, 240)
 # 240526 一音演說法－隨類各得解…146集《維摩詰經．·跨域》#北京大學．聖玄 #覺曦軒 (1:28:18)
 chrome_open('https://www.youtube.com/watch?v=bjaAy9T7pMA', 100, 240)
 
+# 240601 我是EQ大富翁－獻給童貞…60集《視·微享－節慶篇》…#北大聖玄#覺曦軒 (5:21)
+# chrome_open('https://www.youtube.com/watch?v=A6Y9zV688Aw', 50, 320)
+
 # 240525 先勝解行地－後正性離生．73集《解深·地波羅蜜多品．·跨域》#北京大學．聖玄 #覺曦軒 (1:39:47)
 # chrome_open('https://www.youtube.com/watch?v=s1eyjgBlE4o', 100, 240)
 
