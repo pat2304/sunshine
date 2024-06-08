@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=CYShfKkNa1w', 100, 240)
 # 240531 此分滿－一切分皆得圓滿…#74《解深·地波羅蜜多品·跨域》…北京大學．聖玄#覺曦軒 (1:32:52)
 chrome_open('https://www.youtube.com/watch?v=65W0HSpFecQ', 100, 240)
 
+# 240605 法性·法界－異與同．Dharma Nature. Dharma Realm …10-7集《視·聖玄語露》 …#北京大學聖玄#覺曦軒 (12:36)
+# chrome_open('https://www.youtube.com/watch?v=fDp6tpcJWcU', 50, 188)
+
 # 240526 一音演說法－隨類各得解…146集《維摩詰經．·跨域》#北京大學．聖玄 #覺曦軒 (1:28:18)
 # chrome_open('https://www.youtube.com/watch?v=bjaAy9T7pMA', 100, 240)
 
