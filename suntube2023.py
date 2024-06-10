@@ -331,9 +331,6 @@ chrome_open('https://www.youtube.com/watch?v=NxiBm92UkYI', 100, 240)
 # 230616 勝義諦相－遍一切一味相…第26集…《解深密經》《跨領域－重磅對話》…#北京大學聖玄 #覺曦軒 (2:14:21)
 # chrome_open('https://www.youtube.com/watch?v=y-Mhp1wBGKo', 100, 240)
 
-# 230622 風味端午－靜思樂…Dragon Boat Festivel．Tranquil Thought …65集《視·微享》…#北京大學聖玄#覺曦軒 (11:49)
-# chrome_open('https://www.youtube.com/watch?v=9call5xFFqc', 50, 235)
-
 # 230619 解套•聖嬰－燒不停…第一名上榜…第30集《煩惱•DUCK不必》…#北京大學聖玄 #覺曦軒 (9:58)
 # chrome_open('https://www.youtube.com/watch?v=rZwSlqFGtOM', 50, 198)
 
