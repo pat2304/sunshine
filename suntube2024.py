@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=_ip5_pYkFTE', 100, 240)
 # 240607 文殊問－如來成所作事……#74《解深·如來成所作事品·跨域》…北京大學．聖玄#覺曦軒 (1:33:04)
 chrome_open('https://www.youtube.com/watch?v=0NXC6J4aYqk', 100, 240)
 
+# 240611 虛無的真實．Empty Reality…#09《視·關鍵出擊》．#北京大學．聖玄#覺曦軒 (10:08)
+# chrome_open('https://www.youtube.com/watch?v=Ho5WjMciuXQ', 50, 202)
+
 # 240610 風味端午－靜思樂…Dragon Boat Festivel．Tranquil Thought …65集《視·微享》…#北京大學聖玄#覺曦軒 (9:52)
 # chrome_open('https://www.youtube.com/watch?v=X0DgGOkv1mE', 50, 197)
 
