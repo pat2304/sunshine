@@ -6,11 +6,14 @@ from SunFunctions.browser_open import chrome_open
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 240615 出離轉依成滿－法身相…#76《解深密經ん如來成所作事品》…北京大學．聖玄#覺曦軒 (1:35:04)
+chrome_open('https://www.youtube.com/watch?v=uUf1AIQSr8w', 100, 240)
+
 # 240608 成就菩薩淨土－方法論…148集《維摩·佛國品·跨域》》#北京大學．聖玄 #覺曦軒 (1:38:44)
 chrome_open('https://www.youtube.com/watch?v=_ip5_pYkFTE', 100, 240)
 
 # 240607 文殊問－如來成所作事……#74《解深·如來成所作事品·跨域》…北京大學．聖玄#覺曦軒 (1:33:04)
-chrome_open('https://www.youtube.com/watch?v=0NXC6J4aYqk', 100, 240)
+# chrome_open('https://www.youtube.com/watch?v=0NXC6J4aYqk', 100, 240)
 
 # 240611 虛無的真實．Empty Reality…#09《視·關鍵出擊》．#北京大學．聖玄#覺曦軒 (10:08)
 # chrome_open('https://www.youtube.com/watch?v=Ho5WjMciuXQ', 50, 202)
