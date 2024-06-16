@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=uUf1AIQSr8w', 100, 240)
 # 240608 成就菩薩淨土－方法論…148集《維摩·佛國品·跨域》》#北京大學．聖玄 #覺曦軒 (1:38:44)
 chrome_open('https://www.youtube.com/watch?v=_ip5_pYkFTE', 100, 240)
 
+# 240616 壯闊中的溫柔－獻給人父…99集《視·微享－節慶》…#北京大學·聖玄#覺曦軒 (17:09)
+# chrome_open('https://www.youtube.com/watch?v=5HIUV4-pRIo', 50, 205)
+
 # 240607 文殊問－如來成所作事……#74《解深·如來成所作事品·跨域》…北京大學．聖玄#覺曦軒 (1:33:04)
 # chrome_open('https://www.youtube.com/watch?v=0NXC6J4aYqk', 100, 240)
 
