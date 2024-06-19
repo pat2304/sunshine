@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=nhfGLFp61TQ', 100, 240)
 # 240615 出離轉依成滿－法身相…#76《解深密經ん如來成所作事品》…北京大學．聖玄#覺曦軒 (1:35:04)
 chrome_open('https://www.youtube.com/watch?v=uUf1AIQSr8w', 100, 240)
 
+# 240620 不思善•不思惡－本來的面目Neither Good Nor Evil －True Face …9-2集《視•聖玄語露》…#北京大學•聖玄#覺曦軒 (11:14)
+# chrome_open('https://www.youtube.com/watch?v=ORSSbIULg6s', 50, 224)
+
 # 240608 成就菩薩淨土－方法論…148集《維摩·佛國品·跨域》》#北京大學．聖玄 #覺曦軒 (1:38:44)
 # chrome_open('https://www.youtube.com/watch?v=_ip5_pYkFTE', 100, 240)
 
