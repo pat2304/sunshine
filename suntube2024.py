@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=wLjpKVJcY4A', 100, 240)
 # 240618 隨其心淨－則佛土淨…149集《維摩·佛國品·跨域》#北京大學．聖玄 #覺曦軒 (1:01:15)
 chrome_open('https://www.youtube.com/watch?v=nhfGLFp61TQ', 100, 240)
 
+# 240627 起早鳴享－秘笈…14集《視頻化·微享》…#北大聖玄 #覺曦軒 (9:20)
+# chrome_open('https://www.youtube.com/watch?v=hNZuoshv584', 50, 186)
+
 # 240615 出離轉依成滿－法身相…#76《解深密經ん如來成所作事品》…北京大學．聖玄#覺曦軒 (1:35:04)
 # chrome_open('https://www.youtube.com/watch?v=uUf1AIQSr8w', 100, 240)
 
