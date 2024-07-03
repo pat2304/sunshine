@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=wLjpKVJcY4A', 100, 240)
 # 240618 隨其心淨－則佛土淨…149集《維摩·佛國品·跨域》#北京大學．聖玄 #覺曦軒 (1:01:15)
 chrome_open('https://www.youtube.com/watch?v=nhfGLFp61TQ', 100, 240)
 
+# 240703 入定•觀心－然後說法…Concentration • Contemplation －Dharma Talk …10-2集《視•聖玄語露》…#北京大學•聖玄#覺曦軒 (6:20)
+# chrome_open('https://www.youtube.com/watch?v=H8zOW2H5Tmc', 50, 190)
+
 # 240702 暗室明燈—划破病根Darkroom Light ．32集《提月點燈－話創異》... #北京大學•聖玄 #覺曦軒 (13:51)
 # chrome_open('https://www.youtube.com/watch?v=CWz0dFVDQy0', 50, 207)
 
