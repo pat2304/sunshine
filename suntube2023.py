@@ -117,9 +117,6 @@ chrome_open('https://www.youtube.com/watch?v=NxiBm92UkYI', 100, 240)
 # 231102 鍾愛觀音－出家日祝福…21集《視頻化•微享－节庆篇》…#北大聖玄 #覺曦軒 (5:45)
 # chrome_open('https://www.youtube.com/watch?v=Yc0J3rhkM2c', 50, 171)
 
-# 231101 馳騁田獵．心發狂－時代心聲…10-1集《視•聖玄語露》…#北大聖玄 #覺曦軒 (9:59)
-# chrome_open('https://www.youtube.com/watch?v=uNdwCRknKXE', 50, 198)
-
 # 231030 生與死－同一連線．Life and Death－Two sides of One Coin．16集《視頻化•異次元－解密》…#北京大學聖玄#覺曦軒 (13:42)
 # chrome_open('https://www.youtube.com/watch?v=CbV7W7gLp2o', 50, 205)
 
@@ -318,9 +315,6 @@ chrome_open('https://www.youtube.com/watch?v=NxiBm92UkYI', 100, 240)
 
 # 230617 諸法幻化相－應無所懼…102集…《維摩詰經．弟子品》《跨領域對話》…#北京大學聖玄#覺曦軒 (1:28:23)
 # chrome_open('https://www.youtube.com/watch?v=QZUd-n6qzIo', 100, 240)
-
-# 230629 馳騁田獵．心發狂－時代心聲…第10-1集…《視．聖玄語露》…#北京大學聖玄#覺曦軒 (11:38)
-# chrome_open('https://www.youtube.com/watch?v=YN-a8A3soVE', 50, 173)
 
 # 230626 生命探索－國際化耕耘．Quest for Life - Cultivating Internationalization…雙語第25集《提月點燈－話創異》…#北大聖玄 #覺曦軒 (22:19)
 # chrome_open('https://www.youtube.com/watch?v=aqYKqGwF1ew', 50, 222)
