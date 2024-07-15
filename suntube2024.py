@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=lLwJXt5Q0Gc', 100, 240)
 # 240711 人我、法我－來世流轉因《解深．如來成所作．跨域》…北京大學．聖玄#覺曦軒 (1:52:49)
 chrome_open('https://www.youtube.com/watch?v=7BOiSGpWYnc', 100, 240)
 
+# 240715 量子糾纏－超越時空束縛 Quantum Entanglement …21集《視頻化•異次元－解密》…#北京大學•聖玄#覺曦軒 (9:35)
+# chrome_open('https://www.youtube.com/watch?v=MlkQghqOsvg', 50, 191)
+
 # 240705 遠塵離垢－得法眼淨…#151《維摩•佛國品•跨域》．#北京大學．聖玄#覺曦軒 (1:19:55)
 # chrome_open('https://www.youtube.com/watch?v=2VPjsEwbkkA', 100, 240)
 
