@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=lLwJXt5Q0Gc', 100, 240)
 # 240711 人我、法我－來世流轉因《解深．如來成所作．跨域》…北京大學．聖玄#覺曦軒 (1:52:49)
 chrome_open('https://www.youtube.com/watch?v=7BOiSGpWYnc', 100, 240)
 
+# 240717 見菩提•取證者－增上慢人．To perceive Bodhi as realistic…10-3集《視•聖玄語露》…#北京大學聖玄#覺曦軒 (5:09)
+# chrome_open('https://www.youtube.com/watch?v=q5OYXLBGWU4', 50, 304)
+
 # 240715 量子糾纏－超越時空束縛 Quantum Entanglement …21集《視頻化•異次元－解密》…#北京大學•聖玄#覺曦軒 (9:35)
 # chrome_open('https://www.youtube.com/watch?v=MlkQghqOsvg', 50, 191)
 
