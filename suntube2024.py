@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=lLwJXt5Q0Gc', 100, 240)
 # 240711 人我、法我－來世流轉因《解深．如來成所作．跨域》…北京大學．聖玄#覺曦軒 (1:52:49)
 chrome_open('https://www.youtube.com/watch?v=7BOiSGpWYnc', 100, 240)
 
+# 240720 震撼致詞－科技尋根．三世明證．Master's Powerful Address…02集《視頻化•宗教交流－微享》…#北京大學•聖玄 #覺曦軒 (15:57)
+# chrome_open('https://www.youtube.com/watch?v=wagV3maPD88', 50, 239)
+
 # 240717 見菩提•取證者－增上慢人．To perceive Bodhi as realistic…10-3集《視•聖玄語露》…#北京大學聖玄#覺曦軒 (5:09)
 # chrome_open('https://www.youtube.com/watch?v=q5OYXLBGWU4', 50, 304)
 
@@ -153,9 +156,6 @@ chrome_open('https://www.youtube.com/watch?v=7BOiSGpWYnc', 100, 240)
 # 240418 解套·生計Free from Dependence of Livelihood…第一名…#31《煩惱·DUCK不必》#北京大學．聖玄#覺曦軒 (14:43)
 # chrome_open('https://www.youtube.com/watch?v=QHRiZ3-Y-0o', 50, 220)
 
-# 240417 震撼致詞－科技尋根．三世明證．Master's Powerful Address…02集《視頻化·宗教交流－微享》…#北大聖玄 #覺曦軒 (16:09)
-# chrome_open('https://www.youtube.com/watch?v=b4_spiESh6U', 50, 240)
-
 # 240415 念波－透視能力…20集《視頻化•異次元－解密》…#北京大學•聖玄#覺曦軒 (7:26)
 # chrome_open('https://www.youtube.com/watch?v=pD5_-I2CgZM', 50, 222)
 
@@ -251,9 +251,6 @@ chrome_open('https://www.youtube.com/watch?v=7BOiSGpWYnc', 100, 240)
 
 # 240229 見菩提·取證者－增上慢人．To perceive Bodhi as realistic…10-3集《視·聖玄語露》…#北京大學聖玄#覺曦軒 (5:57)
 # chrome_open('https://www.youtube.com/watch?v=R4fcMe0yeys', 50, 178)
-
-# 240228 震撼致詞－科技尋根．三世明證．Master's Powerful Address…02集《視頻化·宗教交流－微享》…#北大聖玄 #覺曦軒 (19:05)
-# chrome_open('https://www.youtube.com/watch?v=hjBT_Y9p8Qk', 50, 228)
 
 # 240227 雙合視頻…2024 2 27重速改 傳說中的…新瓶舊酒 08關鍵出擊 (10:36)
 # chrome_open('https://www.youtube.com/watch?v=z3CCj7x3ZY8', 50, 211)
