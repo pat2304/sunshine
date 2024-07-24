@@ -265,9 +265,6 @@ chrome_open('https://www.youtube.com/watch?v=NxiBm92UkYI', 100, 240)
 # 230807 超度亡靈－生命教育Salvation Ritual－ Life Education…70集《視•微享－節慶》…#北京大學聖玄#覺曦軒 (16:59)
 # chrome_open('https://www.youtube.com/watch?v=evfo0CMXBRA', 50, 202)
 
-# 230805 雙語…耕心有成．觀音圓成集…Cultivation & Avalokitesvara's Pecfection…69集…#北京大學聖玄#覺曦軒 (8:45)
-# chrome_open('https://www.youtube.com/watch?v=plp3JG30wj8', 50, 175)
-
 # 230728 阿陀那識－三義…32集…《解深密經》《跨領域－重磅對話》…#北京大學聖玄 #覺曦軒 (2:39:58)
 # chrome_open('https://www.youtube.com/watch?v=gRdv2BqE7Vk', 100, 240)
 

@@ -446,10 +446,6 @@ from SunFunctions.browser_open import edge_open
 # chrome_open('https://www.youtube.com/watch?v=R55B_yQASn4', 10, 500)
 # chrome_open('https://www.youtube.com/watch?v=R55B_yQASn4', 10, 200, 0)
 
-# 220717 《視頻化·微享》🌺🌺主題：耕心有成·正道圓成－觀音自在解脫 (4:48)
-# chrome_open('https://www.youtube.com/watch?v=UYwuW040ci8', 10, 240)
-# edge_open('https://www.youtube.com/watch?v=UYwuW040ci8', 10, 240)
-
 # 220716 《5分鐘‧奇葩&閨蜜》冷眼紅塵－東方不敗…第68集 (5:42)
 # chrome_open('https://www.youtube.com/watch?v=ml0JabzkPEc', 10, 300)
 # fox_open('https://www.youtube.com/watch?v=ml0JabzkPEc', 10, 300)
