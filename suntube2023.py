@@ -12,9 +12,6 @@ chrome_open('https://www.youtube.com/watch?v=-bV34FV-raA', 100, 240)
 # 231229 法無我性－名勝義．無自性性…54集《解深·跨域》…#北京大學聖玄 #覺曦軒》 (1:26:30)
 chrome_open('https://www.youtube.com/watch?v=NxiBm92UkYI', 100, 240)
 
-# 240103 去來自由．心體無滯－般若No Stagnation at all －Prajna…10-12集《視•聖玄語露》…#北京大學聖玄#覺曦軒 (9:19)
-# chrome_open('https://www.youtube.com/watch?v=J_f4HKcesXM', 50, 185)
-
 # 231223 佛出五濁惡世－斯法．度眾…126集《維摩·跨域》…#北京大學聖玄 #覺曦軒 (1:32:53)
 # chrome_open('https://www.youtube.com/watch?v=Rf58R3tWV68', 100, 240)
 
@@ -89,9 +86,6 @@ chrome_open('https://www.youtube.com/watch?v=NxiBm92UkYI', 100, 240)
 
 # 231116 起死回生－綻放生命潛能…Come Back to Life.30集《提月點燈－話創異》…#北大聖玄 #覺曦軒 (15:48)
 # chrome_open('https://www.youtube.com/watch?v=v3UDkODn9t0', 50, 236)
-
-# 231115 超度亡靈－生命教育Salvation Ritual－ Life Education…70集《視·微享》…#北京大學聖玄#覺曦軒 (13:55)
-# chrome_open('https://www.youtube.com/watch?v=6qOwuRZI_cQ', 50, 208)
 
 # 231114 無情有性－生物解…Non-Consciousness with Self-Nature …10-4集《視•聖玄語露》 …#北京大學聖玄#覺曦軒 (13:28)
 # chrome_open('https://www.youtube.com/watch?v=FFQlYdGQ91g', 50, 202)
@@ -261,9 +255,6 @@ chrome_open('https://www.youtube.com/watch?v=NxiBm92UkYI', 100, 240)
 
 # 230808 壯闊的愛－外一章…71集《視•微享．節慶》…#北京大學聖玄#覺曦軒 (5:13)
 # chrome_open('https://www.youtube.com/watch?v=V14dQ4RKYhg', 50, 155)
-
-# 230807 超度亡靈－生命教育Salvation Ritual－ Life Education…70集《視•微享－節慶》…#北京大學聖玄#覺曦軒 (16:59)
-# chrome_open('https://www.youtube.com/watch?v=evfo0CMXBRA', 50, 202)
 
 # 230728 阿陀那識－三義…32集…《解深密經》《跨領域－重磅對話》…#北京大學聖玄 #覺曦軒 (2:39:58)
 # chrome_open('https://www.youtube.com/watch?v=gRdv2BqE7Vk', 100, 240)

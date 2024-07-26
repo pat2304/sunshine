@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=lLwJXt5Q0Gc', 100, 240)
 # 240711 人我、法我－來世流轉因《解深．如來成所作．跨域》…北京大學．聖玄#覺曦軒 (1:52:49)
 chrome_open('https://www.youtube.com/watch?v=7BOiSGpWYnc', 100, 240)
 
+# 240726 超度亡靈－生命教育Salvation Ritual－ Life Education…70集《視•微享》…#北京大學•聖玄#覺曦軒 (12:08)
+# chrome_open('https://www.youtube.com/watch?v=ygDPgvA4_6I', 50, 240)
+
 # 240724 耕心有成．觀音圓成 Cultivation & Avalokitesvara's Perfection…69集《視•微享》…#北京大學聖玄#覺曦軒 (6:11)
 # chrome_open('https://www.youtube.com/watch?v=-DP71OOEOxU', 50, 185)
 
