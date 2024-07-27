@@ -6,11 +6,14 @@ from SunFunctions.browser_open import chrome_open
 # 220919 關鍵出擊－文殊八字精要…第3集《關鍵出擊》…#北大聖玄#覺曦軒 (10:12)
 # chrome_open('https://www.youtube.com/watch?v=YeWu9gP8zP8', 100, 203)
 
+# 240727 #03…唯識－與命運共舞…《唯識概論．跨域》…#北京大學聖玄#覺曦軒 (1:13:56)
+chrome_open('https://www.youtube.com/watch?v=5Blbjq7Ed4E', 100, 240)
+
 # 240713 #01…唯識－我 & 大時代…《唯識概概．意識時代．金鑰》…#北京大學聖玄#覺曦軒 (1:41:44)
 chrome_open('https://www.youtube.com/watch?v=lLwJXt5Q0Gc', 100, 240)
 
 # 240711 人我、法我－來世流轉因《解深．如來成所作．跨域》…北京大學．聖玄#覺曦軒 (1:52:49)
-chrome_open('https://www.youtube.com/watch?v=7BOiSGpWYnc', 100, 240)
+# chrome_open('https://www.youtube.com/watch?v=7BOiSGpWYnc', 100, 240)
 
 # 240726 超度亡靈－生命教育Salvation Ritual－ Life Education…70集《視•微享》…#北京大學•聖玄#覺曦軒 (12:08)
 # chrome_open('https://www.youtube.com/watch?v=ygDPgvA4_6I', 50, 240)
