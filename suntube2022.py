@@ -181,9 +181,6 @@ from SunFunctions.browser_open import edge_open
 # 221025 不確定性－上帝不擲骰子…08集《視頻化·異次元－解密》…#北大聖玄#覺曦軒 (7:36)
 # chrome_open('https://www.youtube.com/watch?v=IJGv9-Cgtsg', 50, 227)
 
-# 221016 花開與花落…01集《視．碰撞的睿智》…#北大聖玄 #覺曦軒 (9:35)
-# chrome_open('https://www.youtube.com/watch?v=109mzXFEobE', 50, 190)
-
 # 221022 《意識．腦．止觀－共鳴》預告篇…第86集《5分鐘·奇葩&閨蜜》…#北大聖玄 #覺曦軒 (8:04)
 # chrome_open('https://www.youtube.com/watch?v=PGRWUPcA44U', 50, 160)
 
