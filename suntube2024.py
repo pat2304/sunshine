@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=5Blbjq7Ed4E', 100, 240)
 # 240713 #01…唯識－我 & 大時代…《唯識概概．意識時代．金鑰》…#北京大學聖玄#覺曦軒 (1:41:44)
 chrome_open('https://www.youtube.com/watch?v=lLwJXt5Q0Gc', 100, 240)
 
+# 240802 雙語．#10-4…無情有性－生物解…Non-Consciousness with Self-Nature …《視•聖玄語露》 …#北京大學聖玄#覺曦軒 (11:45)
+# chrome_open('https://www.youtube.com/watch?v=xIoYhpgPcak', 50, 234)
+
 # 240801 雙合視頻…2024 8 1動漫速…#110 70…男人眼淚－師父拈花微笑 …《視·教學相長·維摩》 (12:55)
 # chrome_open('https://www.youtube.com/watch?v=zEtXpp3iK3Y', 50, 193)
 
