@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=5Blbjq7Ed4E', 100, 240)
 # 240713 #01…唯識－我 & 大時代…《唯識概概．意識時代．金鑰》…#北京大學聖玄#覺曦軒 (1:41:44)
 chrome_open('https://www.youtube.com/watch?v=lLwJXt5Q0Gc', 100, 240)
 
+# 240806 雙語：#08…突破重圍－1000萬時代睿智 Breaking Through the Siege...《shorts•綜合》…#北京大學•聖玄 #覺曦軒 (2:51)
+# chrome_open('https://www.youtube.com/watch?v=kWBmaOh7hhk', 50, 170)
+
 # 240805 (雙語)一步錯－步步錯One Wrong Step－Wrong Steps Follow…29集《提月點燈－話創異》…#北京大學聖玄#覺曦軒 (12:05)
 # chrome_open('https://www.youtube.com/watch?v=pFqN-CUchOk', 50, 181)
 
