@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=5Blbjq7Ed4E', 100, 240)
 # 240713 #01…唯識－我 & 大時代…《唯識概概．意識時代．金鑰》…#北京大學聖玄#覺曦軒 (1:41:44)
 chrome_open('https://www.youtube.com/watch?v=lLwJXt5Q0Gc', 100, 240)
 
+# 240805 (雙語)一步錯－步步錯One Wrong Step－Wrong Steps Follow…29集《提月點燈－話創異》…#北京大學聖玄#覺曦軒 (12:05)
+# chrome_open('https://www.youtube.com/watch?v=pFqN-CUchOk', 50, 181)
+
 # 240802 雙語．#10-4…無情有性－生物解…Non-Consciousness with Self-Nature …《視•聖玄語露》 …#北京大學聖玄#覺曦軒 (11:45)
 # chrome_open('https://www.youtube.com/watch?v=xIoYhpgPcak', 50, 234)
 
@@ -188,9 +191,6 @@ chrome_open('https://www.youtube.com/watch?v=lLwJXt5Q0Gc', 100, 240)
 
 # 240409 與生物鐘共眠 Sleeping alongside the Circadian Clock…第93集《5分鐘·奇葩 & 閨蜜》…#北大聖玄#覺曦軒 (14:27)
 # chrome_open('https://www.youtube.com/watch?v=o4qW6SdFMiE', 50, 216)
-
-# 240408 一步錯－步步錯One Wrong Step－Wrong Steps Follow…29集《提月點燈－話創異》…#北京大學聖玄#覺曦軒 (12:04)
-# chrome_open('https://www.youtube.com/watch?v=C1PE_GZp_1k', 50, 240)
 
 # 240406 搶救現實困境－大悲水．放生…#06集《關鍵出擊》…#北大聖玄#覺曦軒 (33:59)
 # chrome_open('https://www.youtube.com/watch?v=2jdTJ_XAa-k', 50, 226)
