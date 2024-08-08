@@ -253,9 +253,6 @@ chrome_open('https://www.youtube.com/watch?v=NxiBm92UkYI', 100, 240)
 # 230810 法性．法界－異與同Dharma Nature, Dharma…10-7集…《視·聖玄語露》 …#北京大學聖玄#覺曦軒 (15:15)
 # chrome_open('https://www.youtube.com/watch?v=hG4iN3-PIZw', 50, 227)
 
-# 230808 壯闊的愛－外一章…71集《視•微享．節慶》…#北京大學聖玄#覺曦軒 (5:13)
-# chrome_open('https://www.youtube.com/watch?v=V14dQ4RKYhg', 50, 155)
-
 # 230728 阿陀那識－三義…32集…《解深密經》《跨領域－重磅對話》…#北京大學聖玄 #覺曦軒 (2:39:58)
 # chrome_open('https://www.youtube.com/watch?v=gRdv2BqE7Vk', 100, 240)
 
