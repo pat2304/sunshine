@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=5Blbjq7Ed4E', 100, 240)
 # 240713 #01…唯識－我 & 大時代…《唯識概概．意識時代．金鑰》…#北京大學聖玄#覺曦軒 (1:41:44)
 chrome_open('https://www.youtube.com/watch?v=lLwJXt5Q0Gc', 100, 240)
 
+# 240810 #73…兩情繾綣－話七夕 The Mutual Affection...《視．微享－節慶》…#北京大学•聖玄 #覺曦軒 (6:44)
+# chrome_open('https://www.youtube.com/watch?v=tKuJhqJCeYA', 50, 201)
+
 # 240808 雙語：#100…台灣父親節－壯闊的愛Taiwan Father's Day …《視•微享—節慶》…#北京大學•聖玄#覺曦軒 (8:23)
 # chrome_open('https://www.youtube.com/watch?v=94qBjwZwdtA', 50, 250)
 
