@@ -12,6 +12,9 @@ chrome_open('https://www.youtube.com/watch?v=5Blbjq7Ed4E', 100, 240)
 # 240713 #01…唯識－我 & 大時代…《唯識概概．意識時代．金鑰》…#北京大學聖玄#覺曦軒 (1:41:44)
 chrome_open('https://www.youtube.com/watch?v=lLwJXt5Q0Gc', 100, 240)
 
+# 240812 雙語：#30…起死回生－綻放生命潛能…Come Back to Life《提月點燈－話創異》…#北京大學•聖玄 #覺曦軒 (13:48)
+# chrome_open('https://www.youtube.com/watch?v=626OTpzT7Vo', 50, 206)
+
 # 240810 #73…兩情繾綣－話七夕 The Mutual Affection...《視．微享－節慶》…#北京大学•聖玄 #覺曦軒 (6:44)
 # chrome_open('https://www.youtube.com/watch?v=tKuJhqJCeYA', 50, 201)
 
@@ -212,9 +215,6 @@ chrome_open('https://www.youtube.com/watch?v=lLwJXt5Q0Gc', 100, 240)
 
 # 240403 善終－人人必修學分A Peaceful Passing …72集《視·微享》 (12:30)
 # chrome_open('https://www.youtube.com/watch?v=SmFIdvG0mN8', 50, 187)
-
-# 240402 起死回生－綻放生命潛能…Come Back to Life.30集《提月點燈－話創異》…#北大聖玄 #覺曦軒 (13:47)
-# chrome_open('https://www.youtube.com/watch?v=PoQYMYp6OxY', 50, 206)
 
 # 240401 輪迴轉世－五大元素Samsara－The Five Elements…15集《視頻化•異次元－解密》…#北大聖玄#覺曦軒 (13:36)
 # chrome_open('https://www.youtube.com/watch?v=SJqSBV011Vc', 50, 203)
