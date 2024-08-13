@@ -220,9 +220,6 @@ chrome_open('https://www.youtube.com/watch?v=NxiBm92UkYI', 100, 240)
 # 230824 無心 vs. 纏繞－融攝…Transcendence vs. Entanglement－Assimilation…10-9集《視·聖玄語露》 …#北京大學聖玄#覺曦軒 (13:01)
 # chrome_open('https://www.youtube.com/watch?v=oEPaGEM2E04', 50, 194)
 
-# 230821 輪迴轉世－五大元素....Samsara－The Five Elements…15集《視頻化•異次元－解密》…#北大聖玄#覺曦軒 (19:04)
-# chrome_open('https://www.youtube.com/watch?v=0CrSHbal8X0', 50, 228)
-
 # 230812 不在內、外、中間－不出於如…107集…《維摩詰經．弟子品》《跨領域－重磅對話》…#北京大學聖玄 #覺曦軒 (1:34:34)
 # chrome_open('https://www.youtube.com/watch?v=LpDUyfZmAiw', 100, 240)
 
